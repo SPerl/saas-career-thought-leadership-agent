@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "ede3c3382a26",
-      "title": "MCP solved tool calling. A2A solved coordination. What solves transport?",
-      "url": "https://venturebeat.com/orchestration/mcp-solved-tool-calling-a2a-solved-coordination-what-solves-transport",
-      "summary": "The history of distributed computing is one of protocol proliferation followed by consolidation. Common Object Request Broker Architecture (CORBA), Distributed Component Object Model (DCOM), Java remote method invocation (RMI), and early simple object access protocol (SOAP) competed for the enterprise integration market in the late 1990s before representational state transfer (REST) quietly won by being simpler and HTTP-native. Extensible Messaging and Presence Protocol (XMPP), Internet Relay Chat (IRC), and a dozen proprietary protocols fragmented real-time messaging before MG telemetry trans",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-06-14T04:00:00+00:00",
-      "fetched_at": "2026-06-15T05:20:48.730517+00:00"
-    },
-    {
       "id": "84ec2f274512",
       "title": "I saved about $16,000 by not using a traditional agent to sell my home. I used an AI-powered online service instead.",
       "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
@@ -119,6 +109,16 @@
       "score": 1.0,
       "published": "2026-06-14T23:53:38+00:00",
       "fetched_at": "2026-06-15T05:20:50.051789+00:00"
+    },
+    {
+      "id": "ad3235a7a51a",
+      "title": "Vietnam has bold plans for its economic future. It will need U.S. tech, capital, and speed to make them happen",
+      "url": "https://fortune.com/2026/06/14/vietnam-us-asean-business-council-economic-growth/",
+      "summary": "Vietnam already has the attention of global business, but it needs to convert that interest into committed capital.",
+      "source": "Fortune",
+      "score": 1.0,
+      "published": "2026-06-14T21:00:00+00:00",
+      "fetched_at": "2026-06-15T05:21:09.509044+00:00"
     }
   ],
   "history": [
@@ -133,7 +133,8 @@
     "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
     "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
     "https://www.fastcompany.com/91557210/apple-ios-27-siri-ai-artificial-intelligence-hardware-business-brand-company-future?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.forbes.com/sites/erikkain/2026/06/14/from-season-4-episode-8-review/"
+    "https://www.forbes.com/sites/erikkain/2026/06/14/from-season-4-episode-8-review/",
+    "https://fortune.com/2026/06/14/vietnam-us-asean-business-council-economic-growth/"
   ],
-  "generated_at": "2026-06-15T05:20:53.629653+00:00"
+  "generated_at": "2026-06-15T05:21:10.094937+00:00"
 }
