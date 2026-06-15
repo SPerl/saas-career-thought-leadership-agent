@@ -11,16 +11,6 @@
       "fetched_at": "2026-06-15T05:20:52.884585+00:00"
     },
     {
-      "id": "58b7eafc0bf9",
-      "title": "Here\u2019s How AI Agents Can Protect EV Chargers",
-      "url": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
-      "summary": "An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.",
-      "source": "Wired",
-      "score": 4.0,
-      "published": "2026-06-13T06:30:00+00:00",
-      "fetched_at": "2026-06-15T05:20:50.194676+00:00"
-    },
-    {
       "id": "57f9a58baf1a",
       "title": "Hiring Risks vs. Hiring Flags.  Make Sure You Get it Right.",
       "url": "https://www.saastr.com/hiring-risks-vs-hiring-flags/",
@@ -39,16 +29,6 @@
       "score": 2.2,
       "published": "2026-06-14T08:00:00+00:00",
       "fetched_at": "2026-06-15T05:20:53.229953+00:00"
-    },
-    {
-      "id": "4329a5d6d8fc",
-      "title": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order \u2014 what enterprises should do",
-      "url": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
-      "summary": "The US government last night issued an unprecedented export control directive ordering Anthropic to immediately suspend all access to its top-tier Claude Fable 5 and Claude Mythos 5 models for foreign nationals, citing unspecified national security authorities. In response, Anthropic has blocked all public access to both models, globally \u2014 meaning no users around the world can access them at this time, even paying enterprise customers and Anthropic employees internally. It&#x27;s a huge blow and reversal following the public release of Fable/Mythos 5 just three days prior. Current Fable 5/Myth",
-      "source": "VentureBeat",
-      "score": 2.2,
-      "published": "2026-06-13T12:24:00+00:00",
-      "fetched_at": "2026-06-15T05:20:48.730616+00:00"
     },
     {
       "id": "fa9d3b141fc0",
@@ -81,26 +61,6 @@
       "fetched_at": "2026-06-15T05:20:46.679161+00:00"
     },
     {
-      "id": "748265de56e1",
-      "title": "OpenAI faces investigation from state attorneys general",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-      "source": "TechCrunch AI",
-      "score": 1.2,
-      "published": "2026-06-13T16:47:18+00:00",
-      "fetched_at": "2026-06-15T05:20:46.679230+00:00"
-    },
-    {
-      "id": "f62f3e5ede4e",
-      "title": "Apple just dropped these three hidden clues about where the company is heading, thanks to AI",
-      "url": "https://www.fastcompany.com/91557210/apple-ios-27-siri-ai-artificial-intelligence-hardware-business-brand-company-future?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "On Monday, Apple held its annual Worldwide Developers Conference keynote, where it showcased the next versions of the operating systems that power its devices, including iOS 27, macOS 27, and iPadOS 27. The thing is\u2014and I say this as an Apple fan\u2014unless you\u2019re a parent or really care about artificial intelligence, the keynote was pretty meh.\n\n\n\nAfter spending about 10 minutes discussing minor operating system tweaks and improvements, Apple dedicated the next 10 minutes to a single set of features\u2014new parental controls\u2014and then spent the next 40 minutes showing off its new artificial intelligen",
-      "source": "Fast Company Tech",
-      "score": 1.1,
-      "published": "2026-06-13T09:00:00+00:00",
-      "fetched_at": "2026-06-15T05:20:53.230250+00:00"
-    },
-    {
       "id": "ea4a1d260191",
       "title": "\u2018From\u2019 Season 4, Episode 8 Recap And Review: Landscaping Is Not A Plan",
       "url": "https://www.forbes.com/sites/erikkain/2026/06/14/from-season-4-episode-8-review/",
@@ -119,6 +79,46 @@
       "score": 1.0,
       "published": "2026-06-14T21:00:00+00:00",
       "fetched_at": "2026-06-15T05:21:09.509044+00:00"
+    },
+    {
+      "id": "3286aefa0b66",
+      "title": "Vibe coding can build your pipeline. It can't explain it six months later",
+      "url": "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
+      "summary": "AI coding agents are rapidly accelerating data engineering by generating transformations, pipelines, orchestration workflows, validation tests, and infrastructure configurations from prompts. However, enterprise data platforms have long operated across fragmented systems owned by different teams and built on different technologies. As these systems evolve independently, organizations increasingly struggle with inconsistent business logic, duplicated implementations, difficult downstream impact analysis, and hidden dependencies across the platform. The rise of vibe coding can further amplify th",
+      "source": "VentureBeat",
+      "score": 9.9,
+      "published": "2026-06-15T15:14:57+00:00",
+      "fetched_at": "2026-06-15T19:49:45.446406+00:00"
+    },
+    {
+      "id": "f85f662961de",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-06-15T14:34:45+00:00",
+      "fetched_at": "2026-06-15T19:49:43.745564+00:00"
+    },
+    {
+      "id": "49b22b436dc0",
+      "title": "6 skills everyone needs in the AI era",
+      "url": "https://www.fastcompany.com/91557323/6-skills-everyone-needs-in-the-ai-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Eighteen months ago, most business leaders were still debating whether AI could write a convincingly human-sounding email without hallucinating. Today, artificial intelligence systems are managing codebases, conducting research, screening contracts, and operating as autonomous agents inside enterprise workflows. Some capabilities that senior technologists expected to arrive in three to five years have arrived in months. At the same time, capability scaling in other areas has lagged expectations. No one working seriously in this space is confident they know what the technology will be able to d",
+      "source": "Fast Company Tech",
+      "score": 6.6,
+      "published": "2026-06-15T09:00:00+00:00",
+      "fetched_at": "2026-06-15T19:49:49.772063+00:00"
+    },
+    {
+      "id": "dd19e3b269a9",
+      "title": "1.5 million Defense Department workers are now using the military's generative AI every day, Pentagon official says",
+      "url": "https://www.businessinsider.com/user-increase-dod-workers-using-military-ai-program-daily-official-2026-6",
+      "summary": "Around 80,000 employees used GenAI.mil when it launched in December. That number has since skyrocketed.",
+      "source": "Business Insider",
+      "score": 6.0,
+      "published": "2026-06-15T19:38:09+00:00",
+      "fetched_at": "2026-06-15T19:49:49.514936+00:00"
     }
   ],
   "history": [
@@ -134,7 +134,11 @@
     "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
     "https://www.fastcompany.com/91557210/apple-ios-27-siri-ai-artificial-intelligence-hardware-business-brand-company-future?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/sites/erikkain/2026/06/14/from-season-4-episode-8-review/",
-    "https://fortune.com/2026/06/14/vietnam-us-asean-business-council-economic-growth/"
+    "https://fortune.com/2026/06/14/vietnam-us-asean-business-council-economic-growth/",
+    "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
+    "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "https://www.fastcompany.com/91557323/6-skills-everyone-needs-in-the-ai-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.businessinsider.com/user-increase-dod-workers-using-military-ai-program-daily-official-2026-6"
   ],
-  "generated_at": "2026-06-15T05:21:10.094937+00:00"
+  "generated_at": "2026-06-15T19:49:49.962100+00:00"
 }
