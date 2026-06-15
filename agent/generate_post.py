@@ -5,25 +5,26 @@ Accepts bullet points or prose as opinion input.
 """
 
 import os
+import json
 import anthropic
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 VOICE_PROFILE_PATH = ROOT / "voice_profile.md"
 
+# Current model strings. Summary is a trivial task -> cheaper/faster Sonnet.
+# Post generation -> Opus for voice quality.
+SUMMARY_MODEL = "claude-sonnet-4-6"
+POST_MODEL = "claude-opus-4-8"
+
 def load_voice_profile():
     with open(VOICE_PROFILE_PATH) as f:
         return f.read()
 
 def generate_summary(article: dict) -> str:
-    """
-    Generates a concise 3-4 sentence summary of the article
-    to help the user quickly understand what it's about.
-    """
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-
     message = client.messages.create(
-        model="claude-opus-4-5",
+        model=SUMMARY_MODEL,
         max_tokens=300,
         messages=[{
             "role": "user",
@@ -40,11 +41,6 @@ Content: {article.get('summary', '')}"""
 
 
 def generate_posts(article: dict, opinion: str) -> dict:
-    """
-    article: dict with keys: title, url, summary, source
-    opinion: raw opinion text or bullet points from the user
-    Returns: {"linkedin": str, "facebook": str}
-    """
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     voice_profile = load_voice_profile()
 
@@ -86,18 +82,16 @@ Generate both posts. Return ONLY this JSON structure:
 }}"""
 
     message = client.messages.create(
-        model="claude-opus-4-5",
+        model=POST_MODEL,
         max_tokens=1500,
         messages=[{"role": "user", "content": user_prompt}],
         system=system_prompt,
     )
 
-    import json
     raw = message.content[0].text.strip()
     if raw.startswith("```"):
         raw = raw.split("```")[1]
         if raw.startswith("json"):
             raw = raw[4:]
     raw = raw.strip()
-
     return json.loads(raw)
