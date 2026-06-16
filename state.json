@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "84ec2f274512",
-      "title": "I saved about $16,000 by not using a traditional agent to sell my home. I used an AI-powered online service instead.",
-      "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
-      "summary": "A retiree sold her condo using an AI platform, challenging traditional real estate norms. She's never liked paying commission fees.",
-      "source": "Business Insider",
-      "score": 4.0,
-      "published": "2026-06-14T12:37:02+00:00",
-      "fetched_at": "2026-06-15T05:20:52.884585+00:00"
-    },
-    {
-      "id": "57f9a58baf1a",
-      "title": "Hiring Risks vs. Hiring Flags.  Make Sure You Get it Right.",
-      "url": "https://www.saastr.com/hiring-risks-vs-hiring-flags/",
-      "summary": "My biggest hiring mistake I've made past 5 years that I never made before: I hired folks who didn't really, really, really want the job So far, none have worked out &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) April 16, 2025 &#160; During the Boom Times of late &#8217;20-early &#8217;22, we all often confused Taking Risks in... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-06-14T12:00:00+00:00",
-      "fetched_at": "2026-06-15T05:20:49.154420+00:00"
-    },
-    {
-      "id": "3872e7cd7e0a",
-      "title": "Your business doesn\u2019t need random acts of AI. Here\u2019s why",
-      "url": "https://www.fastcompany.com/91557448/your-business-doesnt-need-random-acts-of-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Below, Melissa Reeve shares five key insights from her new book, Hyperadaptive: Rewiring the Enterprise to Become AI-Native.\n\n\n\nMelissa was the first VP of marketing at Scaled Agile and thought leader in the SAFe in Marketing space. She went on to co-found the Agile Marketing Alliance.\n\n\n\nWhat\u2019s the big idea?\n\n\n\nMost organizations are trying to bolt AI onto a system that was built for predictability. And it isn\u2019t working. Pilots stall. Adoption plateaus. The organization gets faster at the edges, while the middle stays exactly as slow as before.\n\n\n\nWhat separates companies that succeed from on",
-      "source": "Fast Company Tech",
-      "score": 2.2,
-      "published": "2026-06-14T08:00:00+00:00",
-      "fetched_at": "2026-06-15T05:20:53.229953+00:00"
-    },
-    {
-      "id": "fa9d3b141fc0",
-      "title": "Your business doesn\u2019t need random acts of AI. Here\u2019s why",
-      "url": "https://www.fastcompany.com/91557448/your-business-doesnt-need-random-acts-of-ai",
-      "summary": "How to get businesses from the operating model of today to an AI-native way of working.\n\nBelow, Melissa Reeve shares five key insights from her new book, Hyperadaptive: Rewiring the Enterprise to Become AI-Native.",
-      "source": "Fast Company",
-      "score": 2.0,
-      "published": "2026-06-14T08:00:00+00:00",
-      "fetched_at": "2026-06-15T05:20:53.629099+00:00"
-    },
-    {
-      "id": "ba7f12545c7f",
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-      "source": "TechCrunch AI",
-      "score": 1.2,
-      "published": "2026-06-14T16:38:09+00:00",
-      "fetched_at": "2026-06-15T05:20:46.679093+00:00"
-    },
-    {
-      "id": "38c70bbff9aa",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-      "source": "TechCrunch AI",
-      "score": 1.2,
-      "published": "2026-06-14T00:03:49+00:00",
-      "fetched_at": "2026-06-15T05:20:46.679161+00:00"
-    },
-    {
       "id": "ea4a1d260191",
       "title": "\u2018From\u2019 Season 4, Episode 8 Recap And Review: Landscaping Is Not A Plan",
       "url": "https://www.forbes.com/sites/erikkain/2026/06/14/from-season-4-episode-8-review/",
@@ -119,6 +59,66 @@
       "score": 6.0,
       "published": "2026-06-15T19:38:09+00:00",
       "fetched_at": "2026-06-15T19:49:49.514936+00:00"
+    },
+    {
+      "id": "8b8ee7a0c669",
+      "title": "These projects help companies leverage AI to tackle pressing business needs",
+      "url": "https://www.fastcompany.com/91547150/business-products-services-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Artificial intelligence is the common theme that connects the winners in the Business Products and Services category of 2026 World Changing Ideas. \n\n\n\nAI proved its dominance in this year\u2019s innovations for businesses, helping to accelerate critical clinical trials, fight online hackers, and even rival LLMs at their own search game.\n\n\n\nWinners\n\n\n\nAutonomous offensive cybersecurity, XbowFor all its benefits, AI is also supercharging cyberattacks, 80% of which use the technology for everything from data breaches to service outages. Xbow\u2019s response: fight AI with AI. The cybersecurity company equi",
+      "source": "Fast Company Tech",
+      "score": 8.8,
+      "published": "2026-06-16T11:00:00+00:00",
+      "fetched_at": "2026-06-16T19:39:23.580124+00:00"
+    },
+    {
+      "id": "e6a580232fff",
+      "title": "This Three-Layer \u201cCustomer Zero\u201d Strategy Is How AMD Builds & Scales AI",
+      "url": "https://www.forbes.com/sites/amd/2026/06/16/this-three-layer-customer-zero-strategy-is-how-amd-builds--scales-ai/",
+      "summary": "AMD CIO Hasmukh Ranjan drives \u201ccustomer zero\u201d testing and enterprise AI strategy\u2014prioritizing hardware, unified data, and automation to boost efficiency and cut compute costs.",
+      "source": "Forbes Innovation",
+      "score": 7.0,
+      "published": "2026-06-16T17:28:08+00:00",
+      "fetched_at": "2026-06-16T19:39:19.823552+00:00"
+    },
+    {
+      "id": "65411946b238",
+      "title": "Building Reliable Agentic AI Systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "summary": "One of the most interesting projects my colleagues have done with LLMs\n      has been building a system with Bayer to allow pharmaceutical researchers to query\n      decades of information about studies buried in PDF reports. Sarang\n      Sanjay Kulkarni describes its evolution from keyword-based search\n      to an intelligent research assistant capable of answering complex\n      questions and drafting regulatory documents.\n\nmore\u2026",
+      "source": "Martin Fowler",
+      "score": 6.6,
+      "published": "2026-06-16T12:11:00+00:00",
+      "fetched_at": "2026-06-16T19:39:22.446919+00:00"
+    },
+    {
+      "id": "855744f7e9b4",
+      "title": "Linear Thinking, Nonlinear Costs",
+      "url": "https://www.oreilly.com/radar/linear-thinking-nonlinear-costs/",
+      "summary": "Many AI agent systems become economically unsustainable long before they become technically impressive. Teams usually focus on model choice, prompt design, tool calling, and orchestration. Those things matter, but they are only part of the system setup. The deeper issue is that coding agents, such as Claude Code, Codex, and Jules, make agent workflows easier [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 6.6,
+      "published": "2026-06-16T11:02:01+00:00",
+      "fetched_at": "2026-06-16T19:39:21.970322+00:00"
+    },
+    {
+      "id": "6a752707d8b6",
+      "title": "These companies are finding new ways to use AI and tech for security, health, and more",
+      "url": "https://www.fastcompany.com/91547084/ai-technology-solutions-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Even as the AI revolution moves toward agentic tools, there are still hosts of uses for more classical machine-learning and computing\u2014particularly in healthcare. \n\n\n\nThat&#8217;s where many of the AI and technology honorees of this year&#8217;s World Changing Ideas are operating\u2014like MEandMine and Expert Radiology\u2014but not all of them. Others tackle the need to identify AI-created content (Copyleaks), explore the future of in-home robots (Humanoid), and focus on the future of clean energy (Fuze Energy). Read about all of them below.\n\n\n\nWinners\n\n\n\nAI Logic GenAI detection, CopyleaksSpeculating o",
+      "source": "Fast Company Tech",
+      "score": 6.6,
+      "published": "2026-06-16T11:00:00+00:00",
+      "fetched_at": "2026-06-16T19:39:23.579837+00:00"
+    },
+    {
+      "id": "6e443e188132",
+      "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
+      "url": "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html",
+      "summary": "Businesses are accelerating their agentic offerings for enterprises as competition heats up.",
+      "source": "CNBC Tech",
+      "score": 6.6,
+      "published": "2026-06-15T18:06:01+00:00",
+      "fetched_at": "2026-06-16T19:39:16.942625+00:00"
     }
   ],
   "history": [
@@ -138,7 +138,13 @@
     "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
     "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
     "https://www.fastcompany.com/91557323/6-skills-everyone-needs-in-the-ai-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.businessinsider.com/user-increase-dod-workers-using-military-ai-program-daily-official-2026-6"
+    "https://www.businessinsider.com/user-increase-dod-workers-using-military-ai-program-daily-official-2026-6",
+    "https://www.fastcompany.com/91547150/business-products-services-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.forbes.com/sites/amd/2026/06/16/this-three-layer-customer-zero-strategy-is-how-amd-builds--scales-ai/",
+    "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "https://www.oreilly.com/radar/linear-thinking-nonlinear-costs/",
+    "https://www.fastcompany.com/91547084/ai-technology-solutions-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html"
   ],
-  "generated_at": "2026-06-15T19:49:49.962100+00:00"
+  "generated_at": "2026-06-16T19:39:23.950875+00:00"
 }
