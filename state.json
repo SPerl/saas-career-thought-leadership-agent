@@ -1,56 +1,6 @@
 {
   "queue": [
     {
-      "id": "ea4a1d260191",
-      "title": "\u2018From\u2019 Season 4, Episode 8 Recap And Review: Landscaping Is Not A Plan",
-      "url": "https://www.forbes.com/sites/erikkain/2026/06/14/from-season-4-episode-8-review/",
-      "summary": "From Episode 8 is easily the most frustrating episode of Season 4.",
-      "source": "Forbes Innovation",
-      "score": 1.0,
-      "published": "2026-06-14T23:53:38+00:00",
-      "fetched_at": "2026-06-15T05:20:50.051789+00:00"
-    },
-    {
-      "id": "ad3235a7a51a",
-      "title": "Vietnam has bold plans for its economic future. It will need U.S. tech, capital, and speed to make them happen",
-      "url": "https://fortune.com/2026/06/14/vietnam-us-asean-business-council-economic-growth/",
-      "summary": "Vietnam already has the attention of global business, but it needs to convert that interest into committed capital.",
-      "source": "Fortune",
-      "score": 1.0,
-      "published": "2026-06-14T21:00:00+00:00",
-      "fetched_at": "2026-06-15T05:21:09.509044+00:00"
-    },
-    {
-      "id": "3286aefa0b66",
-      "title": "Vibe coding can build your pipeline. It can't explain it six months later",
-      "url": "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
-      "summary": "AI coding agents are rapidly accelerating data engineering by generating transformations, pipelines, orchestration workflows, validation tests, and infrastructure configurations from prompts. However, enterprise data platforms have long operated across fragmented systems owned by different teams and built on different technologies. As these systems evolve independently, organizations increasingly struggle with inconsistent business logic, duplicated implementations, difficult downstream impact analysis, and hidden dependencies across the platform. The rise of vibe coding can further amplify th",
-      "source": "VentureBeat",
-      "score": 9.9,
-      "published": "2026-06-15T15:14:57+00:00",
-      "fetched_at": "2026-06-15T19:49:45.446406+00:00"
-    },
-    {
-      "id": "f85f662961de",
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-06-15T14:34:45+00:00",
-      "fetched_at": "2026-06-15T19:49:43.745564+00:00"
-    },
-    {
-      "id": "49b22b436dc0",
-      "title": "6 skills everyone needs in the AI era",
-      "url": "https://www.fastcompany.com/91557323/6-skills-everyone-needs-in-the-ai-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Eighteen months ago, most business leaders were still debating whether AI could write a convincingly human-sounding email without hallucinating. Today, artificial intelligence systems are managing codebases, conducting research, screening contracts, and operating as autonomous agents inside enterprise workflows. Some capabilities that senior technologists expected to arrive in three to five years have arrived in months. At the same time, capability scaling in other areas has lagged expectations. No one working seriously in this space is confident they know what the technology will be able to d",
-      "source": "Fast Company Tech",
-      "score": 6.6,
-      "published": "2026-06-15T09:00:00+00:00",
-      "fetched_at": "2026-06-15T19:49:49.772063+00:00"
-    },
-    {
       "id": "dd19e3b269a9",
       "title": "1.5 million Defense Department workers are now using the military's generative AI every day, Pentagon official says",
       "url": "https://www.businessinsider.com/user-increase-dod-workers-using-military-ai-program-daily-official-2026-6",
@@ -111,14 +61,64 @@
       "fetched_at": "2026-06-16T19:39:23.579837+00:00"
     },
     {
-      "id": "6e443e188132",
-      "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
-      "url": "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html",
-      "summary": "Businesses are accelerating their agentic offerings for enterprises as competition heats up.",
-      "source": "CNBC Tech",
+      "id": "c2520e09e096",
+      "title": "AWS says AI agents can work on their own. It\u2019s also building tools to keep them in line",
+      "url": "https://www.fastcompany.com/91559841/aws-says-autonomous-ai-agents-are-ready-for-work-so-why-do-they-need-so-many-guardrails?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "The marketing pitch for enterprise AI\u2019s autonomous agents has started to sound almost like a fairy tale: Hand one a task or objective, walk away, and it figures out the rest. It runs on its own, reasons through changing conditions, adapts as circumstances evolve, and delivers results before you think to ask. The promise of software that functions like a digital colleague has been seductive.\n\n\n\nAmazon Web Services has an even more ambitious version of that vision in store. At AWS Summit on Wednesday, the company unveiled new agentic AI capabilities for its platform, aimed at everyday enterprise",
+      "source": "Fast Company Tech",
+      "score": 17.6,
+      "published": "2026-06-17T15:00:00+00:00",
+      "fetched_at": "2026-06-17T18:22:02.248745+00:00"
+    },
+    {
+      "id": "bff970c55bd9",
+      "title": "AWS says AI agents can work on their own. It\u2019s also building tools to keep them in line",
+      "url": "https://www.fastcompany.com/91559841/aws-says-autonomous-ai-agents-are-ready-for-work-so-why-do-they-need-so-many-guardrails",
+      "summary": "The company\u2019s latest agentic AI tools promise faster enterprise automation, but the more revealing story is the infrastructure AWS is building to monitor and contain them.\n\nThe marketing pitch for enterprise AI\u2019s autonomous agents has started to sound almost like a fairy tale: Hand one a task or objective, walk away, and it figures out the rest. It runs on its own, reasons through changing conditions, adapts as circumstances evolve, and delivers results before you think to ask. The promise of software that functions like a digital colleague has been seductive.",
+      "source": "Fast Company",
+      "score": 17.0,
+      "published": "2026-06-17T15:00:00+00:00",
+      "fetched_at": "2026-06-17T18:22:02.641483+00:00"
+    },
+    {
+      "id": "ad8828785b99",
+      "title": "Z.ai\u2019s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
+      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+      "summary": "Today, Chinese AI startup Z.ai (formerly Zhipu AI) announced the immediate release of GLM-5.2, a 753-billion parameter open-weights large language model (LLM) engineered specifically to dominate &quot;long-horizon&quot; autonomous coding and engineering tasks. Available immediately on Hugging Face, the Z.ai API, and more than 20 third-party coding environments, the model boasts a highly stable 1-million-token context window alongside enterprise subscription tiers starting at just $12.60 per month. In excellent news for cost and security-conscious businesses, z.ai has released GLM-5.2&#x27;s co",
+      "source": "VentureBeat",
+      "score": 14.3,
+      "published": "2026-06-16T21:26:01+00:00",
+      "fetched_at": "2026-06-17T18:21:57.246352+00:00"
+    },
+    {
+      "id": "8c5bbbf4b3e3",
+      "title": "Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents",
+      "url": "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents",
+      "summary": "For decades, data professionals have struggled with the challenge of managing both operational and analytical databases in a unified approach that doesn&#x27;t introduce latency and performance degradation.Agents made the problem structural. A system that reasons continuously and acts on live data cannot tolerate a pipeline between itself and the information it needs to act on.At the Data + AI Summit on Tuesday, Databricks announced two products aimed at collapsing that infrastructure. Lakehouse//RT delivers millisecond query latency directly on governed Delta and Iceberg tables, eliminating t",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-06-16T20:04:49+00:00",
+      "fetched_at": "2026-06-17T18:21:57.246419+00:00"
+    },
+    {
+      "id": "837eba3c6d7f",
+      "title": "How Southwest Is Rewiring Itself For The Age Of AI",
+      "url": "https://www.forbes.com/sites/peterhigh/2026/06/17/how-southwest-is-rewiring-itself-for-the-age-of-ai/",
+      "summary": "How Southwest Airlines is using sensor data, machine learning and generative AI to modernize operations while preserving the culture that made it iconic.",
+      "source": "Forbes Innovation",
+      "score": 7.0,
+      "published": "2026-06-17T13:00:00+00:00",
+      "fetched_at": "2026-06-17T18:21:58.584558+00:00"
+    },
+    {
+      "id": "329187dde2aa",
+      "title": "How Stripe, Google, Canva, Cloudflare and Higgsfield Are Actually Selling in 2026",
+      "url": "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/",
+      "summary": "The GTM stage at SaaStr AI 2026 was the one where the abstract finally got concrete. Everyone talks about how AI changes go-to-market. These six sessions actually showed the data, the org charts, the pricing models, and the failures behind it. What struck me listening to all of them back to back was how much... Continue Reading",
+      "source": "SaaStr",
       "score": 6.6,
-      "published": "2026-06-15T18:06:01+00:00",
-      "fetched_at": "2026-06-16T19:39:16.942625+00:00"
+      "published": "2026-06-17T12:10:15+00:00",
+      "fetched_at": "2026-06-17T18:21:57.640368+00:00"
     }
   ],
   "history": [
@@ -144,7 +144,13 @@
     "https://martinfowler.com/articles/reliable-llm-bayer.html",
     "https://www.oreilly.com/radar/linear-thinking-nonlinear-costs/",
     "https://www.fastcompany.com/91547084/ai-technology-solutions-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html"
+    "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html",
+    "https://www.fastcompany.com/91559841/aws-says-autonomous-ai-agents-are-ready-for-work-so-why-do-they-need-so-many-guardrails?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91559841/aws-says-autonomous-ai-agents-are-ready-for-work-so-why-do-they-need-so-many-guardrails",
+    "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+    "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents",
+    "https://www.forbes.com/sites/peterhigh/2026/06/17/how-southwest-is-rewiring-itself-for-the-age-of-ai/",
+    "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/"
   ],
-  "generated_at": "2026-06-16T19:39:23.950875+00:00"
+  "generated_at": "2026-06-17T18:22:02.642141+00:00"
 }
