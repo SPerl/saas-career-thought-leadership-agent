@@ -59,6 +59,66 @@
       "score": 6.6,
       "published": "2026-06-17T12:10:15+00:00",
       "fetched_at": "2026-06-17T18:21:57.640368+00:00"
+    },
+    {
+      "id": "271e5212fb09",
+      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+      "summary": "Adobe has announced a major expansion of its &quot;creative agent&quot; across its flagship Creative Cloud suite and upgraded Firefly AI studio. Available in public beta starting today across Premiere Pro, Photoshop, Illustrator, InDesign, and Frame.io, the agent is designed to serve everyone from individual creators to enterprise marketing teams. Unlike first-generation generative AI tools that simply output flat media from a chat interface, Adobe\u2019s embedded assistant acts as an orchestration layer. It interprets natural language prompts and directly accesses the underlying software&#x27;s AP",
+      "source": "VentureBeat",
+      "score": 14.3,
+      "published": "2026-06-18T14:33:04+00:00",
+      "fetched_at": "2026-06-18T18:27:09.248724+00:00"
+    },
+    {
+      "id": "dd0246422f1b",
+      "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
+      "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
+      "summary": "Two AI tools broke in the same way in the same two weeks, and four research teams proved it. The pattern underneath every disclosure is one sentence: enterprise AI accepts external input with no trust boundary. On June 15, Varonis disclosed SearchLeak (CVE-2026-42824), a proof-of-concept exfiltration chain in Microsoft 365 Copilot Enterprise Search. A victim clicks a crafted microsoft.com URL, Copilot searches their mailbox, and the data leaves through a Bing SSRF. No plugins, no second click, no visible indicator. Four days earlier, Obsidian Security published a three-CVE chain against LiteLL",
+      "source": "VentureBeat",
+      "score": 13.2,
+      "published": "2026-06-18T17:42:49+00:00",
+      "fetched_at": "2026-06-18T18:27:09.248635+00:00"
+    },
+    {
+      "id": "d9457255a389",
+      "title": "Kari Briski is making sure Nvidia can handle the agentic AI boom",
+      "url": "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "AI agents are only as powerful as the models behind them, which must process vast amounts of data. No company is more vital in helping process that data than Nvidia.\n\n\n\n\u201cAll these agents are spinning off subagents that are doing multiagent swarming, and all kinds of tokens are being generated,\u201d Kari Briski says, referring to the basic units of data that models process and produce. As vice president of generative AI software product, Briski leads her team to make sure Nvidia\u2019s technology stack manages the tokens efficiently.\n\n\n\nAs the generative artificial intelligence boom has progressed, Nvid",
+      "source": "Fast Company Tech",
+      "score": 13.2,
+      "published": "2026-06-18T11:00:00+00:00",
+      "fetched_at": "2026-06-18T18:27:13.388646+00:00"
+    },
+    {
+      "id": "9659a99713e1",
+      "title": "Rajiv Dattani is bringing insurance to the AI agent boom",
+      "url": "https://www.fastcompany.com/91550776/rajiv-dattani-is-bringing-insurance-to-the-ai-agent-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "AI agents come with real risks: The more autonomous they are, the more likely they are to violate data privacy rules or international SPAM rules, and the easier they become for hackers to attack. But until recently there was no standard for measuring these risks and no entity to insure against them. Meanwhile, enterprises will increasingly need to trust AI agents to do real work. Rajiv Dattani\u2019s Artificial Intelligence Underwriting Company (AIUC) has begun insuring agent providers against these risks.\n\n\n\nWorking with a consortium of around 150 Fortune 1000 chief information security officers, ",
+      "source": "Fast Company Tech",
+      "score": 11.0,
+      "published": "2026-06-18T11:00:00+00:00",
+      "fetched_at": "2026-06-18T18:27:13.388828+00:00"
+    },
+    {
+      "id": "793456a81878",
+      "title": "Dropzone AI\u2019s Edward Wu wants AI agents to fight cyberattacks",
+      "url": "https://www.fastcompany.com/91550806/dropzone-ais-edward-wu-wants-ai-agents-to-fight-cyberattacks?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Cyberattacks are increasingly making use of artificial intelligence, using the technology to target organizations at scale. To fight back, the corporate cybersecurity teams that track, monitor, and respond to these threats may need to start using AI a lot more too. Or at least that\u2019s what Edward Wu argues. He\u2019s the CEO of Dropzone AI, which has developed a large language model-based digital cyberthreat investigator.&nbsp;\n\n\n\nDropzone AI calls its tech an \u201cagentic security operations center.\u201d Yes, humans still need to be involved in cybersecurity, Wu concedes. But these teams are often understa",
+      "source": "Fast Company Tech",
+      "score": 11.0,
+      "published": "2026-06-18T11:00:00+00:00",
+      "fetched_at": "2026-06-18T18:27:13.389363+00:00"
+    },
+    {
+      "id": "a9995ac26b62",
+      "title": "AWS\u2019s Swami Sivasubramanian is building the cloud for AI agents",
+      "url": "https://www.fastcompany.com/91550802/awss-swami-sivasubramanian-is-building-the-cloud-for-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "When Swami Sivasubramanian joined Amazon as a technical intern in 2005, cloud computing was just getting off the ground as a concept. Thanks to Amazon Web Services, it grew into one of technology\u2019s most essential ingredients\u2014and Sivasubramanian, who kept rising through the ranks, helped drive that change. In 2017, he became AWS\u2019s VP of AI.\n\n\n\nMore recently, as large language models permitted artificial intelligence to perform ever more complex tasks with greater independence, he had an epiphany: \u201cAI agents will fundamentally change how we all work and live,\u201d he says. To accelerate AWS\u2019s agenti",
+      "source": "Fast Company Tech",
+      "score": 8.8,
+      "published": "2026-06-18T11:00:00+00:00",
+      "fetched_at": "2026-06-18T18:27:13.389285+00:00"
     }
   ],
   "history": [
@@ -90,7 +150,13 @@
     "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
     "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents",
     "https://www.forbes.com/sites/peterhigh/2026/06/17/how-southwest-is-rewiring-itself-for-the-age-of-ai/",
-    "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/"
+    "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/",
+    "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+    "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
+    "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91550776/rajiv-dattani-is-bringing-insurance-to-the-ai-agent-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91550806/dropzone-ais-edward-wu-wants-ai-agents-to-fight-cyberattacks?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91550802/awss-swami-sivasubramanian-is-building-the-cloud-for-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-06-18T18:12:59.726964+00:00"
+  "generated_at": "2026-06-18T18:27:13.541721+00:00"
 }
