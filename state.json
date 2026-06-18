@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "dd19e3b269a9",
-      "title": "1.5 million Defense Department workers are now using the military's generative AI every day, Pentagon official says",
-      "url": "https://www.businessinsider.com/user-increase-dod-workers-using-military-ai-program-daily-official-2026-6",
-      "summary": "Around 80,000 employees used GenAI.mil when it launched in December. That number has since skyrocketed.",
-      "source": "Business Insider",
-      "score": 6.0,
-      "published": "2026-06-15T19:38:09+00:00",
-      "fetched_at": "2026-06-15T19:49:49.514936+00:00"
-    },
-    {
-      "id": "8b8ee7a0c669",
-      "title": "These projects help companies leverage AI to tackle pressing business needs",
-      "url": "https://www.fastcompany.com/91547150/business-products-services-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Artificial intelligence is the common theme that connects the winners in the Business Products and Services category of 2026 World Changing Ideas. \n\n\n\nAI proved its dominance in this year\u2019s innovations for businesses, helping to accelerate critical clinical trials, fight online hackers, and even rival LLMs at their own search game.\n\n\n\nWinners\n\n\n\nAutonomous offensive cybersecurity, XbowFor all its benefits, AI is also supercharging cyberattacks, 80% of which use the technology for everything from data breaches to service outages. Xbow\u2019s response: fight AI with AI. The cybersecurity company equi",
-      "source": "Fast Company Tech",
-      "score": 8.8,
-      "published": "2026-06-16T11:00:00+00:00",
-      "fetched_at": "2026-06-16T19:39:23.580124+00:00"
-    },
-    {
-      "id": "e6a580232fff",
-      "title": "This Three-Layer \u201cCustomer Zero\u201d Strategy Is How AMD Builds & Scales AI",
-      "url": "https://www.forbes.com/sites/amd/2026/06/16/this-three-layer-customer-zero-strategy-is-how-amd-builds--scales-ai/",
-      "summary": "AMD CIO Hasmukh Ranjan drives \u201ccustomer zero\u201d testing and enterprise AI strategy\u2014prioritizing hardware, unified data, and automation to boost efficiency and cut compute costs.",
-      "source": "Forbes Innovation",
-      "score": 7.0,
-      "published": "2026-06-16T17:28:08+00:00",
-      "fetched_at": "2026-06-16T19:39:19.823552+00:00"
-    },
-    {
-      "id": "65411946b238",
-      "title": "Building Reliable Agentic AI Systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "summary": "One of the most interesting projects my colleagues have done with LLMs\n      has been building a system with Bayer to allow pharmaceutical researchers to query\n      decades of information about studies buried in PDF reports. Sarang\n      Sanjay Kulkarni describes its evolution from keyword-based search\n      to an intelligent research assistant capable of answering complex\n      questions and drafting regulatory documents.\n\nmore\u2026",
-      "source": "Martin Fowler",
-      "score": 6.6,
-      "published": "2026-06-16T12:11:00+00:00",
-      "fetched_at": "2026-06-16T19:39:22.446919+00:00"
-    },
-    {
-      "id": "855744f7e9b4",
-      "title": "Linear Thinking, Nonlinear Costs",
-      "url": "https://www.oreilly.com/radar/linear-thinking-nonlinear-costs/",
-      "summary": "Many AI agent systems become economically unsustainable long before they become technically impressive. Teams usually focus on model choice, prompt design, tool calling, and orchestration. Those things matter, but they are only part of the system setup. The deeper issue is that coding agents, such as Claude Code, Codex, and Jules, make agent workflows easier [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 6.6,
-      "published": "2026-06-16T11:02:01+00:00",
-      "fetched_at": "2026-06-16T19:39:21.970322+00:00"
-    },
-    {
-      "id": "6a752707d8b6",
-      "title": "These companies are finding new ways to use AI and tech for security, health, and more",
-      "url": "https://www.fastcompany.com/91547084/ai-technology-solutions-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Even as the AI revolution moves toward agentic tools, there are still hosts of uses for more classical machine-learning and computing\u2014particularly in healthcare. \n\n\n\nThat&#8217;s where many of the AI and technology honorees of this year&#8217;s World Changing Ideas are operating\u2014like MEandMine and Expert Radiology\u2014but not all of them. Others tackle the need to identify AI-created content (Copyleaks), explore the future of in-home robots (Humanoid), and focus on the future of clean energy (Fuze Energy). Read about all of them below.\n\n\n\nWinners\n\n\n\nAI Logic GenAI detection, CopyleaksSpeculating o",
-      "source": "Fast Company Tech",
-      "score": 6.6,
-      "published": "2026-06-16T11:00:00+00:00",
-      "fetched_at": "2026-06-16T19:39:23.579837+00:00"
-    },
-    {
       "id": "c2520e09e096",
       "title": "AWS says AI agents can work on their own. It\u2019s also building tools to keep them in line",
       "url": "https://www.fastcompany.com/91559841/aws-says-autonomous-ai-agents-are-ready-for-work-so-why-do-they-need-so-many-guardrails?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -152,5 +92,5 @@
     "https://www.forbes.com/sites/peterhigh/2026/06/17/how-southwest-is-rewiring-itself-for-the-age-of-ai/",
     "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/"
   ],
-  "generated_at": "2026-06-17T18:22:02.642141+00:00"
+  "generated_at": "2026-06-18T18:12:59.726964+00:00"
 }
