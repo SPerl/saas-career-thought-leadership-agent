@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "c2520e09e096",
-      "title": "AWS says AI agents can work on their own. It\u2019s also building tools to keep them in line",
-      "url": "https://www.fastcompany.com/91559841/aws-says-autonomous-ai-agents-are-ready-for-work-so-why-do-they-need-so-many-guardrails?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "The marketing pitch for enterprise AI\u2019s autonomous agents has started to sound almost like a fairy tale: Hand one a task or objective, walk away, and it figures out the rest. It runs on its own, reasons through changing conditions, adapts as circumstances evolve, and delivers results before you think to ask. The promise of software that functions like a digital colleague has been seductive.\n\n\n\nAmazon Web Services has an even more ambitious version of that vision in store. At AWS Summit on Wednesday, the company unveiled new agentic AI capabilities for its platform, aimed at everyday enterprise",
-      "source": "Fast Company Tech",
-      "score": 17.6,
-      "published": "2026-06-17T15:00:00+00:00",
-      "fetched_at": "2026-06-17T18:22:02.248745+00:00"
-    },
-    {
       "id": "bff970c55bd9",
       "title": "AWS says AI agents can work on their own. It\u2019s also building tools to keep them in line",
       "url": "https://www.fastcompany.com/91559841/aws-says-autonomous-ai-agents-are-ready-for-work-so-why-do-they-need-so-many-guardrails",
@@ -119,6 +109,16 @@
       "score": 8.8,
       "published": "2026-06-18T11:00:00+00:00",
       "fetched_at": "2026-06-18T18:27:13.389285+00:00"
+    },
+    {
+      "id": "996f0f5fabfd",
+      "title": "Kari Briski is making sure Nvidia can handle the agentic AI boom",
+      "url": "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom",
+      "summary": "Briski\u2019s work helps Nvidia\u2019s technology stack process the flood of tokens powering tomorrow\u2019s AI agents.\n\nAI agents are only as powerful as the models behind them, which must process vast amounts of data. No company is more vital in helping process that data than Nvidia.",
+      "source": "Fast Company",
+      "score": 7.0,
+      "published": "2026-06-18T11:00:00+00:00",
+      "fetched_at": "2026-06-18T18:44:50.751198+00:00"
     }
   ],
   "history": [
@@ -156,7 +156,8 @@
     "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91550776/rajiv-dattani-is-bringing-insurance-to-the-ai-agent-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91550806/dropzone-ais-edward-wu-wants-ai-agents-to-fight-cyberattacks?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91550802/awss-swami-sivasubramanian-is-building-the-cloud-for-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91550802/awss-swami-sivasubramanian-is-building-the-cloud-for-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom"
   ],
-  "generated_at": "2026-06-18T18:27:13.541721+00:00"
+  "generated_at": "2026-06-18T18:44:50.751327+00:00"
 }
