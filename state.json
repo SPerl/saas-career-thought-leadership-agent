@@ -1,56 +1,6 @@
 {
   "queue": [
     {
-      "id": "bff970c55bd9",
-      "title": "AWS says AI agents can work on their own. It\u2019s also building tools to keep them in line",
-      "url": "https://www.fastcompany.com/91559841/aws-says-autonomous-ai-agents-are-ready-for-work-so-why-do-they-need-so-many-guardrails",
-      "summary": "The company\u2019s latest agentic AI tools promise faster enterprise automation, but the more revealing story is the infrastructure AWS is building to monitor and contain them.\n\nThe marketing pitch for enterprise AI\u2019s autonomous agents has started to sound almost like a fairy tale: Hand one a task or objective, walk away, and it figures out the rest. It runs on its own, reasons through changing conditions, adapts as circumstances evolve, and delivers results before you think to ask. The promise of software that functions like a digital colleague has been seductive.",
-      "source": "Fast Company",
-      "score": 17.0,
-      "published": "2026-06-17T15:00:00+00:00",
-      "fetched_at": "2026-06-17T18:22:02.641483+00:00"
-    },
-    {
-      "id": "ad8828785b99",
-      "title": "Z.ai\u2019s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
-      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
-      "summary": "Today, Chinese AI startup Z.ai (formerly Zhipu AI) announced the immediate release of GLM-5.2, a 753-billion parameter open-weights large language model (LLM) engineered specifically to dominate &quot;long-horizon&quot; autonomous coding and engineering tasks. Available immediately on Hugging Face, the Z.ai API, and more than 20 third-party coding environments, the model boasts a highly stable 1-million-token context window alongside enterprise subscription tiers starting at just $12.60 per month. In excellent news for cost and security-conscious businesses, z.ai has released GLM-5.2&#x27;s co",
-      "source": "VentureBeat",
-      "score": 14.3,
-      "published": "2026-06-16T21:26:01+00:00",
-      "fetched_at": "2026-06-17T18:21:57.246352+00:00"
-    },
-    {
-      "id": "8c5bbbf4b3e3",
-      "title": "Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents",
-      "url": "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents",
-      "summary": "For decades, data professionals have struggled with the challenge of managing both operational and analytical databases in a unified approach that doesn&#x27;t introduce latency and performance degradation.Agents made the problem structural. A system that reasons continuously and acts on live data cannot tolerate a pipeline between itself and the information it needs to act on.At the Data + AI Summit on Tuesday, Databricks announced two products aimed at collapsing that infrastructure. Lakehouse//RT delivers millisecond query latency directly on governed Delta and Iceberg tables, eliminating t",
-      "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-06-16T20:04:49+00:00",
-      "fetched_at": "2026-06-17T18:21:57.246419+00:00"
-    },
-    {
-      "id": "837eba3c6d7f",
-      "title": "How Southwest Is Rewiring Itself For The Age Of AI",
-      "url": "https://www.forbes.com/sites/peterhigh/2026/06/17/how-southwest-is-rewiring-itself-for-the-age-of-ai/",
-      "summary": "How Southwest Airlines is using sensor data, machine learning and generative AI to modernize operations while preserving the culture that made it iconic.",
-      "source": "Forbes Innovation",
-      "score": 7.0,
-      "published": "2026-06-17T13:00:00+00:00",
-      "fetched_at": "2026-06-17T18:21:58.584558+00:00"
-    },
-    {
-      "id": "329187dde2aa",
-      "title": "How Stripe, Google, Canva, Cloudflare and Higgsfield Are Actually Selling in 2026",
-      "url": "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/",
-      "summary": "The GTM stage at SaaStr AI 2026 was the one where the abstract finally got concrete. Everyone talks about how AI changes go-to-market. These six sessions actually showed the data, the org charts, the pricing models, and the failures behind it. What struck me listening to all of them back to back was how much... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-06-17T12:10:15+00:00",
-      "fetched_at": "2026-06-17T18:21:57.640368+00:00"
-    },
-    {
       "id": "271e5212fb09",
       "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
       "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
@@ -119,6 +69,56 @@
       "score": 7.0,
       "published": "2026-06-18T11:00:00+00:00",
       "fetched_at": "2026-06-18T18:44:50.751198+00:00"
+    },
+    {
+      "id": "8add01e4aff7",
+      "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+      "source": "MIT Technology Review",
+      "score": 8.4,
+      "published": "2026-06-19T10:40:24+00:00",
+      "fetched_at": "2026-06-19T18:01:03.536611+00:00"
+    },
+    {
+      "id": "e0b79e811186",
+      "title": "Claude is becoming more agentic. Amanda Askell is thinking through what that means",
+      "url": "https://www.fastcompany.com/91560768/claude-is-becoming-more-agentic-amanda-askell-is-thinking-through-what-that-means?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Amanda Askell spends her days thinking about how to ensure Claude, Anthropic&#8217;s AI chatbot, operates with a sense of morality.\n\n\n\nAs AI models move from chatbots toward agents that can complete tasks on their own, the decisions these models make stand to become far more consequential. Askell, a member of the technical staff at Anthropic, sits at the center of the company\u2019s effort to give Claude an ethical compass, a responsibility that grows as the system\u2019s capabilities expand. \u201cAs models are more autonomous and take actions over longer horizons, suddenly they have a lot more decision poi",
+      "source": "Fast Company Tech",
+      "score": 6.6,
+      "published": "2026-06-19T11:11:00+00:00",
+      "fetched_at": "2026-06-19T18:01:08.134496+00:00"
+    },
+    {
+      "id": "8d95c9dea9df",
+      "title": "How Attention.com Turns Sales Calls Into Pipeline: The Best GTM Data You Own, and Why Most B2B Teams Throw It Away",
+      "url": "https://www.saastr.com/how-attention-com-turns-sales-calls-into-pipeline-the-best-gtm-data-you-own-and-why-most-b2b-teams-throw-it-away/",
+      "summary": "At SaaStr AI 2026, Anis Bennaceur, co-founder and CEO of Attention.com, gave one of the more practical go-to-market sessions of the week. Attention is a Series B company at roughly $15M ARR, growing 4-5x year over year, with customers including Scale AI, Lovable, Abridge, and Engine.com. The product automates increasingly intelligent work for sales teams.... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-06-19T09:21:05+00:00",
+      "fetched_at": "2026-06-19T18:01:04.958009+00:00"
+    },
+    {
+      "id": "f364d16f86f5",
+      "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
+      "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
+      "summary": "Anthropic announced a potentially game-changing new feature for users of Claude Code on the Claude Team and Enterprise subscription plans: Artifacts. This update turns a Claude Code session&#x27;s work into a live, interactive, and shareable, custom HTML webpage, allowing a Claude Code user to plug in live code, multiple data sources, and have it surface on an interactive URL that they can send to other teammates \u2014 be it a dashboard, an app design, or some other product meant for internal usage. These teammates and the original user can watch the webpage it update in real-time as Claude Code g",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-06-18T23:18:59+00:00",
+      "fetched_at": "2026-06-19T18:01:04.422375+00:00"
+    },
+    {
+      "id": "e19f2ddd75ce",
+      "title": "Chelsea Finn wants robots to get better at learning",
+      "url": "https://www.fastcompany.com/91550763/chelsea-finn-wants-robots-to-get-better-at-learning?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Robots and AI agents are still limited when it comes to learning new things. That\u2019s exactly the problem that fascinates Chelsea Finn, a Stanford computer science and engineering professor. Her research focuses on giving autonomous systems frameworks to reason through complex tasks.\n\n\n\nRobots, for example, can be trained to break large problems into smaller steps. Even when they know the subtask, \u201ctranslating that into low-level motor commands is incredibly difficult to achieve in robots,\u201d Finn says. \u201cI&#8217;ve actually spent more time on the low-level motor control because in many ways it&#82",
+      "source": "Fast Company Tech",
+      "score": 6.6,
+      "published": "2026-06-18T11:00:00+00:00",
+      "fetched_at": "2026-06-19T18:01:08.135047+00:00"
     }
   ],
   "history": [
@@ -157,7 +157,12 @@
     "https://www.fastcompany.com/91550776/rajiv-dattani-is-bringing-insurance-to-the-ai-agent-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91550806/dropzone-ais-edward-wu-wants-ai-agents-to-fight-cyberattacks?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91550802/awss-swami-sivasubramanian-is-building-the-cloud-for-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom"
+    "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom",
+    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "https://www.fastcompany.com/91560768/claude-is-becoming-more-agentic-amanda-askell-is-thinking-through-what-that-means?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/how-attention-com-turns-sales-calls-into-pipeline-the-best-gtm-data-you-own-and-why-most-b2b-teams-throw-it-away/",
+    "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
+    "https://www.fastcompany.com/91550763/chelsea-finn-wants-robots-to-get-better-at-learning?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-06-18T18:44:50.751327+00:00"
+  "generated_at": "2026-06-19T18:01:08.443053+00:00"
 }
