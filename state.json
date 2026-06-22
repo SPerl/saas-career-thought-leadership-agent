@@ -1,124 +1,124 @@
 {
   "queue": [
     {
-      "id": "271e5212fb09",
-      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
-      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
-      "summary": "Adobe has announced a major expansion of its &quot;creative agent&quot; across its flagship Creative Cloud suite and upgraded Firefly AI studio. Available in public beta starting today across Premiere Pro, Photoshop, Illustrator, InDesign, and Frame.io, the agent is designed to serve everyone from individual creators to enterprise marketing teams. Unlike first-generation generative AI tools that simply output flat media from a chat interface, Adobe\u2019s embedded assistant acts as an orchestration layer. It interprets natural language prompts and directly accesses the underlying software&#x27;s AP",
+      "id": "1e92c9ccf640",
+      "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+      "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+      "summary": "Last night, the increasingly enterprise-focused AI startup Sakana launched Fugu, a multi-agent orchestration system that delivers frontier-level AI performance through a single, OpenAI-compatible API. Designed for developers, enterprises, and nations seeking resilience against vendor lock-in and geopolitical export controls, Fugu (Japanese for &quot;pufferfish&quot;), bypasses the traditional monolithic model structure by dynamically routing queries to a swappable pool of specialized AI agents. Sakana CEO and co-founder David Ha, formerly of Google Brain, positioned Fugu as a more reliable opt",
       "source": "VentureBeat",
-      "score": 14.3,
-      "published": "2026-06-18T14:33:04+00:00",
-      "fetched_at": "2026-06-18T18:27:09.248724+00:00"
+      "score": 11.0,
+      "published": "2026-06-22T16:13:00+00:00",
+      "fetched_at": "2026-06-22T19:32:12.803132+00:00"
     },
     {
-      "id": "dd0246422f1b",
-      "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
-      "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
-      "summary": "Two AI tools broke in the same way in the same two weeks, and four research teams proved it. The pattern underneath every disclosure is one sentence: enterprise AI accepts external input with no trust boundary. On June 15, Varonis disclosed SearchLeak (CVE-2026-42824), a proof-of-concept exfiltration chain in Microsoft 365 Copilot Enterprise Search. A victim clicks a crafted microsoft.com URL, Copilot searches their mailbox, and the data leaves through a Bing SSRF. No plugins, no second click, no visible indicator. Four days earlier, Obsidian Security published a three-CVE chain against LiteLL",
+      "id": "283081a66ebf",
+      "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
+      "url": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
+      "summary": "Not every company can or should build their own frontier AI language model. However, the harness controlling the model is something that most enterprises can and should customize for their specific purposes.Of course, this is easier said than done. Agent harnesses are still largely tuned through manual, ad hoc debugging \u2014 a process that relies heavily on intuition rather than systematic feedback loops, making it difficult to keep pace with rapidly evolving LLMs.To solve this challenge, researchers at the Shanghai Artificial Intelligence Laboratory have introduced \u201cSelf-Harness,\u201d a new paradigm",
       "source": "VentureBeat",
-      "score": 13.2,
-      "published": "2026-06-18T17:42:49+00:00",
-      "fetched_at": "2026-06-18T18:27:09.248635+00:00"
-    },
-    {
-      "id": "d9457255a389",
-      "title": "Kari Briski is making sure Nvidia can handle the agentic AI boom",
-      "url": "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "AI agents are only as powerful as the models behind them, which must process vast amounts of data. No company is more vital in helping process that data than Nvidia.\n\n\n\n\u201cAll these agents are spinning off subagents that are doing multiagent swarming, and all kinds of tokens are being generated,\u201d Kari Briski says, referring to the basic units of data that models process and produce. As vice president of generative AI software product, Briski leads her team to make sure Nvidia\u2019s technology stack manages the tokens efficiently.\n\n\n\nAs the generative artificial intelligence boom has progressed, Nvid",
-      "source": "Fast Company Tech",
-      "score": 13.2,
-      "published": "2026-06-18T11:00:00+00:00",
-      "fetched_at": "2026-06-18T18:27:13.388646+00:00"
-    },
-    {
-      "id": "9659a99713e1",
-      "title": "Rajiv Dattani is bringing insurance to the AI agent boom",
-      "url": "https://www.fastcompany.com/91550776/rajiv-dattani-is-bringing-insurance-to-the-ai-agent-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "AI agents come with real risks: The more autonomous they are, the more likely they are to violate data privacy rules or international SPAM rules, and the easier they become for hackers to attack. But until recently there was no standard for measuring these risks and no entity to insure against them. Meanwhile, enterprises will increasingly need to trust AI agents to do real work. Rajiv Dattani\u2019s Artificial Intelligence Underwriting Company (AIUC) has begun insuring agent providers against these risks.\n\n\n\nWorking with a consortium of around 150 Fortune 1000 chief information security officers, ",
-      "source": "Fast Company Tech",
       "score": 11.0,
-      "published": "2026-06-18T11:00:00+00:00",
-      "fetched_at": "2026-06-18T18:27:13.388828+00:00"
+      "published": "2026-06-22T14:23:00+00:00",
+      "fetched_at": "2026-06-22T19:32:12.803308+00:00"
     },
     {
-      "id": "793456a81878",
-      "title": "Dropzone AI\u2019s Edward Wu wants AI agents to fight cyberattacks",
-      "url": "https://www.fastcompany.com/91550806/dropzone-ais-edward-wu-wants-ai-agents-to-fight-cyberattacks?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Cyberattacks are increasingly making use of artificial intelligence, using the technology to target organizations at scale. To fight back, the corporate cybersecurity teams that track, monitor, and respond to these threats may need to start using AI a lot more too. Or at least that\u2019s what Edward Wu argues. He\u2019s the CEO of Dropzone AI, which has developed a large language model-based digital cyberthreat investigator.&nbsp;\n\n\n\nDropzone AI calls its tech an \u201cagentic security operations center.\u201d Yes, humans still need to be involved in cybersecurity, Wu concedes. But these teams are often understa",
-      "source": "Fast Company Tech",
-      "score": 11.0,
-      "published": "2026-06-18T11:00:00+00:00",
-      "fetched_at": "2026-06-18T18:27:13.389363+00:00"
-    },
-    {
-      "id": "a9995ac26b62",
-      "title": "AWS\u2019s Swami Sivasubramanian is building the cloud for AI agents",
-      "url": "https://www.fastcompany.com/91550802/awss-swami-sivasubramanian-is-building-the-cloud-for-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "When Swami Sivasubramanian joined Amazon as a technical intern in 2005, cloud computing was just getting off the ground as a concept. Thanks to Amazon Web Services, it grew into one of technology\u2019s most essential ingredients\u2014and Sivasubramanian, who kept rising through the ranks, helped drive that change. In 2017, he became AWS\u2019s VP of AI.\n\n\n\nMore recently, as large language models permitted artificial intelligence to perform ever more complex tasks with greater independence, he had an epiphany: \u201cAI agents will fundamentally change how we all work and live,\u201d he says. To accelerate AWS\u2019s agenti",
-      "source": "Fast Company Tech",
-      "score": 8.8,
-      "published": "2026-06-18T11:00:00+00:00",
-      "fetched_at": "2026-06-18T18:27:13.389285+00:00"
-    },
-    {
-      "id": "996f0f5fabfd",
-      "title": "Kari Briski is making sure Nvidia can handle the agentic AI boom",
-      "url": "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom",
-      "summary": "Briski\u2019s work helps Nvidia\u2019s technology stack process the flood of tokens powering tomorrow\u2019s AI agents.\n\nAI agents are only as powerful as the models behind them, which must process vast amounts of data. No company is more vital in helping process that data than Nvidia.",
-      "source": "Fast Company",
-      "score": 7.0,
-      "published": "2026-06-18T11:00:00+00:00",
-      "fetched_at": "2026-06-18T18:44:50.751198+00:00"
-    },
-    {
-      "id": "8add01e4aff7",
-      "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
-      "source": "MIT Technology Review",
-      "score": 8.4,
-      "published": "2026-06-19T10:40:24+00:00",
-      "fetched_at": "2026-06-19T18:01:03.536611+00:00"
-    },
-    {
-      "id": "e0b79e811186",
-      "title": "Claude is becoming more agentic. Amanda Askell is thinking through what that means",
-      "url": "https://www.fastcompany.com/91560768/claude-is-becoming-more-agentic-amanda-askell-is-thinking-through-what-that-means?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Amanda Askell spends her days thinking about how to ensure Claude, Anthropic&#8217;s AI chatbot, operates with a sense of morality.\n\n\n\nAs AI models move from chatbots toward agents that can complete tasks on their own, the decisions these models make stand to become far more consequential. Askell, a member of the technical staff at Anthropic, sits at the center of the company\u2019s effort to give Claude an ethical compass, a responsibility that grows as the system\u2019s capabilities expand. \u201cAs models are more autonomous and take actions over longer horizons, suddenly they have a lot more decision poi",
-      "source": "Fast Company Tech",
-      "score": 6.6,
-      "published": "2026-06-19T11:11:00+00:00",
-      "fetched_at": "2026-06-19T18:01:08.134496+00:00"
-    },
-    {
-      "id": "8d95c9dea9df",
-      "title": "How Attention.com Turns Sales Calls Into Pipeline: The Best GTM Data You Own, and Why Most B2B Teams Throw It Away",
-      "url": "https://www.saastr.com/how-attention-com-turns-sales-calls-into-pipeline-the-best-gtm-data-you-own-and-why-most-b2b-teams-throw-it-away/",
-      "summary": "At SaaStr AI 2026, Anis Bennaceur, co-founder and CEO of Attention.com, gave one of the more practical go-to-market sessions of the week. Attention is a Series B company at roughly $15M ARR, growing 4-5x year over year, with customers including Scale AI, Lovable, Abridge, and Engine.com. The product automates increasingly intelligent work for sales teams.... Continue Reading",
+      "id": "bcd5b1d771ce",
+      "title": "Salesforce at 2.8x ARR, HubSpot Down 56%, Adobe at 11x Earnings: Are They Just Too Oversold Now?",
+      "url": "https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/",
+      "summary": "Four months ago the markets decided B2B software was dead. In a 48-hour stretch in February, roughly $285 billion in software market cap evaporated. The trigger was the fear that AI agents would make per-seat licensing obsolete, that the entire model of charging companies for seats their employees would no longer need was about to... Continue Reading",
       "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-06-19T09:21:05+00:00",
-      "fetched_at": "2026-06-19T18:01:04.958009+00:00"
+      "score": 8.8,
+      "published": "2026-06-22T14:01:26+00:00",
+      "fetched_at": "2026-06-22T19:32:13.271007+00:00"
     },
     {
-      "id": "f364d16f86f5",
-      "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
-      "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
-      "summary": "Anthropic announced a potentially game-changing new feature for users of Claude Code on the Claude Team and Enterprise subscription plans: Artifacts. This update turns a Claude Code session&#x27;s work into a live, interactive, and shareable, custom HTML webpage, allowing a Claude Code user to plug in live code, multiple data sources, and have it surface on an interactive URL that they can send to other teammates \u2014 be it a dashboard, an app design, or some other product meant for internal usage. These teammates and the original user can watch the webpage it update in real-time as Claude Code g",
+      "id": "ff328fba8bbd",
+      "title": "Why agentic enterprises need to become learning systems",
+      "url": "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems",
+      "summary": "Presented by SplunkEvery day, organizations learn things their AI systems never get to use.A security analyst corrects an AI-generated investigation. A network engineer identifies the root cause of a recurring outage. An observability team discovers that a pattern of latency, logs and infrastructure changes predicts service degradation. A customer operations team learns which signals indicate an escalation is likely.Each moment contains valuable organizational knowledge. But in most enterprises, that knowledge disappears into tickets, dashboards, chat threads, post-incident reviews and the min",
       "source": "VentureBeat",
       "score": 6.6,
-      "published": "2026-06-18T23:18:59+00:00",
-      "fetched_at": "2026-06-19T18:01:04.422375+00:00"
+      "published": "2026-06-22T15:00:00+00:00",
+      "fetched_at": "2026-06-22T19:32:12.803217+00:00"
     },
     {
-      "id": "e19f2ddd75ce",
-      "title": "Chelsea Finn wants robots to get better at learning",
-      "url": "https://www.fastcompany.com/91550763/chelsea-finn-wants-robots-to-get-better-at-learning?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Robots and AI agents are still limited when it comes to learning new things. That\u2019s exactly the problem that fascinates Chelsea Finn, a Stanford computer science and engineering professor. Her research focuses on giving autonomous systems frameworks to reason through complex tasks.\n\n\n\nRobots, for example, can be trained to break large problems into smaller steps. Even when they know the subtask, \u201ctranslating that into low-level motor commands is incredibly difficult to achieve in robots,\u201d Finn says. \u201cI&#8217;ve actually spent more time on the low-level motor control because in many ways it&#82",
-      "source": "Fast Company Tech",
-      "score": 6.6,
-      "published": "2026-06-18T11:00:00+00:00",
-      "fetched_at": "2026-06-19T18:01:08.135047+00:00"
+      "id": "f7e90b2ac2f3",
+      "title": "\u2018So much for caring about the environment\u2019: REI faces backlash over AI-generated ad suspicions",
+      "url": "https://www.fastcompany.com/91562948/rei-faces-backlash-over-ai-generated-ad-suspicions-so-much-for-caring-about-the-environment",
+      "summary": "A deformed bike had social media convinced that REI used AI for its advertising, undermining the brand\u2019s eco-friendly reputation.\n\nGiven data centers\u2019 massive water and energy usage, noise pollution, and contribution to rising temperatures, it\u2019s clear that artificial intelligence and the great outdoors just don\u2019t mix. That means brands catering to the tree huggers out there should steer clear of generative AI in their marketing\u2014a lesson that outdoor gear retailer REI may have just learned the hard way.",
+      "source": "Fast Company",
+      "score": 5.0,
+      "published": "2026-06-22T18:45:00+00:00",
+      "fetched_at": "2026-06-22T19:32:18.433664+00:00"
+    },
+    {
+      "id": "680a8c9582aa",
+      "title": "CFOs Are Coming For The Enterprise AI Budget",
+      "url": "https://www.forbes.com/sites/ronschmelzer/2026/06/22/cfos-are-coming-for-the-enterprise-ai-budget/",
+      "summary": "Enterprise AI vendors know the next sale will be won not only on model quality and capability, but also on control and cost.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-06-22T18:23:00+00:00",
+      "fetched_at": "2026-06-22T19:32:14.400200+00:00"
+    },
+    {
+      "id": "24f4ac0bbeaa",
+      "title": "Drowning in AI: Companies are launching hundreds of projects, and that\u2019s a problem",
+      "url": "https://fortune.com/2026/06/22/ai-talk-in-aspen/",
+      "summary": "At Fortune Brainstorm Tech, executives from Carvana, GSX and other firms shared lessons for companies about rapid AI adoption.",
+      "source": "Fortune",
+      "score": 4.0,
+      "published": "2026-06-22T18:01:20+00:00",
+      "fetched_at": "2026-06-22T19:32:17.549569+00:00"
+    },
+    {
+      "id": "452651048c60",
+      "title": "AI hit the memory wall \u2014 now it needs a new context tier",
+      "url": "https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier",
+      "summary": "Presented by SolidigmAs inference workloads evolve from discrete question-and-answer exchanges into persistent, multi-step agentic systems, GPU availability is no longer the most critical AI bottleneck. Instead, the bottleneck has migrated from compute to context, says Jeff Harthorn, AI applied research lead at Solidigm.&quot;Why context management has become a primary bottleneck, more than GPU availability or compute efficiency, is the question of 2026,&quot; says Harthorn. &quot;GPUs have gotten dramatically cheaper per FLOP. Model architectures and inference serving engines have all gotten ",
+      "source": "VentureBeat",
+      "score": 3.3,
+      "published": "2026-06-22T07:00:00+00:00",
+      "fetched_at": "2026-06-22T19:32:12.803384+00:00"
+    },
+    {
+      "id": "c901b8eb478e",
+      "title": "June Prime Day live blog 2026: We're tracking Amazon deals on SSDs, TVs, laptops and more",
+      "url": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-22-2026/",
+      "summary": "LIVE: Prime Day 2026 early deals are here. Follow our live blog for real-time tracking on the lowest prices for 4K TVs, M5 MacBooks, Samsung devices, SSDs, and more tech.",
+      "source": "ZDNet",
+      "score": 3.0,
+      "published": "2026-06-22T19:13:38+00:00",
+      "fetched_at": "2026-06-22T19:32:15.210049+00:00"
+    },
+    {
+      "id": "66db6f1fb2bf",
+      "title": "Why AI tokens will send your enterprise cloud bill sky-high again",
+      "url": "https://www.zdnet.com/article/why-ai-tokens-will-send-enterprise-cloud-bill-sky-high/",
+      "summary": "AI tokens will remind many enterprise customers of cloud pricing's early days. However, measuring the value derived from AI remains an unsolved problem.",
+      "source": "ZDNet",
+      "score": 3.0,
+      "published": "2026-06-22T17:58:38+00:00",
+      "fetched_at": "2026-06-22T19:32:15.210183+00:00"
+    },
+    {
+      "id": "2fbb1baf7cc0",
+      "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
+      "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+      "summary": "SpaceX has turned its Colossus data center into a commercial computing power platform, landing recent deals with Anthropic, Google and Cursor.",
+      "source": "CNBC Economy",
+      "score": 3.0,
+      "published": "2026-06-22T15:00:01+00:00",
+      "fetched_at": "2026-06-22T19:32:11.499536+00:00"
+    },
+    {
+      "id": "99cac7b42886",
+      "title": "The Supply Chain Wake-Up Call: Why Digitization Can No Longer Wait",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/22/the-supply-chain-wake-up-call-why-digitization-can-no-longer-wait/",
+      "summary": "\u200bOrganizations successfully navigating this environment are typically those without large transformation budgets. Their advantage lies in having real-time visibility.",
+      "source": "Forbes Innovation",
+      "score": 3.0,
+      "published": "2026-06-22T13:45:00+00:00",
+      "fetched_at": "2026-06-22T19:32:14.400605+00:00"
     }
   ],
   "history": [
@@ -162,7 +162,19 @@
     "https://www.fastcompany.com/91560768/claude-is-becoming-more-agentic-amanda-askell-is-thinking-through-what-that-means?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.saastr.com/how-attention-com-turns-sales-calls-into-pipeline-the-best-gtm-data-you-own-and-why-most-b2b-teams-throw-it-away/",
     "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
-    "https://www.fastcompany.com/91550763/chelsea-finn-wants-robots-to-get-better-at-learning?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91550763/chelsea-finn-wants-robots-to-get-better-at-learning?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+    "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
+    "https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/",
+    "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems",
+    "https://www.fastcompany.com/91562948/rei-faces-backlash-over-ai-generated-ad-suspicions-so-much-for-caring-about-the-environment",
+    "https://www.forbes.com/sites/ronschmelzer/2026/06/22/cfos-are-coming-for-the-enterprise-ai-budget/",
+    "https://fortune.com/2026/06/22/ai-talk-in-aspen/",
+    "https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier",
+    "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-22-2026/",
+    "https://www.zdnet.com/article/why-ai-tokens-will-send-enterprise-cloud-bill-sky-high/",
+    "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/06/22/the-supply-chain-wake-up-call-why-digitization-can-no-longer-wait/"
   ],
-  "generated_at": "2026-06-19T18:01:08.443053+00:00"
+  "generated_at": "2026-06-22T19:32:18.434481+00:00"
 }
