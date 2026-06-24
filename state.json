@@ -1,46 +1,6 @@
 {
   "queue": [
     {
-      "id": "1e92c9ccf640",
-      "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
-      "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
-      "summary": "Last night, the increasingly enterprise-focused AI startup Sakana launched Fugu, a multi-agent orchestration system that delivers frontier-level AI performance through a single, OpenAI-compatible API. Designed for developers, enterprises, and nations seeking resilience against vendor lock-in and geopolitical export controls, Fugu (Japanese for &quot;pufferfish&quot;), bypasses the traditional monolithic model structure by dynamically routing queries to a swappable pool of specialized AI agents. Sakana CEO and co-founder David Ha, formerly of Google Brain, positioned Fugu as a more reliable opt",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-06-22T16:13:00+00:00",
-      "fetched_at": "2026-06-22T19:32:12.803132+00:00"
-    },
-    {
-      "id": "283081a66ebf",
-      "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
-      "url": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
-      "summary": "Not every company can or should build their own frontier AI language model. However, the harness controlling the model is something that most enterprises can and should customize for their specific purposes.Of course, this is easier said than done. Agent harnesses are still largely tuned through manual, ad hoc debugging \u2014 a process that relies heavily on intuition rather than systematic feedback loops, making it difficult to keep pace with rapidly evolving LLMs.To solve this challenge, researchers at the Shanghai Artificial Intelligence Laboratory have introduced \u201cSelf-Harness,\u201d a new paradigm",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-06-22T14:23:00+00:00",
-      "fetched_at": "2026-06-22T19:32:12.803308+00:00"
-    },
-    {
-      "id": "bcd5b1d771ce",
-      "title": "Salesforce at 2.8x ARR, HubSpot Down 56%, Adobe at 11x Earnings: Are They Just Too Oversold Now?",
-      "url": "https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/",
-      "summary": "Four months ago the markets decided B2B software was dead. In a 48-hour stretch in February, roughly $285 billion in software market cap evaporated. The trigger was the fear that AI agents would make per-seat licensing obsolete, that the entire model of charging companies for seats their employees would no longer need was about to... Continue Reading",
-      "source": "SaaStr",
-      "score": 8.8,
-      "published": "2026-06-22T14:01:26+00:00",
-      "fetched_at": "2026-06-22T19:32:13.271007+00:00"
-    },
-    {
-      "id": "ff328fba8bbd",
-      "title": "Why agentic enterprises need to become learning systems",
-      "url": "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems",
-      "summary": "Presented by SplunkEvery day, organizations learn things their AI systems never get to use.A security analyst corrects an AI-generated investigation. A network engineer identifies the root cause of a recurring outage. An observability team discovers that a pattern of latency, logs and infrastructure changes predicts service degradation. A customer operations team learns which signals indicate an escalation is likely.Each moment contains valuable organizational knowledge. But in most enterprises, that knowledge disappears into tickets, dashboards, chat threads, post-incident reviews and the min",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-06-22T15:00:00+00:00",
-      "fetched_at": "2026-06-22T19:32:12.803217+00:00"
-    },
-    {
       "id": "f7e90b2ac2f3",
       "title": "\u2018So much for caring about the environment\u2019: REI faces backlash over AI-generated ad suspicions",
       "url": "https://www.fastcompany.com/91562948/rei-faces-backlash-over-ai-generated-ad-suspicions-so-much-for-caring-about-the-environment",
@@ -71,16 +31,6 @@
       "fetched_at": "2026-06-22T19:32:17.549569+00:00"
     },
     {
-      "id": "452651048c60",
-      "title": "AI hit the memory wall \u2014 now it needs a new context tier",
-      "url": "https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier",
-      "summary": "Presented by SolidigmAs inference workloads evolve from discrete question-and-answer exchanges into persistent, multi-step agentic systems, GPU availability is no longer the most critical AI bottleneck. Instead, the bottleneck has migrated from compute to context, says Jeff Harthorn, AI applied research lead at Solidigm.&quot;Why context management has become a primary bottleneck, more than GPU availability or compute efficiency, is the question of 2026,&quot; says Harthorn. &quot;GPUs have gotten dramatically cheaper per FLOP. Model architectures and inference serving engines have all gotten ",
-      "source": "VentureBeat",
-      "score": 3.3,
-      "published": "2026-06-22T07:00:00+00:00",
-      "fetched_at": "2026-06-22T19:32:12.803384+00:00"
-    },
-    {
       "id": "c901b8eb478e",
       "title": "June Prime Day live blog 2026: We're tracking Amazon deals on SSDs, TVs, laptops and more",
       "url": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-22-2026/",
@@ -101,24 +51,74 @@
       "fetched_at": "2026-06-22T19:32:15.210183+00:00"
     },
     {
-      "id": "2fbb1baf7cc0",
-      "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
-      "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-      "summary": "SpaceX has turned its Colossus data center into a commercial computing power platform, landing recent deals with Anthropic, Google and Cursor.",
-      "source": "CNBC Economy",
-      "score": 3.0,
-      "published": "2026-06-22T15:00:01+00:00",
-      "fetched_at": "2026-06-22T19:32:11.499536+00:00"
+      "id": "9744c14350ad",
+      "title": "OpenAI unveils first custom AI inference chip, Jalape\u00f1o, with Broadcom \u2014 and its development was sped-up with OpenAI's own models",
+      "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
+      "summary": "OpenAI and Broadcom this morning unveiled their first custom AI accelerator chip named &quot;Jalape\u00f1o,&quot; positioning it is as a purpose-built processor for large language model (LLM) inference, rather than the more general GPUs offered by the likes of Nvidia or AMD. According to its creators, Jalape\u00f1o is designed to support workloads behind ChatGPT, Codex, the API and future agentic products, though notably, both OpenAI&#x27;s and Broadcom&#x27;s news releases position it as a product that could be made available to external AI firms as well \u2014 &quot;built from the ground up for current and",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-06-24T15:14:00+00:00",
+      "fetched_at": "2026-06-24T17:56:38.394564+00:00"
     },
     {
-      "id": "99cac7b42886",
-      "title": "The Supply Chain Wake-Up Call: Why Digitization Can No Longer Wait",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/22/the-supply-chain-wake-up-call-why-digitization-can-no-longer-wait/",
-      "summary": "\u200bOrganizations successfully navigating this environment are typically those without large transformation budgets. Their advantage lies in having real-time visibility.",
+      "id": "a8a23fefbe1c",
+      "title": "Amazon will present its framework for engineering trustworthy AI agents at VB Transform 2026",
+      "url": "https://venturebeat.com/orchestration/amazon-will-present-its-framework-for-engineering-trustworthy-ai-agents-at-vb-transform-2026",
+      "summary": "AI agents are increasingly proficient at executing business tasks autonomously, but IT leaders are cautious about granting permissions to access enterprise systems.\u00a0Part of the challenge lies in how AI reliability is measured. Industry standards often rely on EVAL scores, which provide a static snapshot of performance rather than a measure of overall reliability. These metrics can fail to capture predictability across prompts, environments, and input types, said Bryan Silverthorn, director of the AGI Autonomy research lab at Amazon.Amazon\u2019s AGI autonomy research lab is moving beyond raw perfor",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-06-24T16:30:00+00:00",
+      "fetched_at": "2026-06-24T17:56:38.394372+00:00"
+    },
+    {
+      "id": "f64dcbff94ca",
+      "title": "One fake web page can be enough to trick AI shopping recommendations",
+      "url": "https://www.fastcompany.com/91562049/one-fake-webpage-can-be-enough-to-trick-ai-shopping-recommendations?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "AI recommender systems are becoming an increasingly important part of how we shop. About 2% of all referrals to major shopping websites like Target and Walmart come from large language models, according to data.ai.\n\n\n\nBut LLMs can be easily swayed, according to a new study by Minghao Luo and Liang Chen, published on the arXiv preprint server, which tested how easily search-augmented AI systems can be pushed into promoting fake brands. The researchers found that when AI models are fed polluted search results, they can turn fabricated products into seemingly authoritative recommendations.\n\n\n\nLuo",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-06-23T10:00:00+00:00",
+      "fetched_at": "2026-06-24T17:56:41.814325+00:00"
+    },
+    {
+      "id": "a36fd5ea2f50",
+      "title": "PayPal Put Agentforce on 8,000 Leads a Month No Human Was Going to Call. Conversions Jumped 50%.",
+      "url": "https://www.saastr.com/paypal-put-agentforce-on-8000-leads-a-month-no-human-was-going-to-call-conversions-jumped-50/",
+      "summary": "One of the best sessions at SaaStr AI 2026 wasn&#8217;t a grand keynote about the future of AI. It was two operators showing exactly what&#8217;s working right now in AI agents for sales. Amelia Lerutte sat down with Adam Alfano, President at Salesforce, and Eitan Saban, Head of Sales for North America Mid Market at... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-06-24T14:10:35+00:00",
+      "fetched_at": "2026-06-24T17:56:38.816583+00:00"
+    },
+    {
+      "id": "f73a2e5f5169",
+      "title": "\u200bWhy The Autonomous Connected Enterprise Is The Next Operating Model",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/24/why-the-autonomous-connected-enterprise-is-the-next-operating-model/",
+      "summary": "The transition from automation to autonomy requires more than technology.",
       "source": "Forbes Innovation",
-      "score": 3.0,
-      "published": "2026-06-22T13:45:00+00:00",
-      "fetched_at": "2026-06-22T19:32:14.400605+00:00"
+      "score": 6.0,
+      "published": "2026-06-24T14:00:00+00:00",
+      "fetched_at": "2026-06-24T17:56:39.552132+00:00"
+    },
+    {
+      "id": "abc015d0b086",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
+      "source": "MIT Technology Review",
+      "score": 6.0,
+      "published": "2026-06-24T11:59:54+00:00",
+      "fetched_at": "2026-06-24T17:56:37.677674+00:00"
+    },
+    {
+      "id": "6ad2703ed5c3",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-06-23T13:00:00+00:00",
+      "fetched_at": "2026-06-24T17:56:36.444424+00:00"
     }
   ],
   "history": [
@@ -174,7 +174,14 @@
     "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-22-2026/",
     "https://www.zdnet.com/article/why-ai-tokens-will-send-enterprise-cloud-bill-sky-high/",
     "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/06/22/the-supply-chain-wake-up-call-why-digitization-can-no-longer-wait/"
+    "https://www.forbes.com/councils/forbestechcouncil/2026/06/22/the-supply-chain-wake-up-call-why-digitization-can-no-longer-wait/",
+    "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
+    "https://venturebeat.com/orchestration/amazon-will-present-its-framework-for-engineering-trustworthy-ai-agents-at-vb-transform-2026",
+    "https://www.fastcompany.com/91562049/one-fake-webpage-can-be-enough-to-trick-ai-shopping-recommendations?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/paypal-put-agentforce-on-8000-leads-a-month-no-human-was-going-to-call-conversions-jumped-50/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/06/24/why-the-autonomous-connected-enterprise-is-the-next-operating-model/",
+    "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"
   ],
-  "generated_at": "2026-06-22T19:32:18.434481+00:00"
+  "generated_at": "2026-06-24T17:56:42.220460+00:00"
 }
