@@ -1,56 +1,6 @@
 {
   "queue": [
     {
-      "id": "9744c14350ad",
-      "title": "OpenAI unveils first custom AI inference chip, Jalape\u00f1o, with Broadcom \u2014 and its development was sped-up with OpenAI's own models",
-      "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
-      "summary": "OpenAI and Broadcom this morning unveiled their first custom AI accelerator chip named &quot;Jalape\u00f1o,&quot; positioning it is as a purpose-built processor for large language model (LLM) inference, rather than the more general GPUs offered by the likes of Nvidia or AMD. According to its creators, Jalape\u00f1o is designed to support workloads behind ChatGPT, Codex, the API and future agentic products, though notably, both OpenAI&#x27;s and Broadcom&#x27;s news releases position it as a product that could be made available to external AI firms as well \u2014 &quot;built from the ground up for current and",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-06-24T15:14:00+00:00",
-      "fetched_at": "2026-06-24T17:56:38.394564+00:00"
-    },
-    {
-      "id": "a8a23fefbe1c",
-      "title": "Amazon will present its framework for engineering trustworthy AI agents at VB Transform 2026",
-      "url": "https://venturebeat.com/orchestration/amazon-will-present-its-framework-for-engineering-trustworthy-ai-agents-at-vb-transform-2026",
-      "summary": "AI agents are increasingly proficient at executing business tasks autonomously, but IT leaders are cautious about granting permissions to access enterprise systems.\u00a0Part of the challenge lies in how AI reliability is measured. Industry standards often rely on EVAL scores, which provide a static snapshot of performance rather than a measure of overall reliability. These metrics can fail to capture predictability across prompts, environments, and input types, said Bryan Silverthorn, director of the AGI Autonomy research lab at Amazon.Amazon\u2019s AGI autonomy research lab is moving beyond raw perfor",
-      "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-06-24T16:30:00+00:00",
-      "fetched_at": "2026-06-24T17:56:38.394372+00:00"
-    },
-    {
-      "id": "a36fd5ea2f50",
-      "title": "PayPal Put Agentforce on 8,000 Leads a Month No Human Was Going to Call. Conversions Jumped 50%.",
-      "url": "https://www.saastr.com/paypal-put-agentforce-on-8000-leads-a-month-no-human-was-going-to-call-conversions-jumped-50/",
-      "summary": "One of the best sessions at SaaStr AI 2026 wasn&#8217;t a grand keynote about the future of AI. It was two operators showing exactly what&#8217;s working right now in AI agents for sales. Amelia Lerutte sat down with Adam Alfano, President at Salesforce, and Eitan Saban, Head of Sales for North America Mid Market at... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-06-24T14:10:35+00:00",
-      "fetched_at": "2026-06-24T17:56:38.816583+00:00"
-    },
-    {
-      "id": "f73a2e5f5169",
-      "title": "\u200bWhy The Autonomous Connected Enterprise Is The Next Operating Model",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/24/why-the-autonomous-connected-enterprise-is-the-next-operating-model/",
-      "summary": "The transition from automation to autonomy requires more than technology.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-06-24T14:00:00+00:00",
-      "fetched_at": "2026-06-24T17:56:39.552132+00:00"
-    },
-    {
-      "id": "abc015d0b086",
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
-      "source": "MIT Technology Review",
-      "score": 6.0,
-      "published": "2026-06-24T11:59:54+00:00",
-      "fetched_at": "2026-06-24T17:56:37.677674+00:00"
-    },
-    {
       "id": "46d1c37c2a25",
       "title": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
       "url": "https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel",
@@ -119,6 +69,56 @@
       "score": 5.5,
       "published": "2026-06-24T21:04:04+00:00",
       "fetched_at": "2026-06-25T18:12:04.514247+00:00"
+    },
+    {
+      "id": "c0167e220d39",
+      "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
+      "url": "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
+      "summary": "An endpoint agent cannot report its own absence. The 2026 Axonius Actionability Report, conducted with the Ponemon Institute and surveying 662 IT and security professionals, put a number on a gap SOC teams have worked around for years. Across the Axonius customer base, 12.7% of devices in a 298,000-device median inventory are missing their expected security agent.If a device has no agent, no management console shows it. If a CMDB record is stale, no reconciliation flags it. An employee who installed Claude Enterprise outside procurement created a SaaS workspace, identity surface, and API-token",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-06-26T17:32:42+00:00",
+      "fetched_at": "2026-06-26T17:50:32.056734+00:00"
+    },
+    {
+      "id": "2746eb7c8495",
+      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
+      "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
+      "summary": "Liquid AI, founded by former MIT computer scientists, today released its smallest AI language model yet, LFM2.5-230M, and enterprises would do well to consider it for their uses in data extraction and local deployment on smartphones, laptops and robotics.This is a 230-million-parameter foundation model explicitly designed for on-device agentic workflows, and as Liquid states in its release blog post, that small size makes it possible to run nearly &quot;anywhere.&quot; According to Liquid, it also outperforms models more than 4X its size on selected benchmarks, specifically doing better at dat",
+      "source": "VentureBeat",
+      "score": 9.9,
+      "published": "2026-06-25T23:31:00+00:00",
+      "fetched_at": "2026-06-26T17:50:32.057073+00:00"
+    },
+    {
+      "id": "6016ed6b95f4",
+      "title": "Why 'Just Use AI' Is A Risky IT Policy\u2014And What To Do Instead",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/26/why-just-use-ai-is-a-risky-it-policy-and-what-to-do-instead/",
+      "summary": "The pace of enterprise AI adoption has outrun the governance that should sit beneath it.",
+      "source": "Forbes Innovation",
+      "score": 8.0,
+      "published": "2026-06-26T15:00:00+00:00",
+      "fetched_at": "2026-06-26T17:50:33.786692+00:00"
+    },
+    {
+      "id": "ea0dbf8459d3",
+      "title": "We Crossed 200,000 YouTube Subscribers: The Fastest-Growing Content Is Us Running AI Agents in Public",
+      "url": "https://www.saastr.com/we-crossed-200000-youtube-subscribers-the-fastest-growing-content-is-us-running-ai-agents-in-public/",
+      "summary": "This week the SaaStr AI YouTube channel passed 200,000 subscribers 11.7 million views and 1,022,350 hours watched, which is roughly 116 years of continuous watch time. Average view duration sits at 5 minutes 50 seconds. People aren&#8217;t bouncing. A year ago, the most-watched content on this channel was about how B2B companies scale. Pricing, sales... Continue Reading",
+      "source": "SaaStr",
+      "score": 7.7,
+      "published": "2026-06-26T12:55:40+00:00",
+      "fetched_at": "2026-06-26T17:50:32.806710+00:00"
+    },
+    {
+      "id": "94140c425b4d",
+      "title": "How HappyFox Closed $1M in Expansion on a $20 AI Agent Spend with CEO Shalin Jain",
+      "url": "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/",
+      "summary": "Most B2B companies pour money into the top of the funnel. More leads, better conversion, bigger ad spend. The cheapest growth they have is already sitting inside their own customer base, and almost nobody is mining it. At SaaStr AI 2026, Shalin Jain, founder and CEO of HappyFox, walked through exactly how his team did... Continue Reading",
+      "source": "SaaStr",
+      "score": 7.7,
+      "published": "2026-06-26T09:14:13+00:00",
+      "fetched_at": "2026-06-26T17:50:32.806784+00:00"
     }
   ],
   "history": [
@@ -188,7 +188,12 @@
     "https://www.saastr.com/amjad-masad-and-me-at-saastr-ai-2026-the-agents-we-actually-built-and-what-replits-founder-thinks-comes-next/",
     "https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026",
     "https://www.saastr.com/what-vcs-are-hunting-today-100b-in-10-years/",
-    "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play"
+    "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
+    "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
+    "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/06/26/why-just-use-ai-is-a-risky-it-policy-and-what-to-do-instead/",
+    "https://www.saastr.com/we-crossed-200000-youtube-subscribers-the-fastest-growing-content-is-us-running-ai-agents-in-public/",
+    "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/"
   ],
-  "generated_at": "2026-06-25T18:12:10.669361+00:00"
+  "generated_at": "2026-06-26T17:50:37.750290+00:00"
 }
