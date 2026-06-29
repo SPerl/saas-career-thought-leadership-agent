@@ -1,124 +1,124 @@
 {
   "queue": [
     {
-      "id": "46d1c37c2a25",
-      "title": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
-      "url": "https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel",
-      "summary": "AI agent orchestration platforms are popping up like weeds these days, but London-based AI transformation startup Mindstone&#x27;s Rebel might be among the most promising I&#x27;ve come across. That&#x27;s because the system, which officially launched this week, is a local-first, agentic AI operating system distributed under a &quot;Fair Source&quot; license, allowing teams of under 100 users to freely adopt and customize it to suit their needs, while those organizations with more users will require paying for an enterprise license. The marquee features are its simplicity and extensive customi",
+      "id": "fa55756d1486",
+      "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
+      "url": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
+      "summary": "In the past two years, businesses have been trying to fit large language models (LLMs) into support, analytics, development, and internal automation like never before. Along with the increasing adoption of AI technology, another trend is gaining momentum \u2014 cybercriminals are taking advantage of the disconnect between assumptions about LLMs and their actual characteristics.In 2025 and 2026, several independent sources have highlighted the same trend: Prompt injection remains one of the most impactful and widely demonstrated attack vectors against LLM systems. The OWASP LLM Top 10 (2025) lists p",
       "source": "VentureBeat",
-      "score": 17.6,
-      "published": "2026-06-24T23:02:15+00:00",
-      "fetched_at": "2026-06-25T18:12:04.514140+00:00"
+      "score": 14.3,
+      "published": "2026-06-28T18:00:16+00:00",
+      "fetched_at": "2026-06-29T18:09:36.279851+00:00"
     },
     {
-      "id": "7ac6b73d58dc",
-      "title": "Xiaomi's HarnessX rewrites its own AI scaffolding mid-task \u2014 and smaller models gain the most",
-      "url": "https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most",
-      "summary": "As enterprise AI agents take on increasingly complex, long-horizon tasks, their performance is often restricted by their harness, the software scaffolding that connects the backbone LLM to its environment.\u00a0Currently, harnesses are largely static and hand-crafted. Improving them is largely manual and they do not automatically improve based on the execution data they collect from their environment.To address this engineering bottleneck, researchers at Xiaomi introduced HarnessX, a framework that treats the AI harness as a composable object and autonomously applies improvements to its code.\u00a0In re",
-      "source": "VentureBeat",
-      "score": 17.6,
-      "published": "2026-06-24T18:45:08+00:00",
-      "fetched_at": "2026-06-25T18:12:04.514404+00:00"
+      "id": "90763c99a9ca",
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an \u201cinflection year\u201d for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
+      "source": "MIT Technology Review",
+      "score": 9.6,
+      "published": "2026-06-29T14:44:01+00:00",
+      "fetched_at": "2026-06-29T18:09:35.564854+00:00"
     },
     {
-      "id": "031a81233d62",
-      "title": "Agentic-Native Platforms Are Creating A New Technology Business Model",
-      "url": "https://www.forbes.com/sites/peterbendorsamuel/2026/06/25/agentic-native-platforms-are-creating-a-new-technology-business-model/",
-      "summary": "For decades, the enterprise technology industry operated on a simple principle: software companies built products, and services firms helped enterprises.",
-      "source": "Forbes Innovation",
-      "score": 7.0,
-      "published": "2026-06-25T16:42:00+00:00",
-      "fetched_at": "2026-06-25T18:12:05.866103+00:00"
+      "id": "4037165a8011",
+      "title": "Databricks\u2019 Co-Founder Arsalan Tavakoli: Every Software Monopoly Falls in the Next 24 Months",
+      "url": "https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/",
+      "summary": "Databricks is now running at a stunning $6.9B revenue run-rate, growing 80%+ year over year, with AI products alone past a $1.7B run-rate and net retention above 140%. That gives co-founder Arsalan Tavakoli-Shiraji better visibility into what enterprises are actually doing with AI budget than almost anyone. On stage at SaaStr AI, he laid out... Continue Reading",
+      "source": "SaaStr",
+      "score": 8.8,
+      "published": "2026-06-29T14:10:34+00:00",
+      "fetched_at": "2026-06-29T18:09:36.781851+00:00"
     },
     {
-      "id": "cb482e159080",
-      "title": "Amjad Masad and Me at SaaStr AI 2026: The Agents We Actually Built, and What Replit\u2019s Founder Thinks Comes Next",
-      "url": "https://www.saastr.com/amjad-masad-and-me-at-saastr-ai-2026-the-agents-we-actually-built-and-what-replits-founder-thinks-comes-next/",
-      "summary": "We we fortunate enough to get Amjad Masad, co-founder and CEO of Replit, on stage live at SaaStr AI 2026 to react in real time to the agents we run SaaStrAI on. Not a demo deck. The actual AI agents doing the actual work: 10K (our AIVP of Marketing), QBee (our AI Customer Success rep),... Continue Reading",
+      "id": "646a4ab29a2f",
+      "title": "One Stalled Deal, One Automation, 10 New Prospects: Lightfield CEO Keith Peiris Demos the AI-Native GTM Loop Live",
+      "url": "https://www.saastr.com/watching-an-ai-native-crm-run-the-full-gtm-loop-live-lightfield-ceo-keith-peiris-demos-a-stalled-deal-an-automation-and-ten-new-prospects/",
+      "summary": "Watching an AI-Native CRM Run the Full GTM Loop Live: Lightfield CEO Keith Peiris Demos a Stalled Deal, an Automation, and Ten New Prospects Most CRM demos show you a nicer place to store data you still have to enter yourself. Lightfield&#8217;s demo at SaaStr did the opposite. Keith Peiris, co-founder and CEO, worked a... Continue Reading",
       "source": "SaaStr",
       "score": 6.6,
-      "published": "2026-06-25T12:09:19+00:00",
-      "fetched_at": "2026-06-25T18:12:05.092195+00:00"
+      "published": "2026-06-28T09:25:52+00:00",
+      "fetched_at": "2026-06-29T18:09:36.782016+00:00"
     },
     {
-      "id": "145993aa3368",
-      "title": "Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026",
-      "url": "https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026",
-      "summary": "Drug discovery is notoriously inefficient. Pharmaceutical projects span years, moving from one specialized human team to the next through disconnected workflows that result in knowledge loss during each handoff.\u00a0A shocking 90% to 95% of drug discovery projects reportedly fail \u2014 one of the highest failure rates of any industry. A single successful drug can take over a dozen years and up to $1 billion from initial discovery to patient distribution, according to published reports.\u00a0Generative AI is being used to solve some of the challenges, but Stanford researchers have moved the ball forward wit",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-06-24T18:30:00+00:00",
-      "fetched_at": "2026-06-25T18:12:04.514470+00:00"
-    },
-    {
-      "id": "7b33b713d057",
-      "title": "What VCs Are Hunting Today: $100B in 10 Years",
-      "url": "https://www.saastr.com/what-vcs-are-hunting-today-100b-in-10-years/",
-      "summary": "When I was a founder, a $1B outcome was pretty crazy.\u00a0 Salesforce was worth $2B when I started as a B2B founder, and when the first wave of B2B software IPOs went out after that (Box, HubSpot, Zendesk), they all were worth around $1B, plus or minus. Boy that sounds quaint today. The goal for... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-06-25T14:10:15+00:00",
-      "fetched_at": "2026-06-25T18:12:05.092143+00:00"
-    },
-    {
-      "id": "2aaf95165aa9",
-      "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
-      "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
-      "summary": "Mistral AI on Tuesday released OCR 4, a document intelligence model that moves beyond raw text extraction to return structured representations of entire documents \u2014 complete with bounding boxes, block-type classification, and per-word confidence scores. The release marks Mistral&#x27;s fourth generation of optical character recognition technology in roughly 15 months and lands at a moment when the company&#x27;s pitch for European AI sovereignty has never been more commercially relevant.The model supports 170 languages across 10 language groups, accepts PDF, DOC, PPT, and OpenDocument formats,",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-06-24T21:04:04+00:00",
-      "fetched_at": "2026-06-25T18:12:04.514247+00:00"
-    },
-    {
-      "id": "c0167e220d39",
-      "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
-      "url": "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
-      "summary": "An endpoint agent cannot report its own absence. The 2026 Axonius Actionability Report, conducted with the Ponemon Institute and surveying 662 IT and security professionals, put a number on a gap SOC teams have worked around for years. Across the Axonius customer base, 12.7% of devices in a 298,000-device median inventory are missing their expected security agent.If a device has no agent, no management console shows it. If a CMDB record is stale, no reconciliation flags it. An employee who installed Claude Enterprise outside procurement created a SaaS workspace, identity surface, and API-token",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-06-26T17:32:42+00:00",
-      "fetched_at": "2026-06-26T17:50:32.056734+00:00"
-    },
-    {
-      "id": "2746eb7c8495",
-      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
-      "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
-      "summary": "Liquid AI, founded by former MIT computer scientists, today released its smallest AI language model yet, LFM2.5-230M, and enterprises would do well to consider it for their uses in data extraction and local deployment on smartphones, laptops and robotics.This is a 230-million-parameter foundation model explicitly designed for on-device agentic workflows, and as Liquid states in its release blog post, that small size makes it possible to run nearly &quot;anywhere.&quot; According to Liquid, it also outperforms models more than 4X its size on selected benchmarks, specifically doing better at dat",
-      "source": "VentureBeat",
-      "score": 9.9,
-      "published": "2026-06-25T23:31:00+00:00",
-      "fetched_at": "2026-06-26T17:50:32.057073+00:00"
-    },
-    {
-      "id": "6016ed6b95f4",
-      "title": "Why 'Just Use AI' Is A Risky IT Policy\u2014And What To Do Instead",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/26/why-just-use-ai-is-a-risky-it-policy-and-what-to-do-instead/",
-      "summary": "The pace of enterprise AI adoption has outrun the governance that should sit beneath it.",
+      "id": "db8b5f56fb4f",
+      "title": "From Compliance To Continuous Assurance: Automating Cloud Governance With Policy-As-Code",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/from-compliance-to-continuous-assurance-automating-cloud-governance-with-policy-as-code/",
+      "summary": "Here's how policy-as-code enables real-time cloud governance, continuous assurance, automated compliance enforcement and stronger security across multicloud and cloud-native infrastructures.",
       "source": "Forbes Innovation",
-      "score": 8.0,
-      "published": "2026-06-26T15:00:00+00:00",
-      "fetched_at": "2026-06-26T17:50:33.786692+00:00"
+      "score": 5.0,
+      "published": "2026-06-29T15:00:00+00:00",
+      "fetched_at": "2026-06-29T18:09:38.071010+00:00"
     },
     {
-      "id": "ea0dbf8459d3",
-      "title": "We Crossed 200,000 YouTube Subscribers: The Fastest-Growing Content Is Us Running AI Agents in Public",
-      "url": "https://www.saastr.com/we-crossed-200000-youtube-subscribers-the-fastest-growing-content-is-us-running-ai-agents-in-public/",
-      "summary": "This week the SaaStr AI YouTube channel passed 200,000 subscribers 11.7 million views and 1,022,350 hours watched, which is roughly 116 years of continuous watch time. Average view duration sits at 5 minutes 50 seconds. People aren&#8217;t bouncing. A year ago, the most-watched content on this channel was about how B2B companies scale. Pricing, sales... Continue Reading",
-      "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-06-26T12:55:40+00:00",
-      "fetched_at": "2026-06-26T17:50:32.806710+00:00"
+      "id": "4fa4ad23d3dd",
+      "title": "What You Bring to AI Determines the Result",
+      "url": "https://www.oreilly.com/radar/what-you-bring-to-ai-determines-the-result/",
+      "summary": "Harper Carroll came to AI education through a CS background at Stanford, machine learning engineering at Meta, and a brief stint at a small GPU compute startup in late 2023, where she noticed that almost no one understood how to fine-tune open source models. She started writing and teaching to help drive signups for the [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 4.4,
+      "published": "2026-06-29T16:15:12+00:00",
+      "fetched_at": "2026-06-29T18:09:40.038180+00:00"
     },
     {
-      "id": "94140c425b4d",
-      "title": "How HappyFox Closed $1M in Expansion on a $20 AI Agent Spend with CEO Shalin Jain",
-      "url": "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/",
-      "summary": "Most B2B companies pour money into the top of the funnel. More leads, better conversion, bigger ad spend. The cheapest growth they have is already sitting inside their own customer base, and almost nobody is mining it. At SaaStr AI 2026, Shalin Jain, founder and CEO of HappyFox, walked through exactly how his team did... Continue Reading",
+      "id": "ead4b63ad3a5",
+      "title": "Dear SaaStr: Is It Normal to Feel Like a Pest When Prospecting for Customers For a Startup?",
+      "url": "https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/",
+      "summary": "Dear SaaStr: Is It Normal to Feel Like a Pest When Prospecting for Customers For a Startup? Yes. \u00a0Most of us will feel like a pest when we start doing outbound. So \u2026 get better at it, get over it, and hire folks who know how to do it. Sales is hard. It\u2019s being told... Continue Reading",
       "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-06-26T09:14:13+00:00",
-      "fetched_at": "2026-06-26T17:50:32.806784+00:00"
+      "score": 4.4,
+      "published": "2026-06-28T12:51:01+00:00",
+      "fetched_at": "2026-06-29T18:09:36.781980+00:00"
+    },
+    {
+      "id": "8a9dbbdeab56",
+      "title": "Giving Data Center Builders A Real-Time Picture Of What\u2019s Actually Built",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/giving-data-center-builders-a-real-time-picture-of-whats-actually-built/",
+      "summary": "Construction's biggest overruns aren\u2019t engineering failures; they\u2019re documentation failures.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-06-29T14:00:00+00:00",
+      "fetched_at": "2026-06-29T18:09:38.071131+00:00"
+    },
+    {
+      "id": "37afa33f0ef4",
+      "title": "My AI Night Shift",
+      "url": "https://www.fastcompany.com/91549044/my-ai-night-shift",
+      "summary": "An agentic AI power user explains how he\u2019s using the technology to ramp up his productivity\u2014\u2014and the surprising challenges of finding himself completely caught up with his work. \n\nMost mornings now, I\u2019ve got a new routine. Before coffee, before social media, I check my phone to see what got done while I slept.",
+      "source": "Fast Company",
+      "score": 4.0,
+      "published": "2026-06-29T11:00:00+00:00",
+      "fetched_at": "2026-06-29T18:09:41.949707+00:00"
+    },
+    {
+      "id": "e89ac288503c",
+      "title": "Agent Memory",
+      "url": "https://www.oreilly.com/radar/agent-memory/",
+      "summary": "The following article originally appeared on Angie Jones\u2019s LinkedIn page and is being republished here with the author\u2019s permission. I&#8217;m fascinated by the concept of agent memory. LLMs are stateless by design, meaning they have no memory or awareness of past interactions. Each prompt you send to an LLM is treated as a completely isolated [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 3.3,
+      "published": "2026-06-29T10:53:10+00:00",
+      "fetched_at": "2026-06-29T18:09:40.038236+00:00"
+    },
+    {
+      "id": "23b89c757343",
+      "title": "Dear SaaStr: What is a Good Approach For Price Increases with SMBs?",
+      "url": "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/",
+      "summary": "Dear SaaStr: What is a Good Approach For Price Increases with SMBs? Raising prices in SaaS serving SMBs is tricky but necessary as you scale. SMBs are price-sensitive, so you need to approach this thoughtfully to avoid churn while still driving growth. Here\u2019s how I\u2019d recommend tackling it: 1. Don\u2019t Raise Prices Too Early.\u00a0 Spend... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-06-29T09:34:37+00:00",
+      "fetched_at": "2026-06-29T18:09:36.781905+00:00"
+    },
+    {
+      "id": "509953bf6cc5",
+      "title": "How To Build Your Own AI VP of Marketing: The Full Playbook From SaaStr AI 2026",
+      "url": "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/",
+      "summary": "At SaaStr AI Annual 2026, Amelia Lerutte, SaaStr&#8217;s Chief AI Officer, took five months of running 10K, SaaStr&#8217;s AI VP of Marketing, distilled what worked into a spec, and built a brand-new one from scratch on stage in about 15 minutes. The whole room built theirs at the same time. This is the playbook to... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-06-28T14:10:44+00:00",
+      "fetched_at": "2026-06-29T18:09:36.781941+00:00"
     }
   ],
   "history": [
@@ -193,7 +193,19 @@
     "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
     "https://www.forbes.com/councils/forbestechcouncil/2026/06/26/why-just-use-ai-is-a-risky-it-policy-and-what-to-do-instead/",
     "https://www.saastr.com/we-crossed-200000-youtube-subscribers-the-fastest-growing-content-is-us-running-ai-agents-in-public/",
-    "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/"
+    "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/",
+    "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
+    "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/",
+    "https://www.saastr.com/watching-an-ai-native-crm-run-the-full-gtm-loop-live-lightfield-ceo-keith-peiris-demos-a-stalled-deal-an-automation-and-ten-new-prospects/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/from-compliance-to-continuous-assurance-automating-cloud-governance-with-policy-as-code/",
+    "https://www.oreilly.com/radar/what-you-bring-to-ai-determines-the-result/",
+    "https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/giving-data-center-builders-a-real-time-picture-of-whats-actually-built/",
+    "https://www.fastcompany.com/91549044/my-ai-night-shift",
+    "https://www.oreilly.com/radar/agent-memory/",
+    "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/",
+    "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/"
   ],
-  "generated_at": "2026-06-26T17:50:37.750290+00:00"
+  "generated_at": "2026-06-29T18:09:41.950063+00:00"
 }
