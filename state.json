@@ -31,16 +31,6 @@
       "fetched_at": "2026-06-29T18:09:36.781851+00:00"
     },
     {
-      "id": "646a4ab29a2f",
-      "title": "One Stalled Deal, One Automation, 10 New Prospects: Lightfield CEO Keith Peiris Demos the AI-Native GTM Loop Live",
-      "url": "https://www.saastr.com/watching-an-ai-native-crm-run-the-full-gtm-loop-live-lightfield-ceo-keith-peiris-demos-a-stalled-deal-an-automation-and-ten-new-prospects/",
-      "summary": "Watching an AI-Native CRM Run the Full GTM Loop Live: Lightfield CEO Keith Peiris Demos a Stalled Deal, an Automation, and Ten New Prospects Most CRM demos show you a nicer place to store data you still have to enter yourself. Lightfield&#8217;s demo at SaaStr did the opposite. Keith Peiris, co-founder and CEO, worked a... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-06-28T09:25:52+00:00",
-      "fetched_at": "2026-06-29T18:09:36.782016+00:00"
-    },
-    {
       "id": "db8b5f56fb4f",
       "title": "From Compliance To Continuous Assurance: Automating Cloud Governance With Policy-As-Code",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/from-compliance-to-continuous-assurance-automating-cloud-governance-with-policy-as-code/",
@@ -59,16 +49,6 @@
       "score": 4.4,
       "published": "2026-06-29T16:15:12+00:00",
       "fetched_at": "2026-06-29T18:09:40.038180+00:00"
-    },
-    {
-      "id": "ead4b63ad3a5",
-      "title": "Dear SaaStr: Is It Normal to Feel Like a Pest When Prospecting for Customers For a Startup?",
-      "url": "https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/",
-      "summary": "Dear SaaStr: Is It Normal to Feel Like a Pest When Prospecting for Customers For a Startup? Yes. \u00a0Most of us will feel like a pest when we start doing outbound. So \u2026 get better at it, get over it, and hire folks who know how to do it. Sales is hard. It\u2019s being told... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-06-28T12:51:01+00:00",
-      "fetched_at": "2026-06-29T18:09:36.781980+00:00"
     },
     {
       "id": "8a9dbbdeab56",
@@ -111,14 +91,34 @@
       "fetched_at": "2026-06-29T18:09:36.781905+00:00"
     },
     {
-      "id": "509953bf6cc5",
-      "title": "How To Build Your Own AI VP of Marketing: The Full Playbook From SaaStr AI 2026",
-      "url": "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/",
-      "summary": "At SaaStr AI Annual 2026, Amelia Lerutte, SaaStr&#8217;s Chief AI Officer, took five months of running 10K, SaaStr&#8217;s AI VP of Marketing, distilled what worked into a spec, and built a brand-new one from scratch on stage in about 15 minutes. The whole room built theirs at the same time. This is the playbook to... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-06-28T14:10:44+00:00",
-      "fetched_at": "2026-06-29T18:09:36.781941+00:00"
+      "id": "1475e30083ac",
+      "title": "AI agents need context everywhere they run, even where the cloud can't follow",
+      "url": "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
+      "summary": "The competitive edge in enterprise AI is shifting to context: which platform can give an agent the right memory, the right retrieval and the right data at the moment of decision.Couchbase on Tuesday announced its AI Data Plane, combining persistent agent memory, real-time context retrieval and an enterprise-managed MCP server in a single operational platform.\u00a0Couchbase&#x27;s roots are in caching and high-transaction databases \u2014 an architecture the company argues makes it better suited for agent memory than vendors that came to the problem from search or analytics. The AI Data Plane runs ident",
+      "source": "VentureBeat",
+      "score": 16.5,
+      "published": "2026-06-30T13:00:00+00:00",
+      "fetched_at": "2026-06-30T17:57:50.640437+00:00"
+    },
+    {
+      "id": "5a87f99f8445",
+      "title": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter \u2014 trained entirely on Chinese chips",
+      "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+      "summary": "A few hours ago, Chinese delivery app company Meituan officially unveiled LongCat-2.0 on GitHub, Hugging Face, and its native platform, unmasking the model as the computational engine behind &quot;Owl Alpha,&quot; the anonymous stealth model that has spent the last two months commanding global developer charts on OpenRouter. Developed to fundamentally disrupt closed-source enterprise dominance in autonomous software engineering, the 1.6-trillion-parameter Mixture-of-Experts (MoE) system brings a native 1-million-token context window to the public domain under a highly permissive, enterprise gr",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-06-30T05:39:00+00:00",
+      "fetched_at": "2026-06-30T17:57:50.640617+00:00"
+    },
+    {
+      "id": "b681fdecfb7f",
+      "title": "AI agents are your new colleagues - how to get the best results",
+      "url": "https://www.zdnet.com/article/how-to-create-great-results-with-your-agentic-work-colleagues-in-the-autonomous-business/",
+      "summary": "The future of work is likely to require a careful blend of human skills and AI agents. Here's how to work successfully with your agentic counterparts.",
+      "source": "ZDNet",
+      "score": 7.0,
+      "published": "2026-06-30T09:00:14+00:00",
+      "fetched_at": "2026-06-30T17:57:52.300331+00:00"
     }
   ],
   "history": [
@@ -205,7 +205,10 @@
     "https://www.fastcompany.com/91549044/my-ai-night-shift",
     "https://www.oreilly.com/radar/agent-memory/",
     "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/",
-    "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/"
+    "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/",
+    "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
+    "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+    "https://www.zdnet.com/article/how-to-create-great-results-with-your-agentic-work-colleagues-in-the-autonomous-business/"
   ],
-  "generated_at": "2026-06-29T18:09:41.950063+00:00"
+  "generated_at": "2026-06-30T17:57:54.583057+00:00"
 }
