@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "fa55756d1486",
-      "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
-      "url": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
-      "summary": "In the past two years, businesses have been trying to fit large language models (LLMs) into support, analytics, development, and internal automation like never before. Along with the increasing adoption of AI technology, another trend is gaining momentum \u2014 cybercriminals are taking advantage of the disconnect between assumptions about LLMs and their actual characteristics.In 2025 and 2026, several independent sources have highlighted the same trend: Prompt injection remains one of the most impactful and widely demonstrated attack vectors against LLM systems. The OWASP LLM Top 10 (2025) lists p",
-      "source": "VentureBeat",
-      "score": 14.3,
-      "published": "2026-06-28T18:00:16+00:00",
-      "fetched_at": "2026-06-29T18:09:36.279851+00:00"
-    },
-    {
-      "id": "90763c99a9ca",
-      "title": "Agent confidence on the technical frontier",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an \u201cinflection year\u201d for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
-      "source": "MIT Technology Review",
-      "score": 9.6,
-      "published": "2026-06-29T14:44:01+00:00",
-      "fetched_at": "2026-06-29T18:09:35.564854+00:00"
-    },
-    {
-      "id": "4037165a8011",
-      "title": "Databricks\u2019 Co-Founder Arsalan Tavakoli: Every Software Monopoly Falls in the Next 24 Months",
-      "url": "https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/",
-      "summary": "Databricks is now running at a stunning $6.9B revenue run-rate, growing 80%+ year over year, with AI products alone past a $1.7B run-rate and net retention above 140%. That gives co-founder Arsalan Tavakoli-Shiraji better visibility into what enterprises are actually doing with AI budget than almost anyone. On stage at SaaStr AI, he laid out... Continue Reading",
-      "source": "SaaStr",
-      "score": 8.8,
-      "published": "2026-06-29T14:10:34+00:00",
-      "fetched_at": "2026-06-29T18:09:36.781851+00:00"
-    },
-    {
-      "id": "db8b5f56fb4f",
-      "title": "From Compliance To Continuous Assurance: Automating Cloud Governance With Policy-As-Code",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/from-compliance-to-continuous-assurance-automating-cloud-governance-with-policy-as-code/",
-      "summary": "Here's how policy-as-code enables real-time cloud governance, continuous assurance, automated compliance enforcement and stronger security across multicloud and cloud-native infrastructures.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-06-29T15:00:00+00:00",
-      "fetched_at": "2026-06-29T18:09:38.071010+00:00"
-    },
-    {
-      "id": "4fa4ad23d3dd",
-      "title": "What You Bring to AI Determines the Result",
-      "url": "https://www.oreilly.com/radar/what-you-bring-to-ai-determines-the-result/",
-      "summary": "Harper Carroll came to AI education through a CS background at Stanford, machine learning engineering at Meta, and a brief stint at a small GPU compute startup in late 2023, where she noticed that almost no one understood how to fine-tune open source models. She started writing and teaching to help drive signups for the [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 4.4,
-      "published": "2026-06-29T16:15:12+00:00",
-      "fetched_at": "2026-06-29T18:09:40.038180+00:00"
-    },
-    {
-      "id": "8a9dbbdeab56",
-      "title": "Giving Data Center Builders A Real-Time Picture Of What\u2019s Actually Built",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/giving-data-center-builders-a-real-time-picture-of-whats-actually-built/",
-      "summary": "Construction's biggest overruns aren\u2019t engineering failures; they\u2019re documentation failures.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-06-29T14:00:00+00:00",
-      "fetched_at": "2026-06-29T18:09:38.071131+00:00"
-    },
-    {
-      "id": "37afa33f0ef4",
-      "title": "My AI Night Shift",
-      "url": "https://www.fastcompany.com/91549044/my-ai-night-shift",
-      "summary": "An agentic AI power user explains how he\u2019s using the technology to ramp up his productivity\u2014\u2014and the surprising challenges of finding himself completely caught up with his work. \n\nMost mornings now, I\u2019ve got a new routine. Before coffee, before social media, I check my phone to see what got done while I slept.",
-      "source": "Fast Company",
-      "score": 4.0,
-      "published": "2026-06-29T11:00:00+00:00",
-      "fetched_at": "2026-06-29T18:09:41.949707+00:00"
-    },
-    {
-      "id": "e89ac288503c",
-      "title": "Agent Memory",
-      "url": "https://www.oreilly.com/radar/agent-memory/",
-      "summary": "The following article originally appeared on Angie Jones\u2019s LinkedIn page and is being republished here with the author\u2019s permission. I&#8217;m fascinated by the concept of agent memory. LLMs are stateless by design, meaning they have no memory or awareness of past interactions. Each prompt you send to an LLM is treated as a completely isolated [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 3.3,
-      "published": "2026-06-29T10:53:10+00:00",
-      "fetched_at": "2026-06-29T18:09:40.038236+00:00"
-    },
-    {
-      "id": "23b89c757343",
-      "title": "Dear SaaStr: What is a Good Approach For Price Increases with SMBs?",
-      "url": "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/",
-      "summary": "Dear SaaStr: What is a Good Approach For Price Increases with SMBs? Raising prices in SaaS serving SMBs is tricky but necessary as you scale. SMBs are price-sensitive, so you need to approach this thoughtfully to avoid churn while still driving growth. Here\u2019s how I\u2019d recommend tackling it: 1. Don\u2019t Raise Prices Too Early.\u00a0 Spend... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-06-29T09:34:37+00:00",
-      "fetched_at": "2026-06-29T18:09:36.781905+00:00"
-    },
-    {
       "id": "1475e30083ac",
       "title": "AI agents need context everywhere they run, even where the cloud can't follow",
       "url": "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
@@ -119,6 +29,96 @@
       "score": 7.0,
       "published": "2026-06-30T09:00:14+00:00",
       "fetched_at": "2026-06-30T17:57:52.300331+00:00"
+    },
+    {
+      "id": "ece024d22dcc",
+      "title": "Morgan Stanley cut its riskiest reconciliation job in half \u2014 by making its agents less autonomous",
+      "url": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
+      "summary": "Most enterprise AI deployments so far have focused on coding assistants and customer service bots. Morgan Stanley has deployed agents in one of banking&#x27;s most accuracy-critical, deadline-driven workflows instead \u2014 profit and loss (P&amp;L) reconciliation \u2014 and cut the work in half. The counterintuitive part: it got there by making the system less autonomous, not more.Humans stay tightly in the loop, and their decisions are iteratively turned into repeatable rules the system can apply on its own.\u201cIt&#x27;s much more like a co-worker than a copilot,\u201d Morgan Stanley Managing Director Todd Jo",
+      "source": "VentureBeat",
+      "score": 12.1,
+      "published": "2026-06-30T22:23:41+00:00",
+      "fetched_at": "2026-07-01T17:58:51.890885+00:00"
+    },
+    {
+      "id": "5d5a6e1dac13",
+      "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-07-01T14:20:19+00:00",
+      "fetched_at": "2026-07-01T17:58:50.413841+00:00"
+    },
+    {
+      "id": "65de68bd8e37",
+      "title": "Beyond Prompt Injection",
+      "url": "https://www.oreilly.com/radar/beyond-prompt-injection/",
+      "summary": "In late 2025, the security community stopped treating indirect prompt injection as a theoretical risk. It had spent two years as a tidy lab demonstration; then production systems started getting hit. The OWASP Top 10 for LLM applications now ranks prompt injection as the number-one risk, NIST has called indirect injection generative AI&#8217;s greatest security [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 6.6,
+      "published": "2026-06-30T10:55:08+00:00",
+      "fetched_at": "2026-07-01T17:58:54.410487+00:00"
+    },
+    {
+      "id": "01aa09519773",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-07-01T14:25:23+00:00",
+      "fetched_at": "2026-07-01T17:58:50.413809+00:00"
+    },
+    {
+      "id": "ffe351ce6595",
+      "title": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
+      "summary": "Anthropic today released Claude Sonnet 5, a new AI model that the company says delivers near-flagship performance at mid-tier prices \u2014 a move designed to give cost-conscious enterprise developers access to powerful agentic capabilities just as the San Francisco-based AI lab barrels toward an initial public offering that will test whether the private market&#x27;s staggering AI valuations can survive public scrutiny.The release, which Anthropic describes as &quot;the most agentic Sonnet model yet,&quot; makes Sonnet 5 the default model for users on Anthropic&#x27;s Free and Pro plans, while als",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-06-30T18:00:00+00:00",
+      "fetched_at": "2026-07-01T17:58:51.890981+00:00"
+    },
+    {
+      "id": "a1346a066c92",
+      "title": "The Agent Playbooks from Salesforce, Snowflake, Databricks, Harvey, and Lovable: Inside SaaStr AI 2026",
+      "url": "https://www.saastr.com/the-agent-playbooks-from-salesforce-snowflake-databricks-harvey-lovable-and-monaco-inside-saastr-ai-annual-2026/",
+      "summary": "The main stage at SaaStr AI 2026 in San Mateo ran end to end on agents. Agents in production, carrying quota, writing to systems of record, and reshaping how companies are built. Below is a session-by-session recap of maintage on our biggest day, with every speaker and their title, followed by the themes that showed... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-06-30T12:57:16+00:00",
+      "fetched_at": "2026-07-01T17:58:52.332443+00:00"
+    },
+    {
+      "id": "218ce9024b9f",
+      "title": "Alastair Paterson Is The Co-Founder And CEO Of Harmonic Security.",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/01/alastair-paterson-is-the-co-founder-and-ceo-of-harmonic-security/",
+      "summary": "Companies need to set firmer boundaries between personal and enterprise AI tools, with less crossover between the two.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-07-01T16:00:00+00:00",
+      "fetched_at": "2026-07-01T17:58:53.023557+00:00"
+    },
+    {
+      "id": "ed4bd42647c1",
+      "title": "Autonomous construction bots are building the solar infrastructure behind Meta's massive Hyperion data center",
+      "url": "https://www.businessinsider.com/autonomous-robots-built-robotics-solar-power-meta-hyperion-data-center-2026-7",
+      "summary": "Built Robotics wants to use autonomous machines to build out utility-scale solar infrastructure amid the AI boom.",
+      "source": "Business Insider",
+      "score": 5.0,
+      "published": "2026-07-01T15:00:01+00:00",
+      "fetched_at": "2026-07-01T17:58:54.888549+00:00"
+    },
+    {
+      "id": "e19c8b607922",
+      "title": "The new enterprise AI expert every company needs - and why",
+      "url": "https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/",
+      "summary": "This role makes the difference between your business winning and losing in the age of AI.",
+      "source": "ZDNet",
+      "score": 5.0,
+      "published": "2026-07-01T13:50:01+00:00",
+      "fetched_at": "2026-07-01T17:58:53.593633+00:00"
     }
   ],
   "history": [
@@ -208,7 +208,16 @@
     "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/",
     "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
     "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
-    "https://www.zdnet.com/article/how-to-create-great-results-with-your-agentic-work-colleagues-in-the-autonomous-business/"
+    "https://www.zdnet.com/article/how-to-create-great-results-with-your-agentic-work-colleagues-in-the-autonomous-business/",
+    "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
+    "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "https://www.oreilly.com/radar/beyond-prompt-injection/",
+    "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
+    "https://www.saastr.com/the-agent-playbooks-from-salesforce-snowflake-databricks-harvey-lovable-and-monaco-inside-saastr-ai-annual-2026/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/01/alastair-paterson-is-the-co-founder-and-ceo-of-harmonic-security/",
+    "https://www.businessinsider.com/autonomous-robots-built-robotics-solar-power-meta-hyperion-data-center-2026-7",
+    "https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/"
   ],
-  "generated_at": "2026-06-30T17:57:54.583057+00:00"
+  "generated_at": "2026-07-01T17:58:55.471382+00:00"
 }
