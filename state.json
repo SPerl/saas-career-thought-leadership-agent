@@ -1,36 +1,6 @@
 {
   "queue": [
     {
-      "id": "1475e30083ac",
-      "title": "AI agents need context everywhere they run, even where the cloud can't follow",
-      "url": "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
-      "summary": "The competitive edge in enterprise AI is shifting to context: which platform can give an agent the right memory, the right retrieval and the right data at the moment of decision.Couchbase on Tuesday announced its AI Data Plane, combining persistent agent memory, real-time context retrieval and an enterprise-managed MCP server in a single operational platform.\u00a0Couchbase&#x27;s roots are in caching and high-transaction databases \u2014 an architecture the company argues makes it better suited for agent memory than vendors that came to the problem from search or analytics. The AI Data Plane runs ident",
-      "source": "VentureBeat",
-      "score": 16.5,
-      "published": "2026-06-30T13:00:00+00:00",
-      "fetched_at": "2026-06-30T17:57:50.640437+00:00"
-    },
-    {
-      "id": "5a87f99f8445",
-      "title": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter \u2014 trained entirely on Chinese chips",
-      "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
-      "summary": "A few hours ago, Chinese delivery app company Meituan officially unveiled LongCat-2.0 on GitHub, Hugging Face, and its native platform, unmasking the model as the computational engine behind &quot;Owl Alpha,&quot; the anonymous stealth model that has spent the last two months commanding global developer charts on OpenRouter. Developed to fundamentally disrupt closed-source enterprise dominance in autonomous software engineering, the 1.6-trillion-parameter Mixture-of-Experts (MoE) system brings a native 1-million-token context window to the public domain under a highly permissive, enterprise gr",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-06-30T05:39:00+00:00",
-      "fetched_at": "2026-06-30T17:57:50.640617+00:00"
-    },
-    {
-      "id": "b681fdecfb7f",
-      "title": "AI agents are your new colleagues - how to get the best results",
-      "url": "https://www.zdnet.com/article/how-to-create-great-results-with-your-agentic-work-colleagues-in-the-autonomous-business/",
-      "summary": "The future of work is likely to require a careful blend of human skills and AI agents. Here's how to work successfully with your agentic counterparts.",
-      "source": "ZDNet",
-      "score": 7.0,
-      "published": "2026-06-30T09:00:14+00:00",
-      "fetched_at": "2026-06-30T17:57:52.300331+00:00"
-    },
-    {
       "id": "ece024d22dcc",
       "title": "Morgan Stanley cut its riskiest reconciliation job in half \u2014 by making its agents less autonomous",
       "url": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
@@ -51,16 +21,6 @@
       "fetched_at": "2026-07-01T17:58:50.413841+00:00"
     },
     {
-      "id": "65de68bd8e37",
-      "title": "Beyond Prompt Injection",
-      "url": "https://www.oreilly.com/radar/beyond-prompt-injection/",
-      "summary": "In late 2025, the security community stopped treating indirect prompt injection as a theoretical risk. It had spent two years as a tidy lab demonstration; then production systems started getting hit. The OWASP Top 10 for LLM applications now ranks prompt injection as the number-one risk, NIST has called indirect injection generative AI&#8217;s greatest security [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 6.6,
-      "published": "2026-06-30T10:55:08+00:00",
-      "fetched_at": "2026-07-01T17:58:54.410487+00:00"
-    },
-    {
       "id": "01aa09519773",
       "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
@@ -79,16 +39,6 @@
       "score": 5.5,
       "published": "2026-06-30T18:00:00+00:00",
       "fetched_at": "2026-07-01T17:58:51.890981+00:00"
-    },
-    {
-      "id": "a1346a066c92",
-      "title": "The Agent Playbooks from Salesforce, Snowflake, Databricks, Harvey, and Lovable: Inside SaaStr AI 2026",
-      "url": "https://www.saastr.com/the-agent-playbooks-from-salesforce-snowflake-databricks-harvey-lovable-and-monaco-inside-saastr-ai-annual-2026/",
-      "summary": "The main stage at SaaStr AI 2026 in San Mateo ran end to end on agents. Agents in production, carrying quota, writing to systems of record, and reshaping how companies are built. Below is a session-by-session recap of maintage on our biggest day, with every speaker and their title, followed by the themes that showed... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-06-30T12:57:16+00:00",
-      "fetched_at": "2026-07-01T17:58:52.332443+00:00"
     },
     {
       "id": "218ce9024b9f",
@@ -119,6 +69,56 @@
       "score": 5.0,
       "published": "2026-07-01T13:50:01+00:00",
       "fetched_at": "2026-07-01T17:58:53.593633+00:00"
+    },
+    {
+      "id": "1563835bd122",
+      "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "summary": "Z.ai, the Beijing-based artificial intelligence lab formerly known as Zhipu AI, on Wednesday officially launched ZCode, a free desktop application it describes as an &quot;Agentic Development Environment&quot; purpose-built for its flagship GLM-5.2 large language model. The move marks the company&#x27;s most aggressive push yet into the fast-growing AI-powered coding tool market, where it now competes directly with Cursor, Claude Code, GitHub Copilot, and Google&#x27;s Antigravity.&quot;Introducing ZCode, the official development environment for GLM-5.2,&quot; the company wrote on X, noting th",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-07-02T10:00:00+00:00",
+      "fetched_at": "2026-07-02T17:50:58.729247+00:00"
+    },
+    {
+      "id": "7114859a3e67",
+      "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem \u2014 and most are governing it by hand",
+      "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
+      "summary": "AI portfolios are expanding far faster than the ability to govern them across enterprises. Most organizations run a contested field of platforms, each claiming to be the \u201cprimary\u201d AI layer; few could confidently detect a model drifting or failing in production; and the single most-cited barrier to control is the absence of any one owner accountable for AI across the stack. The result is a widening control gap \u2014 ambition and spend racing ahead of visibility, ownership, and cost control \u2014 with autonomous agents already producing real financial and operational failures.This wave of VentureBeat Pu",
+      "source": "VentureBeat",
+      "score": 9.9,
+      "published": "2026-07-01T21:50:00+00:00",
+      "fetched_at": "2026-07-02T17:50:58.729350+00:00"
+    },
+    {
+      "id": "f23d1aa63f1a",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "summary": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-07-02T05:30:00+00:00",
+      "fetched_at": "2026-07-02T17:50:56.844761+00:00"
+    },
+    {
+      "id": "1d77f68729ef",
+      "title": "4 Science-Led Approaches To Accelerate Enterprise AI",
+      "url": "https://www.forbes.com/sites/capitalone/2026/07/02/4-science-led-approaches-to-accelerate-enterprise-ai/",
+      "summary": "\"Most companies use AI. At Capital One, we build it,\" said Milind Naphade, SVP of AI Foundations at Capital One. Discover how Naphade is leading scientific ingenuity and frontier research to advance AI for enterprise value.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-07-02T16:24:32+00:00",
+      "fetched_at": "2026-07-02T17:51:00.167794+00:00"
+    },
+    {
+      "id": "842bab1f3213",
+      "title": "\u200bHow AI Agents Are Forcing A Rethink Of Cybersecurity",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/02/how-ai-agents-are-forcing-a-rethink-of-cybersecurity/",
+      "summary": "AI is not inherently unsafe, but most organizations have not yet built the guardrails required for autonomous systems.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-07-02T16:00:00+00:00",
+      "fetched_at": "2026-07-02T17:51:00.167896+00:00"
     }
   ],
   "history": [
@@ -217,7 +217,12 @@
     "https://www.saastr.com/the-agent-playbooks-from-salesforce-snowflake-databricks-harvey-lovable-and-monaco-inside-saastr-ai-annual-2026/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/01/alastair-paterson-is-the-co-founder-and-ceo-of-harmonic-security/",
     "https://www.businessinsider.com/autonomous-robots-built-robotics-solar-power-meta-hyperion-data-center-2026-7",
-    "https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/"
+    "https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/",
+    "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+    "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
+    "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "https://www.forbes.com/sites/capitalone/2026/07/02/4-science-led-approaches-to-accelerate-enterprise-ai/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/02/how-ai-agents-are-forcing-a-rethink-of-cybersecurity/"
   ],
-  "generated_at": "2026-07-01T17:58:55.471382+00:00"
+  "generated_at": "2026-07-02T17:51:02.947959+00:00"
 }
