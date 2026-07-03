@@ -1,56 +1,6 @@
 {
   "queue": [
     {
-      "id": "5d5a6e1dac13",
-      "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-07-01T14:20:19+00:00",
-      "fetched_at": "2026-07-01T17:58:50.413841+00:00"
-    },
-    {
-      "id": "01aa09519773",
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-07-01T14:25:23+00:00",
-      "fetched_at": "2026-07-01T17:58:50.413809+00:00"
-    },
-    {
-      "id": "218ce9024b9f",
-      "title": "Alastair Paterson Is The Co-Founder And CEO Of Harmonic Security.",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/01/alastair-paterson-is-the-co-founder-and-ceo-of-harmonic-security/",
-      "summary": "Companies need to set firmer boundaries between personal and enterprise AI tools, with less crossover between the two.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-07-01T16:00:00+00:00",
-      "fetched_at": "2026-07-01T17:58:53.023557+00:00"
-    },
-    {
-      "id": "ed4bd42647c1",
-      "title": "Autonomous construction bots are building the solar infrastructure behind Meta's massive Hyperion data center",
-      "url": "https://www.businessinsider.com/autonomous-robots-built-robotics-solar-power-meta-hyperion-data-center-2026-7",
-      "summary": "Built Robotics wants to use autonomous machines to build out utility-scale solar infrastructure amid the AI boom.",
-      "source": "Business Insider",
-      "score": 5.0,
-      "published": "2026-07-01T15:00:01+00:00",
-      "fetched_at": "2026-07-01T17:58:54.888549+00:00"
-    },
-    {
-      "id": "e19c8b607922",
-      "title": "The new enterprise AI expert every company needs - and why",
-      "url": "https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/",
-      "summary": "This role makes the difference between your business winning and losing in the age of AI.",
-      "source": "ZDNet",
-      "score": 5.0,
-      "published": "2026-07-01T13:50:01+00:00",
-      "fetched_at": "2026-07-01T17:58:53.593633+00:00"
-    },
-    {
       "id": "1563835bd122",
       "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
       "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
@@ -119,6 +69,56 @@
       "score": 4.8,
       "published": "2026-07-02T12:10:00+00:00",
       "fetched_at": "2026-07-02T22:22:47.978137+00:00"
+    },
+    {
+      "id": "bf5ff4f1449f",
+      "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+      "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+      "summary": "Most verticals aren\u2019t clean, well-oiled SaaS databases; the reality is ugly documents, proprietary schemas, implicit workflows, and long\u2011running tasks that most general-purpose models struggle with. This prompted construction project management company Trunk Tools to build a specialized, three-layer architecture \u2014 perception, semantics, agents \u2014 based on highly-detailed data to support high-accuracy, highly-relevant industry automation.Their purpose-built stack has shrunk review cycles from months to days, prevented costly field errors, and given autonomous agents the ability to reason over mi",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-07-03T13:00:00+00:00",
+      "fetched_at": "2026-07-03T17:28:02.885284+00:00"
+    },
+    {
+      "id": "89d1e201aa7b",
+      "title": "Microsoft\u2019s next big bet isn\u2019t on a model but on becoming the Swiss Army knife of enterprise AI",
+      "url": "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
+      "summary": "The tech giant is investing $2.5 billion in a new business unit called Microsoft Frontier.",
+      "source": "Fortune",
+      "score": 5.0,
+      "published": "2026-07-03T08:00:00+00:00",
+      "fetched_at": "2026-07-03T17:28:06.373083+00:00"
+    },
+    {
+      "id": "5227265b9802",
+      "title": "20VC x SaaStr: The Token ROI Crisis Comes for Everyone, Anthropic Wants Chinese Open Source Banned, and Microsoft Has Its Worst Month Since 2000",
+      "url": "https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/",
+      "summary": "With Harry Stebbings, Jason Lemkin, and Rory O&#8217;Driscoll We recorded this on the last day of June, and one theme ran through almost every story: Companies quintupled their token spend in the first half of the year. Almost nobody can point to the revenue lift that justified it. That&#8217;s the real state of the AI... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-07-02T16:37:17+00:00",
+      "fetched_at": "2026-07-03T17:28:03.193332+00:00"
+    },
+    {
+      "id": "c9e3a8117d44",
+      "title": "Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense",
+      "url": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
+      "summary": "Defense tech startups are raising record amounts on both sides of the Atlantic amid a flurry of investment in the sector.",
+      "source": "CNBC Tech",
+      "score": 4.4,
+      "published": "2026-07-02T15:13:11+00:00",
+      "fetched_at": "2026-07-03T17:28:01.782311+00:00"
+    },
+    {
+      "id": "bbb33a2166fa",
+      "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-07-02T23:38:10+00:00",
+      "fetched_at": "2026-07-03T17:28:00.877112+00:00"
     }
   ],
   "history": [
@@ -224,7 +224,12 @@
     "https://www.forbes.com/sites/capitalone/2026/07/02/4-science-led-approaches-to-accelerate-enterprise-ai/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/02/how-ai-agents-are-forcing-a-rethink-of-cybersecurity/",
     "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
-    "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
+    "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+    "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+    "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
+    "https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/",
+    "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
+    "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
   ],
-  "generated_at": "2026-07-02T22:22:53.335501+00:00"
+  "generated_at": "2026-07-03T17:28:06.732004+00:00"
 }
