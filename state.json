@@ -1,124 +1,124 @@
 {
   "queue": [
     {
-      "id": "1563835bd122",
-      "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
-      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
-      "summary": "Z.ai, the Beijing-based artificial intelligence lab formerly known as Zhipu AI, on Wednesday officially launched ZCode, a free desktop application it describes as an &quot;Agentic Development Environment&quot; purpose-built for its flagship GLM-5.2 large language model. The move marks the company&#x27;s most aggressive push yet into the fast-growing AI-powered coding tool market, where it now competes directly with Cursor, Claude Code, GitHub Copilot, and Google&#x27;s Antigravity.&quot;Introducing ZCode, the official development environment for GLM-5.2,&quot; the company wrote on X, noting th",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-07-02T10:00:00+00:00",
-      "fetched_at": "2026-07-02T17:50:58.729247+00:00"
-    },
-    {
-      "id": "7114859a3e67",
-      "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem \u2014 and most are governing it by hand",
-      "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
-      "summary": "AI portfolios are expanding far faster than the ability to govern them across enterprises. Most organizations run a contested field of platforms, each claiming to be the \u201cprimary\u201d AI layer; few could confidently detect a model drifting or failing in production; and the single most-cited barrier to control is the absence of any one owner accountable for AI across the stack. The result is a widening control gap \u2014 ambition and spend racing ahead of visibility, ownership, and cost control \u2014 with autonomous agents already producing real financial and operational failures.This wave of VentureBeat Pu",
-      "source": "VentureBeat",
-      "score": 9.9,
-      "published": "2026-07-01T21:50:00+00:00",
-      "fetched_at": "2026-07-02T17:50:58.729350+00:00"
-    },
-    {
-      "id": "f23d1aa63f1a",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "summary": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-07-02T05:30:00+00:00",
-      "fetched_at": "2026-07-02T17:50:56.844761+00:00"
-    },
-    {
-      "id": "1d77f68729ef",
-      "title": "4 Science-Led Approaches To Accelerate Enterprise AI",
-      "url": "https://www.forbes.com/sites/capitalone/2026/07/02/4-science-led-approaches-to-accelerate-enterprise-ai/",
-      "summary": "\"Most companies use AI. At Capital One, we build it,\" said Milind Naphade, SVP of AI Foundations at Capital One. Discover how Naphade is leading scientific ingenuity and frontier research to advance AI for enterprise value.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-07-02T16:24:32+00:00",
-      "fetched_at": "2026-07-02T17:51:00.167794+00:00"
-    },
-    {
-      "id": "842bab1f3213",
-      "title": "\u200bHow AI Agents Are Forcing A Rethink Of Cybersecurity",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/02/how-ai-agents-are-forcing-a-rethink-of-cybersecurity/",
-      "summary": "AI is not inherently unsafe, but most organizations have not yet built the guardrails required for autonomous systems.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-07-02T16:00:00+00:00",
-      "fetched_at": "2026-07-02T17:51:00.167896+00:00"
-    },
-    {
-      "id": "5320db2f0d88",
-      "title": "New Alibaba AI framework skips loading every tool, cutting agent token use 99%",
-      "url": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
-      "summary": "As enterprise AI systems scale to handle complex workflows, practitioners face the challenge of routing subtasks to the right tools and skills. Agents can have hundreds of tools and skills and get confused on which one to use for each step of a workflow.To address this challenge, researchers at Alibaba developed SkillWeaver, a framework that creates an execution graph for a given task and chooses the right skills for each of the nodes. They also introduce Skill-Aware Decomposition (SAD), a novel technique that uses a feedback loop to enable the agent to fetch and vet relevant tool candidates i",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-07-02T20:54:12+00:00",
-      "fetched_at": "2026-07-02T22:22:48.582672+00:00"
-    },
-    {
-      "id": "0c578b2b9174",
-      "title": "The Download: a startup has a solution for AI\u2019s groupthink problem",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-07-02T12:10:00+00:00",
-      "fetched_at": "2026-07-02T22:22:47.978137+00:00"
-    },
-    {
-      "id": "bf5ff4f1449f",
-      "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
-      "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
-      "summary": "Most verticals aren\u2019t clean, well-oiled SaaS databases; the reality is ugly documents, proprietary schemas, implicit workflows, and long\u2011running tasks that most general-purpose models struggle with. This prompted construction project management company Trunk Tools to build a specialized, three-layer architecture \u2014 perception, semantics, agents \u2014 based on highly-detailed data to support high-accuracy, highly-relevant industry automation.Their purpose-built stack has shrunk review cycles from months to days, prevented costly field errors, and given autonomous agents the ability to reason over mi",
-      "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-07-03T13:00:00+00:00",
-      "fetched_at": "2026-07-03T17:28:02.885284+00:00"
-    },
-    {
-      "id": "89d1e201aa7b",
-      "title": "Microsoft\u2019s next big bet isn\u2019t on a model but on becoming the Swiss Army knife of enterprise AI",
-      "url": "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
-      "summary": "The tech giant is investing $2.5 billion in a new business unit called Microsoft Frontier.",
-      "source": "Fortune",
-      "score": 5.0,
-      "published": "2026-07-03T08:00:00+00:00",
-      "fetched_at": "2026-07-03T17:28:06.373083+00:00"
-    },
-    {
-      "id": "5227265b9802",
-      "title": "20VC x SaaStr: The Token ROI Crisis Comes for Everyone, Anthropic Wants Chinese Open Source Banned, and Microsoft Has Its Worst Month Since 2000",
-      "url": "https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/",
-      "summary": "With Harry Stebbings, Jason Lemkin, and Rory O&#8217;Driscoll We recorded this on the last day of June, and one theme ran through almost every story: Companies quintupled their token spend in the first half of the year. Almost nobody can point to the revenue lift that justified it. That&#8217;s the real state of the AI... Continue Reading",
+      "id": "f38802400659",
+      "title": "Google Cloud\u2019s VP of Growth on Building an AI-Native Marketing Team: 8 Takeaways from SaaStr AI 2026",
+      "url": "https://www.saastr.com/google-clouds-vp-of-growth-on-building-an-ai-native-marketing-team-8-takeaways-from-saastr-ai-2026/",
+      "summary": "Google Cloud&#8217;s VP of Global Demand &#38; Growth, Sarah Kennedy Ellis, joined us for a day-three session at SaaStr AI 2026. She ran marketing at Marketo (sold to Adobe for $4.75B) and led marketing for Adobe&#8217;s enterprise software division before Google, so she has lived through more than one platform shift. Her core argument: Google... Continue Reading",
       "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-07-02T16:37:17+00:00",
-      "fetched_at": "2026-07-03T17:28:03.193332+00:00"
+      "score": 12.1,
+      "published": "2026-07-05T12:45:49+00:00",
+      "fetched_at": "2026-07-06T18:12:31.415386+00:00"
     },
     {
-      "id": "c9e3a8117d44",
-      "title": "Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense",
-      "url": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
-      "summary": "Defense tech startups are raising record amounts on both sides of the Atlantic amid a flurry of investment in the sector.",
-      "source": "CNBC Tech",
-      "score": 4.4,
-      "published": "2026-07-02T15:13:11+00:00",
-      "fetched_at": "2026-07-03T17:28:01.782311+00:00"
+      "id": "6ffae38b8648",
+      "title": "Cybersecurity firm says it found 'the first documented case' of AI agentic ransomware",
+      "url": "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
+      "summary": "Researchers at Sysdig say they found \"a warning sign\" of where ransomware attacks are heading.",
+      "source": "Business Insider",
+      "score": 6.0,
+      "published": "2026-07-06T16:48:43+00:00",
+      "fetched_at": "2026-07-06T18:12:34.612764+00:00"
     },
     {
-      "id": "bbb33a2166fa",
-      "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-07-02T23:38:10+00:00",
-      "fetched_at": "2026-07-03T17:28:00.877112+00:00"
+      "id": "40dd4b625a9b",
+      "title": "Tired vs. Wired: Our Deep Dive on Why Software Spend Is Up Record Amounts \u2026 Yet Half of SaaS Is Still Dying",
+      "url": "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/",
+      "summary": "Two things are true in B2B right now, and they look like they can&#8217;t both be true. Total software spend is growing 15% this year, the fastest in a decade, up from 12.8% last year. Gartner has it going from $1.2T to $1.4T. At the same time, public software is trading at a discount to... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-07-05T14:06:31+00:00",
+      "fetched_at": "2026-07-06T18:12:31.415343+00:00"
+    },
+    {
+      "id": "2051a86418d8",
+      "title": "Our interest in AI slop is hitting a ceiling",
+      "url": "https://www.fastcompany.com/91568818/our-interest-in-ai-slop-is-hitting-a-ceiling?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "The web is increasingly submerged in AI slop, the cheap, disposable material created with generative AI tools. But while would-be digital opportunists are tipping trashy content onto platforms by the bucketload, early signs suggest audiences are not buying much of it.\n\n\n\nA new analysis of the creative economy, published in the online repository arXiv and part of a new book, suggests AI-generated content may now account for 44% of uploads on some platforms, while drawing only 1% to 3% of streams.\n\n\n\nAI-generated content may have hit what Peter Woodbridge and John O\u2019Hare, co-authors of Dream Mac",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-07-06T09:00:00+00:00",
+      "fetched_at": "2026-07-06T18:12:34.933172+00:00"
+    },
+    {
+      "id": "476f771c32a7",
+      "title": "SaaSpocalypse: An Imminent Demise Of SaaS Or The New Moat-Building Era?",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/06/saaspocalypse-an-imminent-demise-of-saas-or-the-new-moat-building-era/",
+      "summary": "Alexey Spas is the founder and CEO of Instinctools, a software engineering company focused on AI-powered digital solutions.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-07-06T13:30:00+00:00",
+      "fetched_at": "2026-07-06T18:12:32.280472+00:00"
+    },
+    {
+      "id": "6c3da2dda9ab",
+      "title": "Rebuilding Software Development From The Ground Up",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/06/rebuilding-software-development-from-the-ground-up/",
+      "summary": "AI orchestration models flip the traditional engineering dynamic.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-07-06T13:00:00+00:00",
+      "fetched_at": "2026-07-06T18:12:32.280606+00:00"
+    },
+    {
+      "id": "2b6a97f5724f",
+      "title": "Our interest in AI slop is hitting a ceiling",
+      "url": "https://www.fastcompany.com/91568818/our-interest-in-ai-slop-is-hitting-a-ceiling",
+      "summary": "A new analysis of the creative economy, published in the online repository arXiv and part of a new book, suggests AI-generated content may now account for 44% of uploads on some platforms, while drawing only 1% to 3% of streams.\n\nThe web is increasingly submerged in AI slop, the cheap, disposable material created with generative AI tools. But while would-be digital opportunists are tipping trashy content onto platforms by the bucketload, early signs suggest audiences are not buying much of it.",
+      "source": "Fast Company",
+      "score": 4.0,
+      "published": "2026-07-06T09:00:00+00:00",
+      "fetched_at": "2026-07-06T18:12:35.127159+00:00"
+    },
+    {
+      "id": "4263219cd6e0",
+      "title": "What billions of AI predictions taught Expedia before the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents",
+      "summary": "There&#x27;s an important distinction between AI that just works today, and AI that lasts at scale. Many companies optimize hard for the first one without ever asking whether they&#x27;re building the second.Velocity without discipline and strategic direction is a liability, not an asset. The hardest part of building AI at scale isn&#x27;t getting a model to work once. It&#x27;s building systems that continue to work, scale beyond individual teams and use cases, and improve consistently over time.Today&#x27;s AI systems do more than just predict and optimize. They converse, reason, and increas",
+      "source": "VentureBeat",
+      "score": 3.3,
+      "published": "2026-07-06T15:00:24+00:00",
+      "fetched_at": "2026-07-06T18:12:31.140078+00:00"
+    },
+    {
+      "id": "94533a3fab54",
+      "title": "What Happens When You Hire the Wrong VP",
+      "url": "https://www.saastr.com/what-happens-when-you-hire-the-wrong-vp/",
+      "summary": "A lot of classic SaaStr content has been how to spot the best potential VPs.\u00a0 When to hire them.\u00a0 How to interview them and qualify them.\u00a0 What they really do.\u00a0 Etc. etc.\u00a0 Some classics here: How My VP, Sales Doubled Our Sales in 90 Days. And No, It Wasn\u2019t Magic. If Your VP Sales Isn\u2019t... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-07-06T12:00:00+00:00",
+      "fetched_at": "2026-07-06T18:12:31.415297+00:00"
+    },
+    {
+      "id": "d17f46c5a75b",
+      "title": "\u2018My AI Did It\u2019 Is The Next Courtroom Excuse\u2014And It Might Actually Work",
+      "url": "https://www.forbes.com/sites/larsdaniel/2026/07/06/my-ai-did-it-is-the-next-courtroom-excuse-and-it-might-actually-work/",
+      "summary": "'It wasn't me. The agent did it.' AI agents can use a computer like a ghost or just like you. A digital forensics expert on proving whether you or the AI touched the file.",
+      "source": "Forbes Innovation",
+      "score": 3.0,
+      "published": "2026-07-06T13:53:57+00:00",
+      "fetched_at": "2026-07-06T18:12:32.280398+00:00"
+    },
+    {
+      "id": "e350f4f253a8",
+      "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size \u2014 and wins everywhere except coding",
+      "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+      "summary": "For the past year, the awkward secret of the open-weight model boom has been that many of the strongest Chinese releases were off-limits to a large slice of the enterprises most interested in them. License terms that excluded the European Union, the United Kingdom and South Korea meant legal teams killed deployments before engineering teams finished their evals \u2014 not just for companies headquartered there, but for any enterprise serving traffic into those regions. For IT teams weighing open models, the trade-offs are unusually explicit.Tencent just removed that obstacle. The company&#x27;s Hun",
+      "source": "VentureBeat",
+      "score": 2.2,
+      "published": "2026-07-06T16:38:27+00:00",
+      "fetched_at": "2026-07-06T18:12:31.139989+00:00"
+    },
+    {
+      "id": "04c5ad35a80b",
+      "title": "By Year-End, Anthropic Will Out-Earn Every Public Software Company Except Microsoft",
+      "url": "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/",
+      "summary": "Our jaws drop at Anthropic&#8217;s growth rate, and its valuation.\u00a0 But sometimes we can lose sight of just how big it already is &#8230; versus everyone else in software. Anthropic exited 2025 at roughly $9 billion in run-rate revenue. By February 2026 it was $14 billion. Then $19 billion in March, $30 billion in April,... Continue Reading",
+      "source": "SaaStr",
+      "score": 2.2,
+      "published": "2026-07-06T14:10:02+00:00",
+      "fetched_at": "2026-07-06T18:12:31.415241+00:00"
     }
   ],
   "history": [
@@ -229,7 +229,19 @@
     "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
     "https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/",
     "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
-    "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+    "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "https://www.saastr.com/google-clouds-vp-of-growth-on-building-an-ai-native-marketing-team-8-takeaways-from-saastr-ai-2026/",
+    "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
+    "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/",
+    "https://www.fastcompany.com/91568818/our-interest-in-ai-slop-is-hitting-a-ceiling?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/06/saaspocalypse-an-imminent-demise-of-saas-or-the-new-moat-building-era/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/06/rebuilding-software-development-from-the-ground-up/",
+    "https://www.fastcompany.com/91568818/our-interest-in-ai-slop-is-hitting-a-ceiling",
+    "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents",
+    "https://www.saastr.com/what-happens-when-you-hire-the-wrong-vp/",
+    "https://www.forbes.com/sites/larsdaniel/2026/07/06/my-ai-did-it-is-the-next-courtroom-excuse-and-it-might-actually-work/",
+    "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+    "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/"
   ],
-  "generated_at": "2026-07-03T17:28:06.732004+00:00"
+  "generated_at": "2026-07-06T18:12:35.127318+00:00"
 }
