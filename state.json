@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "f38802400659",
-      "title": "Google Cloud\u2019s VP of Growth on Building an AI-Native Marketing Team: 8 Takeaways from SaaStr AI 2026",
-      "url": "https://www.saastr.com/google-clouds-vp-of-growth-on-building-an-ai-native-marketing-team-8-takeaways-from-saastr-ai-2026/",
-      "summary": "Google Cloud&#8217;s VP of Global Demand &#38; Growth, Sarah Kennedy Ellis, joined us for a day-three session at SaaStr AI 2026. She ran marketing at Marketo (sold to Adobe for $4.75B) and led marketing for Adobe&#8217;s enterprise software division before Google, so she has lived through more than one platform shift. Her core argument: Google... Continue Reading",
-      "source": "SaaStr",
-      "score": 12.1,
-      "published": "2026-07-05T12:45:49+00:00",
-      "fetched_at": "2026-07-06T18:12:31.415386+00:00"
-    },
-    {
       "id": "6ffae38b8648",
       "title": "Cybersecurity firm says it found 'the first documented case' of AI agentic ransomware",
       "url": "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
@@ -19,16 +9,6 @@
       "score": 6.0,
       "published": "2026-07-06T16:48:43+00:00",
       "fetched_at": "2026-07-06T18:12:34.612764+00:00"
-    },
-    {
-      "id": "40dd4b625a9b",
-      "title": "Tired vs. Wired: Our Deep Dive on Why Software Spend Is Up Record Amounts \u2026 Yet Half of SaaS Is Still Dying",
-      "url": "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/",
-      "summary": "Two things are true in B2B right now, and they look like they can&#8217;t both be true. Total software spend is growing 15% this year, the fastest in a decade, up from 12.8% last year. Gartner has it going from $1.2T to $1.4T. At the same time, public software is trading at a discount to... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-07-05T14:06:31+00:00",
-      "fetched_at": "2026-07-06T18:12:31.415343+00:00"
     },
     {
       "id": "2051a86418d8",
@@ -119,6 +99,26 @@
       "score": 2.2,
       "published": "2026-07-06T14:10:02+00:00",
       "fetched_at": "2026-07-06T18:12:31.415241+00:00"
+    },
+    {
+      "id": "cf90310b10bc",
+      "title": "Build for the new AI era with Microsoft and NVIDIA",
+      "url": "https://venturebeat.com/orchestration/build-for-the-new-ai-era-with-microsoft-and-nvidia",
+      "summary": "Presented by Microsoft and NVIDIAEvery generation of leaders has its own business transformation challenges to face. A decade ago, modernization meant cloud migration. Five years ago, it meant enabling remote and hybrid work. And just a few short years ago, the generative AI boom prompted organizations globally into enterprise AI adoption.The demo era is endingIn the years since AI became the big new buzzword, generative models proved to be a crucial stepping stone, but the path to Frontier Transformation is agentic AI. Machine-generated answers aren\u2019t enough when what the business really need",
+      "source": "VentureBeat",
+      "score": 16.5,
+      "published": "2026-07-06T07:00:00+00:00",
+      "fetched_at": "2026-07-07T18:01:48.830737+00:00"
+    },
+    {
+      "id": "f4748b2d61a2",
+      "title": "Digital-native startups are ditching rigid databases for their agentic stacks",
+      "url": "https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks",
+      "summary": "Presented by MongoDBThe gap between what AI models and agents can produce and what legacy infrastructure can reliably support is known as architectural drag, and it is the defining bottleneck of the agentic era.\u00a0The data layer underneath an agentic system must handle variable schemas, vector embeddings, real-time retrieval, and multi-tenant scale, often simultaneously and without human intervention to manage migrations \u2014 but traditional relational databases weren&#x27;t natively designed for document flexibility or AI capabilities. Fixed schemas require manual updates every time an AI agent in",
+      "source": "VentureBeat",
+      "score": 13.2,
+      "published": "2026-07-07T07:00:00+00:00",
+      "fetched_at": "2026-07-07T18:01:48.830562+00:00"
     }
   ],
   "history": [
@@ -241,7 +241,9 @@
     "https://www.saastr.com/what-happens-when-you-hire-the-wrong-vp/",
     "https://www.forbes.com/sites/larsdaniel/2026/07/06/my-ai-did-it-is-the-next-courtroom-excuse-and-it-might-actually-work/",
     "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
-    "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/"
+    "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/",
+    "https://venturebeat.com/orchestration/build-for-the-new-ai-era-with-microsoft-and-nvidia",
+    "https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks"
   ],
-  "generated_at": "2026-07-06T18:12:35.127318+00:00"
+  "generated_at": "2026-07-07T18:01:58.972571+00:00"
 }
