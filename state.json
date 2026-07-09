@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "f4748b2d61a2",
-      "title": "Digital-native startups are ditching rigid databases for their agentic stacks",
-      "url": "https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks",
-      "summary": "Presented by MongoDBThe gap between what AI models and agents can produce and what legacy infrastructure can reliably support is known as architectural drag, and it is the defining bottleneck of the agentic era.\u00a0The data layer underneath an agentic system must handle variable schemas, vector embeddings, real-time retrieval, and multi-tenant scale, often simultaneously and without human intervention to manage migrations \u2014 but traditional relational databases weren&#x27;t natively designed for document flexibility or AI capabilities. Fixed schemas require manual updates every time an AI agent in",
-      "source": "VentureBeat",
-      "score": 13.2,
-      "published": "2026-07-07T07:00:00+00:00",
-      "fetched_at": "2026-07-07T18:01:48.830562+00:00"
-    },
-    {
       "id": "b4bb8204f391",
       "title": "The real cost, security, and culture problems behind enterprise AI agents",
       "url": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
@@ -51,16 +41,6 @@
       "fetched_at": "2026-07-08T17:39:18.082599+00:00"
     },
     {
-      "id": "bd206ca68985",
-      "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials \u2014 meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
-      "source": "TechCrunch AI",
-      "score": 8.4,
-      "published": "2026-07-06T23:56:14+00:00",
-      "fetched_at": "2026-07-08T17:39:13.037528+00:00"
-    },
-    {
       "id": "377c08f7ec08",
       "title": "AI has collapsed the cyber response window \u2014 resilience now starts before the attack",
       "url": "https://venturebeat.com/security/ai-has-collapsed-the-cyber-response-window-resilience-now-starts-before-the-attack",
@@ -69,36 +49,6 @@
       "score": 6.6,
       "published": "2026-07-08T07:00:00+00:00",
       "fetched_at": "2026-07-08T17:39:18.082682+00:00"
-    },
-    {
-      "id": "cabc75b86f4b",
-      "title": "AI learning loops aren\u2019t an engineering trick. They\u2019re a governance issue",
-      "url": "https://www.fastcompany.com/91569569/ai-learning-loops-governance-issue?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "For the past two years, the dominant unit of AI work was the prompt. Write a better prompt, get a better answer. Learn the right phrasing, the right examples, the right constraints, the right tone. Prompt engineering became the first folk discipline of the generative AI era because it matched the first experience most people had with these systems: one human, one model, one request, one response.&nbsp;\n\n\n\nThat phase is ending.&nbsp;\n\n\n\nA recent Business Insider piece describes the rise of \u201cloop engineering\u201d: the practice of designing loops that allow AI agents to keep working, checking, retryi",
-      "source": "Fast Company Tech",
-      "score": 6.6,
-      "published": "2026-07-07T17:00:00+00:00",
-      "fetched_at": "2026-07-08T17:39:21.162274+00:00"
-    },
-    {
-      "id": "70fde8cbf97f",
-      "title": "Box survey: Why enterprise AI leaders are outperforming their peers",
-      "url": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
-      "summary": "Presented by Box Content access, governance, and platform flexibility are emerging as the dividing lines between AI leaders and laggards, according to the new State of AI in the enterprise report from Box, which surveyed 1,640 IT decision makers across the US, UK, France, and Japan. One of the report&#x27;s major findings is the speed of the shift: the combined share of organizations describing themselves as advanced or leading edge soared from 8% to 64% just over the past year, while the share calling themselves early stage or not yet started collapsed from 53% to just 9%. Eighty percent of o",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-07-07T16:25:51+00:00",
-      "fetched_at": "2026-07-08T17:39:18.082808+00:00"
-    },
-    {
-      "id": "8f5fb2e3527a",
-      "title": "5 Simple Reasons We Won\u2019t All Vibe Code Our Own HubSpot or Salesforce",
-      "url": "https://www.saastr.com/simple-reasons-we-wont-all-vibe-code-our-own-hubspot-or-salesforce-even-though-at-saastr-ourselves-we-sort-of-have/",
-      "summary": "Someone on X this week made a claim that has truth in, but also radically overstates things: &#8220;I&#8217;ve built AI agents that do everything HubSpot would have done for me and more. And I&#8217;m not technically inclined.&#8221; I believe him. Because we&#8217;ve done a version of it ourselves. At SaaStr AI we now run a... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-07-07T14:10:32+00:00",
-      "fetched_at": "2026-07-08T17:39:18.584131+00:00"
     },
     {
       "id": "dd589960d572",
@@ -119,6 +69,56 @@
       "score": 6.0,
       "published": "2026-07-08T08:00:00+00:00",
       "fetched_at": "2026-07-08T17:39:13.037285+00:00"
+    },
+    {
+      "id": "7c2de7b9a2a7",
+      "title": "Behind The AI Gold Rush At RAISE Summit Paris",
+      "url": "https://www.forbes.com/sites/rscottraynovich/2026/07/09/behind-the-ai-gold-rush-at-raise-summit-paris/",
+      "summary": "The RAISE Summit in Paris drew 9,000 attendees to discuss enterprise AI adoption, coding tools, and the burgeoning neocloud market. Data sovereignty was also stressed.",
+      "source": "Forbes Innovation",
+      "score": 10.0,
+      "published": "2026-07-09T16:29:33+00:00",
+      "fetched_at": "2026-07-09T17:58:11.990499+00:00"
+    },
+    {
+      "id": "2d9a2920230f",
+      "title": "The enterprise AI challenge nobody solves with code generation alone",
+      "url": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
+      "summary": "Presented by SAPGenerating code with AI is fast, but getting that code to run reliably inside a large enterprise, integrated with live systems, governed for compliance, and maintainable over years requires foundational work that most organizations underestimate. While 81% of all organizations have a detailed strategy, only 12\u201316% reach AI\u2011driven execution, says SAP&#x27;s Michael Ameling, CPO of SAP Business Technology Platform, and the reasons rarely come down to the quality of the generated code.&quot;Across industries, enterprises that have invested heavily in AI tooling are hitting a wall ",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-07-09T15:00:10+00:00",
+      "fetched_at": "2026-07-09T17:58:10.831628+00:00"
+    },
+    {
+      "id": "bb04e634d520",
+      "title": "SpaceX's Grok 4.5 launches at half the price of rivals \u2014 here's why that could rattle Anthropic and OpenAI",
+      "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
+      "summary": "Elon Musk&#x27;s SpaceX released Grok 4.5 on Wednesday, the first artificial intelligence model the company has trained specifically for coding and autonomous agents \u2014 and the first tangible product of its $60 billion acquisition of the AI coding startup Cursor, completed just weeks ago.The launch marks a pivotal test of the sprawling, vertically integrated AI empire Musk has assembled over the past six months, and of a strategy that bets developers care less about topping benchmark leaderboards than about speed, cost, and whether a model can actually do the work.&quot;Announcing Grok 4.5, our",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-07-08T22:00:00+00:00",
+      "fetched_at": "2026-07-09T17:58:10.831798+00:00"
+    },
+    {
+      "id": "5a49bcd87756",
+      "title": "Uber's CTO embedded its top AI engineers in HR, finance, and legal, and found better ways to build",
+      "url": "https://www.businessinsider.com/uber-cto-bets-on-agentic-pods-make-ai-more-efficient-2026-7",
+      "summary": "Uber tech chief Praveen Neppalli Naga is developing AI agents with a new approach, \"agentic pods,\" to handle tasks across finance, HR, and legal.",
+      "source": "Business Insider",
+      "score": 6.0,
+      "published": "2026-07-09T15:24:02+00:00",
+      "fetched_at": "2026-07-09T17:58:14.443687+00:00"
+    },
+    {
+      "id": "9c57f755e180",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-07-08T19:19:15+00:00",
+      "fetched_at": "2026-07-09T17:58:09.266506+00:00"
     }
   ],
   "history": [
@@ -254,7 +254,12 @@
     "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
     "https://www.saastr.com/simple-reasons-we-wont-all-vibe-code-our-own-hubspot-or-salesforce-even-though-at-saastr-ourselves-we-sort-of-have/",
     "https://www.fastcompany.com/91569927/this-latest-frightening-ransomware-attack-was-orchestrated-entirely-by-an-llm",
-    "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/"
+    "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "https://www.forbes.com/sites/rscottraynovich/2026/07/09/behind-the-ai-gold-rush-at-raise-summit-paris/",
+    "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
+    "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
+    "https://www.businessinsider.com/uber-cto-bets-on-agentic-pods-make-ai-more-efficient-2026-7",
+    "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/"
   ],
-  "generated_at": "2026-07-08T17:39:21.350158+00:00"
+  "generated_at": "2026-07-09T17:58:14.854268+00:00"
 }
