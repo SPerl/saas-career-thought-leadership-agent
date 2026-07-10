@@ -1,76 +1,6 @@
 {
   "queue": [
     {
-      "id": "b4bb8204f391",
-      "title": "The real cost, security, and culture problems behind enterprise AI agents",
-      "url": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
-      "summary": "Presented by Red Hat At VentureBeat&#x27;s recent AI Impact event, where the discussion centered on what separates enterprises that scale agentic AI from those that stall in pilot mode, Brian Gracely, senior director of portfolio strategy at Red Hat, detailed what companies actually run into once agents reach production. He dove into cost discipline, the security blind spots unique to autonomous systems, and the organizational friction that determines whether agent adoption spreads beyond early champions.Enterprises are overestimating how far behind they are on AI agentsMany enterprise leaders",
-      "source": "VentureBeat",
-      "score": 15.4,
-      "published": "2026-07-07T20:24:31+00:00",
-      "fetched_at": "2026-07-08T17:39:18.082746+00:00"
-    },
-    {
-      "id": "81fb8fa85e6b",
-      "title": "This latest frightening ransomware attack was orchestrated entirely by an LLM",
-      "url": "https://www.fastcompany.com/91569927/this-latest-frightening-ransomware-attack-was-orchestrated-entirely-by-an-llm?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Typically, when hackers attempt to break into a system, they have to retrace steps and make incremental changes time and again. A new campaign called JadePuffer, run entirely by AI, instead works autonomously, finding unexplored avenues on its own to continuously deploy brute-force tactics. It could increase the spread of the incursion exponentially.\n\n\n\nA recent report from cloud security firm Sysdig details the capabilities of JadePuffer, which it says is the first ransomware campaign run completely by a large language model (LLM). And it could mark the beginning of a new era in online crime.",
-      "source": "Fast Company Tech",
-      "score": 11.0,
-      "published": "2026-07-08T09:00:00+00:00",
-      "fetched_at": "2026-07-08T17:39:21.162046+00:00"
-    },
-    {
-      "id": "72c648254269",
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "summary": "Founded in 2024, Prime Intellect\u2019s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
-      "source": "TechCrunch AI",
-      "score": 9.6,
-      "published": "2026-07-08T16:22:38+00:00",
-      "fetched_at": "2026-07-08T17:39:13.037217+00:00"
-    },
-    {
-      "id": "5f4176f44008",
-      "title": "Slack\u2019s Slackbot can now pull your CRM data, generate charts, and send DocuSigns \u2014 all from a chat message.",
-      "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message",
-      "summary": "Five years and $27.7 billion after Salesforce acquired Slack, the two products are finally starting to function as a single system. On Wednesday, Slack launched an integration that connects Slackbot \u2014 the personal AI agent built into every workspace \u2014 to the entire Salesforce platform, including CRM data, Tableau analytics, Data 360 customer profiles, and a growing constellation of third-party applications, all through a single conversational prompt.The mechanism behind the expansion is a set of dedicated Model Context Protocol (MCP) servers from Salesforce that connect Slackbot to the company",
-      "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-07-08T12:00:00+00:00",
-      "fetched_at": "2026-07-08T17:39:18.082599+00:00"
-    },
-    {
-      "id": "377c08f7ec08",
-      "title": "AI has collapsed the cyber response window \u2014 resilience now starts before the attack",
-      "url": "https://venturebeat.com/security/ai-has-collapsed-the-cyber-response-window-resilience-now-starts-before-the-attack",
-      "summary": "Presented by RubrikEnterprise cybersecurity is facing a fundamental speed problem. Frontier AI models are now enabling autonomous attacks that can move from initial access to full system breakout in as little as 27 seconds. That\u2019s faster than any human-operated security workflow can detect, escalate, and respond.As a result, security operations can no longer assume there is time for humans to respond between breach and damage.The security posture that enterprises need for the AI era centers on cyber resilience: continuously identifying clean recovery states, mapping critical data and identity ",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-07-08T07:00:00+00:00",
-      "fetched_at": "2026-07-08T17:39:18.082682+00:00"
-    },
-    {
-      "id": "dd589960d572",
-      "title": "This latest frightening ransomware attack was orchestrated entirely by an LLM",
-      "url": "https://www.fastcompany.com/91569927/this-latest-frightening-ransomware-attack-was-orchestrated-entirely-by-an-llm",
-      "summary": "Security researchers say JadePuffer marks a new step in AI hacking.\n\nTypically, when hackers attempt to break into a system, they have to retrace steps and make incremental changes time and again. A new campaign called JadePuffer, run entirely by AI, instead works autonomously, finding unexplored avenues on its own to continuously deploy brute-force tactics. It could increase the spread of the incursion exponentially.",
-      "source": "Fast Company",
-      "score": 6.0,
-      "published": "2026-07-08T09:00:00+00:00",
-      "fetched_at": "2026-07-08T17:39:21.350062+00:00"
-    },
-    {
-      "id": "03bb7eb85c2e",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-07-08T08:00:00+00:00",
-      "fetched_at": "2026-07-08T17:39:13.037285+00:00"
-    },
-    {
       "id": "7c2de7b9a2a7",
       "title": "Behind The AI Gold Rush At RAISE Summit Paris",
       "url": "https://www.forbes.com/sites/rscottraynovich/2026/07/09/behind-the-ai-gold-rush-at-raise-summit-paris/",
@@ -119,6 +49,76 @@
       "score": 6.0,
       "published": "2026-07-08T19:19:15+00:00",
       "fetched_at": "2026-07-09T17:58:09.266506+00:00"
+    },
+    {
+      "id": "863f8866bc5e",
+      "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
+      "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
+      "summary": "The vast majority of business data is tabular \u2014 living in data warehouses, CRMs, and financial ledgers \u2014 yet building a reliable model from it still means training a new one from scratch for every dataset, then maintaining hyperparameter tuning loops, feature engineering, and retraining pipelines to fight data drift. Google Research is proposing a way around that: a new foundation model called TabFM that treats tabular prediction as an in-context learning problem instead.It can generate predictions for a new, unseen table in a single forward pass. For enterprise developers and AI engineers, th",
+      "source": "VentureBeat",
+      "score": 7.7,
+      "published": "2026-07-10T16:14:24+00:00",
+      "fetched_at": "2026-07-10T17:48:54.944772+00:00"
+    },
+    {
+      "id": "eb2fa5e9cf60",
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-07-09T22:08:58+00:00",
+      "fetched_at": "2026-07-10T17:48:52.403941+00:00"
+    },
+    {
+      "id": "aca1fb615a00",
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations \u2014 the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-07-09T19:40:45+00:00",
+      "fetched_at": "2026-07-10T17:48:52.404052+00:00"
+    },
+    {
+      "id": "4d7e17b79f91",
+      "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
+      "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
+      "summary": "Share one API key across five AI agents, and a single compromised agent inherits the reach of all five. The attacker immediately benefits from the accumulated permissions of every workflow that the key touches. The forensic trail goes cold at the credential level because five agents on one account leave no record of which agent did what.Sixty-nine percent of enterprises run agents with credential sharing somewhere in their deployments, according to VentureBeat\u2019s June 2026 Pulse Research wave of 107 enterprises. That one number explains the buying spree reshaping enterprise security this year. ",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-07-09T20:45:43+00:00",
+      "fetched_at": "2026-07-10T17:48:54.944867+00:00"
+    },
+    {
+      "id": "d3720c765a7b",
+      "title": "Enterprises using multiple AI models are underestimating failure rates by 2.25x",
+      "url": "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
+      "summary": "A team routing queries across a coding specialist, a logic specialist, and a generalist model assumes each will cover the others&#x27; blind spots. A new study evaluating 67 frontier models from 21 providers shows that assumption is mathematically flawed \u2014 and the flaw has a name: the co-failure ceiling.The assumption works like this: as long as two models don&#x27;t usually fail on the exact same prompts, combining them is supposed to create a safety net against failures.The real limit on orchestration is not how often models disagree, but the percentage of prompts where every model in the po",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-07-09T18:46:56+00:00",
+      "fetched_at": "2026-07-10T17:48:54.944947+00:00"
+    },
+    {
+      "id": "fddab88fdce4",
+      "title": "One interface isn't enough for enterprise AI",
+      "url": "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
+      "summary": "Presented by Oracle NetSuiteEvery major technology transition produces a set of assumptions about where the market is headed. The assumptions are often directionally correct, but they tend to underestimate the degree to which organizations adapt new technologies to their own circumstances. AI is following a similar trajectory.Many current discussions about enterprise AI assume a future in which employees interact with business systems through a common interface. The details vary depending on the prediction, but the destination often looks similar: a conversational system that becomes the prima",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-07-09T07:00:00+00:00",
+      "fetched_at": "2026-07-10T17:48:54.945013+00:00"
+    },
+    {
+      "id": "9751fb1c644a",
+      "title": "Your Agents Should Beat Your Best Reps, Not Match Them. And 14 Other Hard Truths About B2B + AI Today, From Our SaaStr AI Annual AMA",
+      "url": "https://www.saastr.com/your-agents-should-beat-your-best-rep-not-match-them-and-14-other-hard-truths-in-aib2b-today-from-our-saastr-ai-ama/",
+      "summary": "We closed out SaaStr AI 2026 with our deep dive AMA, and the theme this year: software is the least static it has ever been. The products we run change more in a month now than they used to in years.\u00a0 The old playbooks work but they are just &#8230; too slow. Planning once a... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-07-08T19:12:18+00:00",
+      "fetched_at": "2026-07-10T17:48:55.665049+00:00"
     }
   ],
   "history": [
@@ -259,7 +259,14 @@
     "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
     "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
     "https://www.businessinsider.com/uber-cto-bets-on-agentic-pods-make-ai-more-efficient-2026-7",
-    "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/"
+    "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
+    "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
+    "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
+    "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
+    "https://www.saastr.com/your-agents-should-beat-your-best-rep-not-match-them-and-14-other-hard-truths-in-aib2b-today-from-our-saastr-ai-ama/"
   ],
-  "generated_at": "2026-07-09T17:58:14.854268+00:00"
+  "generated_at": "2026-07-10T17:48:59.583440+00:00"
 }
