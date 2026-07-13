@@ -1,124 +1,124 @@
 {
   "queue": [
     {
-      "id": "7c2de7b9a2a7",
-      "title": "Behind The AI Gold Rush At RAISE Summit Paris",
-      "url": "https://www.forbes.com/sites/rscottraynovich/2026/07/09/behind-the-ai-gold-rush-at-raise-summit-paris/",
-      "summary": "The RAISE Summit in Paris drew 9,000 attendees to discuss enterprise AI adoption, coding tools, and the burgeoning neocloud market. Data sovereignty was also stressed.",
-      "source": "Forbes Innovation",
-      "score": 10.0,
-      "published": "2026-07-09T16:29:33+00:00",
-      "fetched_at": "2026-07-09T17:58:11.990499+00:00"
-    },
-    {
-      "id": "2d9a2920230f",
-      "title": "The enterprise AI challenge nobody solves with code generation alone",
-      "url": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
-      "summary": "Presented by SAPGenerating code with AI is fast, but getting that code to run reliably inside a large enterprise, integrated with live systems, governed for compliance, and maintainable over years requires foundational work that most organizations underestimate. While 81% of all organizations have a detailed strategy, only 12\u201316% reach AI\u2011driven execution, says SAP&#x27;s Michael Ameling, CPO of SAP Business Technology Platform, and the reasons rarely come down to the quality of the generated code.&quot;Across industries, enterprises that have invested heavily in AI tooling are hitting a wall ",
+      "id": "0e57c02fb020",
+      "title": "The desktop infrastructure problem that kubernetes finally solves",
+      "url": "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
+      "summary": "Presented by Kasm TechnologiesEnterprise infrastructure teams have spent the better part of a decade pushing workloads into Kubernetes. Applications, APIs, batch jobs, data pipelines \u2014 if it runs in a container, it belongs in the cluster. The operational benefits are well-established: declarative configuration, horizontal scaling, self-healing, native integration with CI/CD pipelines and observability tooling. Kubernetes has become the default operating model for production workloads.Except for desktops.Secure desktop and application delivery \u2014 the kind that enterprises depend on for remote wo",
       "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-07-09T15:00:10+00:00",
-      "fetched_at": "2026-07-09T17:58:10.831628+00:00"
+      "score": 9.9,
+      "published": "2026-07-13T07:00:00+00:00",
+      "fetched_at": "2026-07-13T17:56:33.161000+00:00"
     },
     {
-      "id": "bb04e634d520",
-      "title": "SpaceX's Grok 4.5 launches at half the price of rivals \u2014 here's why that could rattle Anthropic and OpenAI",
-      "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
-      "summary": "Elon Musk&#x27;s SpaceX released Grok 4.5 on Wednesday, the first artificial intelligence model the company has trained specifically for coding and autonomous agents \u2014 and the first tangible product of its $60 billion acquisition of the AI coding startup Cursor, completed just weeks ago.The launch marks a pivotal test of the sprawling, vertically integrated AI empire Musk has assembled over the past six months, and of a strategy that bets developers care less about topping benchmark leaderboards than about speed, cost, and whether a model can actually do the work.&quot;Announcing Grok 4.5, our",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-07-08T22:00:00+00:00",
-      "fetched_at": "2026-07-09T17:58:10.831798+00:00"
+      "id": "555bd4b16fc5",
+      "title": "This new AI model thinks in images, not just words",
+      "url": "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words",
+      "summary": "Elorian, founded by the ex-Google Brain and DeepMind researcher Andrew Dai, believes that learning from, and reasoning about, images is fundamental to rapid intelligence gains.\u00a0\n\nFor almost a decade, AI researchers have been obsessed with one kind of artificial intelligence\u2014large language models (LLMs), which they train to write, talk, and reason using words. The tech industry is making an enormous bet that making such models bigger and smarter is the path to\u00a0superintelligence.",
+      "source": "Fast Company",
+      "score": 8.0,
+      "published": "2026-07-13T10:00:00+00:00",
+      "fetched_at": "2026-07-13T17:56:37.993719+00:00"
     },
     {
-      "id": "5a49bcd87756",
-      "title": "Uber's CTO embedded its top AI engineers in HR, finance, and legal, and found better ways to build",
-      "url": "https://www.businessinsider.com/uber-cto-bets-on-agentic-pods-make-ai-more-efficient-2026-7",
-      "summary": "Uber tech chief Praveen Neppalli Naga is developing AI agents with a new approach, \"agentic pods,\" to handle tasks across finance, HR, and legal.",
-      "source": "Business Insider",
-      "score": 6.0,
-      "published": "2026-07-09T15:24:02+00:00",
-      "fetched_at": "2026-07-09T17:58:14.443687+00:00"
+      "id": "39326c3b072f",
+      "title": "Don\u2019t Put AI on Your Hot Leads. Put It on the Ones Your Reps Will Never Call. There\u2019s Millions in Revenue There.",
+      "url": "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/",
+      "summary": "From The Agents, our weekly podcast on how we deploy and run AI agents at SaaStr, and how to do it yourself. The other night I was talking with an AI CEO and their head of marketing, and they told me the same thing I hear constantly: &#8220;We tried AI agents on outbound. It doesn&#8217;t... Continue Reading",
+      "source": "SaaStr",
+      "score": 7.7,
+      "published": "2026-07-13T14:10:10+00:00",
+      "fetched_at": "2026-07-13T17:56:33.489387+00:00"
     },
     {
-      "id": "9c57f755e180",
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-07-08T19:19:15+00:00",
-      "fetched_at": "2026-07-09T17:58:09.266506+00:00"
-    },
-    {
-      "id": "863f8866bc5e",
-      "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
-      "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
-      "summary": "The vast majority of business data is tabular \u2014 living in data warehouses, CRMs, and financial ledgers \u2014 yet building a reliable model from it still means training a new one from scratch for every dataset, then maintaining hyperparameter tuning loops, feature engineering, and retraining pipelines to fight data drift. Google Research is proposing a way around that: a new foundation model called TabFM that treats tabular prediction as an in-context learning problem instead.It can generate predictions for a new, unseen table in a single forward pass. For enterprise developers and AI engineers, th",
+      "id": "e67a365843c3",
+      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+      "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+      "summary": "Slopsquatting represents an emerging supply chain threat made possible by AI hallucinations. As developers increasingly rely on AI coding assistants, they unknowingly grant cybercriminals access to their software from day one.\u00a0Understanding what slopsquatting isSlopsquatting is a new type of supply chain attack that uses large language model (LLM) hallucinations to inject malicious code into development workflows. The term combines &quot;AI slop&quot; and &quot;typosquatting,&quot; a deceptive practice where attackers register misspelled or lookalike versions of popular domains to prey on user",
       "source": "VentureBeat",
       "score": 7.7,
-      "published": "2026-07-10T16:14:24+00:00",
-      "fetched_at": "2026-07-10T17:48:54.944772+00:00"
+      "published": "2026-07-13T13:33:54+00:00",
+      "fetched_at": "2026-07-13T17:56:33.160921+00:00"
     },
     {
-      "id": "eb2fa5e9cf60",
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-07-09T22:08:58+00:00",
-      "fetched_at": "2026-07-10T17:48:52.403941+00:00"
+      "id": "e4ecb6192b35",
+      "title": "This new AI model thinks in images, not just words",
+      "url": "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "For almost a decade, AI researchers have been obsessed with one kind of artificial intelligence\u2014large language models (LLMs), which they train to write, talk, and reason using words. The tech industry is making an enormous bet that making such models bigger and smarter is the path to\u00a0superintelligence.\u00a0\n\n\n\nBut in 2026 some very high-profile AI researchers doubt that this word-centric approach is the whole answer. Among them is Andrew Dai, a veteran AI researcher&nbsp;who left Google DeepMind to build models designed from the ground up to understand, reason about, and generate images. His start",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-07-13T10:00:00+00:00",
+      "fetched_at": "2026-07-13T17:56:37.640364+00:00"
     },
     {
-      "id": "aca1fb615a00",
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations \u2014 the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-07-09T19:40:45+00:00",
-      "fetched_at": "2026-07-10T17:48:52.404052+00:00"
-    },
-    {
-      "id": "4d7e17b79f91",
-      "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
-      "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
-      "summary": "Share one API key across five AI agents, and a single compromised agent inherits the reach of all five. The attacker immediately benefits from the accumulated permissions of every workflow that the key touches. The forensic trail goes cold at the credential level because five agents on one account leave no record of which agent did what.Sixty-nine percent of enterprises run agents with credential sharing somewhere in their deployments, according to VentureBeat\u2019s June 2026 Pulse Research wave of 107 enterprises. That one number explains the buying spree reshaping enterprise security this year. ",
+      "id": "62850fba22aa",
+      "title": "DeepSeek cut prices 75%. The 100x problem remains",
+      "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+      "summary": "DeepSeek&#x27;s recent decision to drastically cut pricing on its V4-Pro model by 75% should have been unequivocally good news for enterprise AI vendors and developers. Instead, many are discovering that cheaper models don\u2019t automatically translate into healthier margins.The reason is simple: While inference costs plummet, agent systems are voraciously consuming tokens\u00a0faster than prices are declining. For the last 2 decades, software economics was dictated by the same rule. Infra became cheaper every year whereas applications became more capable. AI was initially hypothesized to follow the sa",
       "source": "VentureBeat",
       "score": 6.6,
-      "published": "2026-07-09T20:45:43+00:00",
-      "fetched_at": "2026-07-10T17:48:54.944867+00:00"
+      "published": "2026-07-12T16:00:00+00:00",
+      "fetched_at": "2026-07-13T17:56:33.161113+00:00"
     },
     {
-      "id": "d3720c765a7b",
-      "title": "Enterprises using multiple AI models are underestimating failure rates by 2.25x",
-      "url": "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
-      "summary": "A team routing queries across a coding specialist, a logic specialist, and a generalist model assumes each will cover the others&#x27; blind spots. A new study evaluating 67 frontier models from 21 providers shows that assumption is mathematically flawed \u2014 and the flaw has a name: the co-failure ceiling.The assumption works like this: as long as two models don&#x27;t usually fail on the exact same prompts, combining them is supposed to create a safety net against failures.The real limit on orchestration is not how often models disagree, but the percentage of prompts where every model in the po",
+      "id": "37ef33f2a054",
+      "title": "Lessons From 70 Triathlons About Why Enterprise Software Projects Fail",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/lessons-from-70-triathlons-about-why-enterprise-software-projects-fail/",
+      "summary": "The body, whether human or organizational, routes around solutions that do not match its actual experience of the problem.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-07-13T15:15:00+00:00",
+      "fetched_at": "2026-07-13T17:56:34.536030+00:00"
+    },
+    {
+      "id": "72987c629b4d",
+      "title": "When Every Employee Manages 200 AI Agents",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/when-every-employee-manages-200-ai-agents/",
+      "summary": "A successful agentic AI deployment will depend on how well your organization structures the relationship between human cognition and machine scale.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-07-13T14:45:00+00:00",
+      "fetched_at": "2026-07-13T17:56:34.536235+00:00"
+    },
+    {
+      "id": "38871dad9f65",
+      "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
+      "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
+      "summary": "Model routing is becoming a key component of the enterprise AI stack, dynamically sending prompts to the right AI model to optimize speed and costs. However, current frameworks mostly treat routing as a static classification problem, which severely limits their potential.A new open-source framework called Agent-as-a-Router tackles this bottleneck, treating the router as a dynamic, memory-building agent. It uses a Context-Action-Feedback (C-A-F) loop to track model successes and failures and update the behavior of the router.\u00a0The researchers also released ACRouter, a concrete implementation of ",
       "source": "VentureBeat",
       "score": 5.5,
-      "published": "2026-07-09T18:46:56+00:00",
-      "fetched_at": "2026-07-10T17:48:54.944947+00:00"
+      "published": "2026-07-13T16:06:36+00:00",
+      "fetched_at": "2026-07-13T17:56:33.160838+00:00"
     },
     {
-      "id": "fddab88fdce4",
-      "title": "One interface isn't enough for enterprise AI",
-      "url": "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
-      "summary": "Presented by Oracle NetSuiteEvery major technology transition produces a set of assumptions about where the market is headed. The assumptions are often directionally correct, but they tend to underestimate the degree to which organizations adapt new technologies to their own circumstances. AI is following a similar trajectory.Many current discussions about enterprise AI assume a future in which employees interact with business systems through a common interface. The details vary depending on the prediction, but the destination often looks similar: a conversational system that becomes the prima",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-07-09T07:00:00+00:00",
-      "fetched_at": "2026-07-10T17:48:54.945013+00:00"
+      "id": "982ec5be9e1d",
+      "title": "Exclusive: 34\u00a0CEOs on what thrills and terrifies them about agentic AI",
+      "url": "https://www.fastcompany.com/91549056/ceo-survey-agentic-ai-promise-fears?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "When businesses\u00a0leaders\u00a0think about AI right now,\u00a0they\u2019re\u00a0thinking about how agentic tools will change the very nature of their work.\u00a0\u201cWe\u2019ve crossed a line,\u201d says\u00a0Varun Krishna, CEO of the fintech giant\u00a0Rocket Companies. \u201cAI is no longer just\u00a0creating. It is thinking,\u00a0deciding\u00a0and acting. That changes everything, from client interaction to security.\u201d\u00a0\n\n\n\nAs agentic tools\u00a0get more sophisticated, they\u00a0\u201cexpose how many organizations are still constrained by siloed data, fragmented ownership, and legacy ways of working,\u201d says\u00a0Ndidi Oteh, who leads\u00a0Accenture Song, the\u00a0professional services and crea",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-07-13T10:30:00+00:00",
+      "fetched_at": "2026-07-13T17:56:37.640211+00:00"
     },
     {
-      "id": "9751fb1c644a",
-      "title": "Your Agents Should Beat Your Best Reps, Not Match Them. And 14 Other Hard Truths About B2B + AI Today, From Our SaaStr AI Annual AMA",
-      "url": "https://www.saastr.com/your-agents-should-beat-your-best-rep-not-match-them-and-14-other-hard-truths-in-aib2b-today-from-our-saastr-ai-ama/",
-      "summary": "We closed out SaaStr AI 2026 with our deep dive AMA, and the theme this year: software is the least static it has ever been. The products we run change more in a month now than they used to in years.\u00a0 The old playbooks work but they are just &#8230; too slow. Planning once a... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-07-08T19:12:18+00:00",
-      "fetched_at": "2026-07-10T17:48:55.665049+00:00"
+      "id": "9491fc63dc20",
+      "title": "Most Companies Have AI Tools, But Many Don't Rewire Themselves For AI",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/most-companies-have-ai-tools-but-many-dont-rewire-themselves-for-ai/",
+      "summary": "A productivity tool makes you faster at what you were already doing. An AI agent can completely change what you're doing.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-07-13T15:45:00+00:00",
+      "fetched_at": "2026-07-13T17:56:34.535969+00:00"
+    },
+    {
+      "id": "edf4770d6672",
+      "title": "Innovation Is The New Measure Of Digital Transformation",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/innovation-is-the-new-measure-of-digital-transformation/",
+      "summary": "AI can no longer sit on the edge of the enterprise as a productivity tool or a series of pilots.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-07-13T14:45:00+00:00",
+      "fetched_at": "2026-07-13T17:56:34.536202+00:00"
     }
   ],
   "history": [
@@ -266,7 +266,19 @@
     "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
     "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
     "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
-    "https://www.saastr.com/your-agents-should-beat-your-best-rep-not-match-them-and-14-other-hard-truths-in-aib2b-today-from-our-saastr-ai-ama/"
+    "https://www.saastr.com/your-agents-should-beat-your-best-rep-not-match-them-and-14-other-hard-truths-in-aib2b-today-from-our-saastr-ai-ama/",
+    "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
+    "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words",
+    "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/",
+    "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+    "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/lessons-from-70-triathlons-about-why-enterprise-software-projects-fail/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/when-every-employee-manages-200-ai-agents/",
+    "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
+    "https://www.fastcompany.com/91549056/ceo-survey-agentic-ai-promise-fears?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/most-companies-have-ai-tools-but-many-dont-rewire-themselves-for-ai/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/innovation-is-the-new-measure-of-digital-transformation/"
   ],
-  "generated_at": "2026-07-10T17:48:59.583440+00:00"
+  "generated_at": "2026-07-13T17:56:37.993889+00:00"
 }
