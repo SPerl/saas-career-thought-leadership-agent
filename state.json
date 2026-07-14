@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "0e57c02fb020",
-      "title": "The desktop infrastructure problem that kubernetes finally solves",
-      "url": "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
-      "summary": "Presented by Kasm TechnologiesEnterprise infrastructure teams have spent the better part of a decade pushing workloads into Kubernetes. Applications, APIs, batch jobs, data pipelines \u2014 if it runs in a container, it belongs in the cluster. The operational benefits are well-established: declarative configuration, horizontal scaling, self-healing, native integration with CI/CD pipelines and observability tooling. Kubernetes has become the default operating model for production workloads.Except for desktops.Secure desktop and application delivery \u2014 the kind that enterprises depend on for remote wo",
-      "source": "VentureBeat",
-      "score": 9.9,
-      "published": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-07-13T17:56:33.161000+00:00"
-    },
-    {
       "id": "555bd4b16fc5",
       "title": "This new AI model thinks in images, not just words",
       "url": "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words",
@@ -119,6 +109,16 @@
       "score": 4.0,
       "published": "2026-07-13T14:45:00+00:00",
       "fetched_at": "2026-07-13T17:56:34.536202+00:00"
+    },
+    {
+      "id": "e00d538fa12f",
+      "title": "AISec: The New Security Imperative For The AI-Driven Enterprise",
+      "url": "https://www.forbes.com/sites/timbajarin/2026/07/13/aisec-the-new-security-imperative-for-the-ai-driven-enterprise/",
+      "summary": "AI is reshaping software and enterprise operations, creating new risks. AISec emerges as a critical discipline to secure AI-driven systems and autonomous processes.",
+      "source": "Forbes Innovation",
+      "score": 10.0,
+      "published": "2026-07-13T22:23:22+00:00",
+      "fetched_at": "2026-07-14T01:49:49.264844+00:00"
     }
   ],
   "history": [
@@ -278,7 +278,8 @@
     "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
     "https://www.fastcompany.com/91549056/ceo-survey-agentic-ai-promise-fears?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/most-companies-have-ai-tools-but-many-dont-rewire-themselves-for-ai/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/innovation-is-the-new-measure-of-digital-transformation/"
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/innovation-is-the-new-measure-of-digital-transformation/",
+    "https://www.forbes.com/sites/timbajarin/2026/07/13/aisec-the-new-security-imperative-for-the-ai-driven-enterprise/"
   ],
-  "generated_at": "2026-07-13T17:56:37.993889+00:00"
+  "generated_at": "2026-07-14T01:49:53.534186+00:00"
 }
