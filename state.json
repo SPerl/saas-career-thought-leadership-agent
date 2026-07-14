@@ -41,16 +41,6 @@
       "fetched_at": "2026-07-13T17:56:37.640364+00:00"
     },
     {
-      "id": "62850fba22aa",
-      "title": "DeepSeek cut prices 75%. The 100x problem remains",
-      "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
-      "summary": "DeepSeek&#x27;s recent decision to drastically cut pricing on its V4-Pro model by 75% should have been unequivocally good news for enterprise AI vendors and developers. Instead, many are discovering that cheaper models don\u2019t automatically translate into healthier margins.The reason is simple: While inference costs plummet, agent systems are voraciously consuming tokens\u00a0faster than prices are declining. For the last 2 decades, software economics was dictated by the same rule. Infra became cheaper every year whereas applications became more capable. AI was initially hypothesized to follow the sa",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-07-12T16:00:00+00:00",
-      "fetched_at": "2026-07-13T17:56:33.161113+00:00"
-    },
-    {
       "id": "37ef33f2a054",
       "title": "Lessons From 70 Triathlons About Why Enterprise Software Projects Fail",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/lessons-from-70-triathlons-about-why-enterprise-software-projects-fail/",
@@ -119,6 +109,16 @@
       "score": 10.0,
       "published": "2026-07-13T22:23:22+00:00",
       "fetched_at": "2026-07-14T01:49:49.264844+00:00"
+    },
+    {
+      "id": "ba2a16992cf7",
+      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
+      "url": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+      "summary": "1Password on Tuesday launched AI Spend and Consumption Management, a new capability embedded in its SaaS Manager platform that gives IT and finance teams a unified, real-time view of how their organizations consume and spend on AI services from vendors including Anthropic, Cursor, and OpenAI.The move marks the latest strategic expansion for a company that built its reputation on password management for consumers and, over the past three years, has aggressively repositioned itself as a broader identity security and SaaS governance platform for enterprise buyers. With this release, 1Password is ",
+      "source": "VentureBeat",
+      "score": 9.9,
+      "published": "2026-07-14T13:00:00+00:00",
+      "fetched_at": "2026-07-14T17:16:37.316250+00:00"
     }
   ],
   "history": [
@@ -279,7 +279,8 @@
     "https://www.fastcompany.com/91549056/ceo-survey-agentic-ai-promise-fears?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/most-companies-have-ai-tools-but-many-dont-rewire-themselves-for-ai/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/innovation-is-the-new-measure-of-digital-transformation/",
-    "https://www.forbes.com/sites/timbajarin/2026/07/13/aisec-the-new-security-imperative-for-the-ai-driven-enterprise/"
+    "https://www.forbes.com/sites/timbajarin/2026/07/13/aisec-the-new-security-imperative-for-the-ai-driven-enterprise/",
+    "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis"
   ],
-  "generated_at": "2026-07-14T01:49:53.534186+00:00"
+  "generated_at": "2026-07-14T17:16:43.019741+00:00"
 }
