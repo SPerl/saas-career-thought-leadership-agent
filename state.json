@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "id": "555bd4b16fc5",
-      "title": "This new AI model thinks in images, not just words",
-      "url": "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words",
-      "summary": "Elorian, founded by the ex-Google Brain and DeepMind researcher Andrew Dai, believes that learning from, and reasoning about, images is fundamental to rapid intelligence gains.\u00a0\n\nFor almost a decade, AI researchers have been obsessed with one kind of artificial intelligence\u2014large language models (LLMs), which they train to write, talk, and reason using words. The tech industry is making an enormous bet that making such models bigger and smarter is the path to\u00a0superintelligence.",
-      "source": "Fast Company",
-      "score": 8.0,
-      "published": "2026-07-13T10:00:00+00:00",
-      "fetched_at": "2026-07-13T17:56:37.993719+00:00"
-    },
-    {
-      "id": "39326c3b072f",
-      "title": "Don\u2019t Put AI on Your Hot Leads. Put It on the Ones Your Reps Will Never Call. There\u2019s Millions in Revenue There.",
-      "url": "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/",
-      "summary": "From The Agents, our weekly podcast on how we deploy and run AI agents at SaaStr, and how to do it yourself. The other night I was talking with an AI CEO and their head of marketing, and they told me the same thing I hear constantly: &#8220;We tried AI agents on outbound. It doesn&#8217;t... Continue Reading",
-      "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-07-13T14:10:10+00:00",
-      "fetched_at": "2026-07-13T17:56:33.489387+00:00"
-    },
-    {
-      "id": "e67a365843c3",
-      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
-      "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
-      "summary": "Slopsquatting represents an emerging supply chain threat made possible by AI hallucinations. As developers increasingly rely on AI coding assistants, they unknowingly grant cybercriminals access to their software from day one.\u00a0Understanding what slopsquatting isSlopsquatting is a new type of supply chain attack that uses large language model (LLM) hallucinations to inject malicious code into development workflows. The term combines &quot;AI slop&quot; and &quot;typosquatting,&quot; a deceptive practice where attackers register misspelled or lookalike versions of popular domains to prey on user",
-      "source": "VentureBeat",
-      "score": 7.7,
-      "published": "2026-07-13T13:33:54+00:00",
-      "fetched_at": "2026-07-13T17:56:33.160921+00:00"
-    },
-    {
-      "id": "e4ecb6192b35",
-      "title": "This new AI model thinks in images, not just words",
-      "url": "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "For almost a decade, AI researchers have been obsessed with one kind of artificial intelligence\u2014large language models (LLMs), which they train to write, talk, and reason using words. The tech industry is making an enormous bet that making such models bigger and smarter is the path to\u00a0superintelligence.\u00a0\n\n\n\nBut in 2026 some very high-profile AI researchers doubt that this word-centric approach is the whole answer. Among them is Andrew Dai, a veteran AI researcher&nbsp;who left Google DeepMind to build models designed from the ground up to understand, reason about, and generate images. His start",
-      "source": "Fast Company Tech",
-      "score": 7.7,
-      "published": "2026-07-13T10:00:00+00:00",
-      "fetched_at": "2026-07-13T17:56:37.640364+00:00"
-    },
-    {
-      "id": "37ef33f2a054",
-      "title": "Lessons From 70 Triathlons About Why Enterprise Software Projects Fail",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/lessons-from-70-triathlons-about-why-enterprise-software-projects-fail/",
-      "summary": "The body, whether human or organizational, routes around solutions that do not match its actual experience of the problem.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-07-13T15:15:00+00:00",
-      "fetched_at": "2026-07-13T17:56:34.536030+00:00"
-    },
-    {
-      "id": "72987c629b4d",
-      "title": "When Every Employee Manages 200 AI Agents",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/when-every-employee-manages-200-ai-agents/",
-      "summary": "A successful agentic AI deployment will depend on how well your organization structures the relationship between human cognition and machine scale.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-07-13T14:45:00+00:00",
-      "fetched_at": "2026-07-13T17:56:34.536235+00:00"
-    },
-    {
-      "id": "38871dad9f65",
-      "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
-      "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
-      "summary": "Model routing is becoming a key component of the enterprise AI stack, dynamically sending prompts to the right AI model to optimize speed and costs. However, current frameworks mostly treat routing as a static classification problem, which severely limits their potential.A new open-source framework called Agent-as-a-Router tackles this bottleneck, treating the router as a dynamic, memory-building agent. It uses a Context-Action-Feedback (C-A-F) loop to track model successes and failures and update the behavior of the router.\u00a0The researchers also released ACRouter, a concrete implementation of ",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-07-13T16:06:36+00:00",
-      "fetched_at": "2026-07-13T17:56:33.160838+00:00"
-    },
-    {
-      "id": "982ec5be9e1d",
-      "title": "Exclusive: 34\u00a0CEOs on what thrills and terrifies them about agentic AI",
-      "url": "https://www.fastcompany.com/91549056/ceo-survey-agentic-ai-promise-fears?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "When businesses\u00a0leaders\u00a0think about AI right now,\u00a0they\u2019re\u00a0thinking about how agentic tools will change the very nature of their work.\u00a0\u201cWe\u2019ve crossed a line,\u201d says\u00a0Varun Krishna, CEO of the fintech giant\u00a0Rocket Companies. \u201cAI is no longer just\u00a0creating. It is thinking,\u00a0deciding\u00a0and acting. That changes everything, from client interaction to security.\u201d\u00a0\n\n\n\nAs agentic tools\u00a0get more sophisticated, they\u00a0\u201cexpose how many organizations are still constrained by siloed data, fragmented ownership, and legacy ways of working,\u201d says\u00a0Ndidi Oteh, who leads\u00a0Accenture Song, the\u00a0professional services and crea",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-07-13T10:30:00+00:00",
-      "fetched_at": "2026-07-13T17:56:37.640211+00:00"
-    },
-    {
-      "id": "9491fc63dc20",
-      "title": "Most Companies Have AI Tools, But Many Don't Rewire Themselves For AI",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/most-companies-have-ai-tools-but-many-dont-rewire-themselves-for-ai/",
-      "summary": "A productivity tool makes you faster at what you were already doing. An AI agent can completely change what you're doing.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-07-13T15:45:00+00:00",
-      "fetched_at": "2026-07-13T17:56:34.535969+00:00"
-    },
-    {
-      "id": "edf4770d6672",
-      "title": "Innovation Is The New Measure Of Digital Transformation",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/innovation-is-the-new-measure-of-digital-transformation/",
-      "summary": "AI can no longer sit on the edge of the enterprise as a productivity tool or a series of pilots.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-07-13T14:45:00+00:00",
-      "fetched_at": "2026-07-13T17:56:34.536202+00:00"
-    },
-    {
       "id": "e00d538fa12f",
       "title": "AISec: The New Security Imperative For The AI-Driven Enterprise",
       "url": "https://www.forbes.com/sites/timbajarin/2026/07/13/aisec-the-new-security-imperative-for-the-ai-driven-enterprise/",
@@ -119,6 +19,106 @@
       "score": 9.9,
       "published": "2026-07-14T13:00:00+00:00",
       "fetched_at": "2026-07-14T17:16:37.316250+00:00"
+    },
+    {
+      "id": "a7d536cf06e6",
+      "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
+      "url": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
+      "summary": "Organizations need to transform to meet the needs of agentic AI.Meta VP of Engineering Barak Yagour opened his talk at VB Transform 2026 wearing a pair of Ray-Ban Meta AI glasses, a small sign of how far AI has already worked its way into physical life. His argument went further: enterprise infrastructure was built for humans, not for agents, and it&#x27;s starting to show.Yagour, who leads its data infrastructure organization, told the audience that agentic queries hitting Meta&#x27;s data systems grew 30x in a single half, an inversion that he said is breaking assumptions the company spent t",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-07-15T14:59:15+00:00",
+      "fetched_at": "2026-07-15T17:19:37.850070+00:00"
+    },
+    {
+      "id": "e8dd50de2f6d",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot\u2019s personalization and discovery features as it expands into new product categories.",
+      "source": "TechCrunch AI",
+      "score": 9.6,
+      "published": "2026-07-15T17:00:00+00:00",
+      "fetched_at": "2026-07-15T17:19:36.119127+00:00"
+    },
+    {
+      "id": "53c42ac5532a",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "source": "TechCrunch AI",
+      "score": 9.6,
+      "published": "2026-07-15T13:10:47+00:00",
+      "fetched_at": "2026-07-15T17:19:36.119227+00:00"
+    },
+    {
+      "id": "d3f280f36006",
+      "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "summary": "Apple Intelligence is headed to China after regulators approved Apple\u2019s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba\u2019s Qwen AI models to Apple\u2019s operating systems, marking a major expansion of the company\u2019s generative AI platform into one of its most important markets.",
+      "source": "TechCrunch AI",
+      "score": 8.4,
+      "published": "2026-07-15T15:29:33+00:00",
+      "fetched_at": "2026-07-15T17:19:36.119198+00:00"
+    },
+    {
+      "id": "f7e27be0053b",
+      "title": "Your AI Employees Need More Than A Software License\u2014They Need A Job Description",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/15/your-ai-employees-need-more-than-a-software-license-they-need-a-job-description/",
+      "summary": "AI agents aren't remote humans. They're cloud-native workers that were born in the infrastructure your endpoint tools can't reach.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-07-15T13:45:00+00:00",
+      "fetched_at": "2026-07-15T17:19:38.982939+00:00"
+    },
+    {
+      "id": "646c882e1178",
+      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+      "summary": "Co-founded by serial entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.",
+      "source": "TechCrunch Enterprise",
+      "score": 5.5,
+      "published": "2026-07-15T11:00:00+00:00",
+      "fetched_at": "2026-07-15T17:19:36.161428+00:00"
+    },
+    {
+      "id": "a1dce868351e",
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "summary": "LLMs generate code incredibly fast, but to ensure they generate\n      exactly what is intended, they need clear boundaries. Abstractions and\n      Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs\n      right from the start. Unmesh Joshi describes how the example\n      of Tickloom - a domain model and DSL for illustrating distributed system\n      behavior - shows how we can use an LLM as a partner to iteratively build a\n      DSL and as a natural language interface to use it. Such a DSL can act as\n      the key source of truth for software systems in the world of LLMs.",
+      "source": "Martin Fowler",
+      "score": 4.4,
+      "published": "2026-07-14T12:51:00+00:00",
+      "fetched_at": "2026-07-15T17:19:40.639206+00:00"
+    },
+    {
+      "id": "54bdfbfdb36f",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-07-15T12:00:00+00:00",
+      "fetched_at": "2026-07-15T17:19:36.119330+00:00"
+    },
+    {
+      "id": "1bd5693fd178",
+      "title": "An Hour With Our Top AI Agent Cost $13.42. You Can\u2019t Hire Anyone For That.",
+      "url": "https://www.saastr.com/an-hour-with-our-top-ai-agent-cost-13-42-you-cant-hire-anyone-for-that/",
+      "summary": "Amelia our Chief AI Officer pinged me this morning with a screenshot and three words: &#8220;10K making less than &#8230; minimum wage.&#8221; This is what she was looking at. 10K, our AI VP of Marketing, had just wrapped a focused work session. The summary read: Time worked: 1 hour, 1 minute Actions taken: 125 Lines... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-07-15T14:10:09+00:00",
+      "fetched_at": "2026-07-15T17:19:38.307769+00:00"
+    },
+    {
+      "id": "4a46589eb156",
+      "title": "Dear SaaStr.ai: At What Point Should We Hire an Internal Recruiter?",
+      "url": "https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/",
+      "summary": "Dear SaaStr.ai: At what point has a start up do you hire a recruiter internally versus paying recruiters 20% fees? Hire a full-time internal recruiter once you&#8217;re hiring 5+ people per quarter consistently. Here&#8217;s the math: If you&#8217;re paying 20% placement fees on $150K hires, that&#8217;s $30K per placement. An internal recruiter costs $60\u201380K fully... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-07-15T09:18:23+00:00",
+      "fetched_at": "2026-07-15T17:19:38.307822+00:00"
     }
   ],
   "history": [
@@ -280,7 +280,17 @@
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/most-companies-have-ai-tools-but-many-dont-rewire-themselves-for-ai/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/innovation-is-the-new-measure-of-digital-transformation/",
     "https://www.forbes.com/sites/timbajarin/2026/07/13/aisec-the-new-security-imperative-for-the-ai-driven-enterprise/",
-    "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis"
+    "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+    "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
+    "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+    "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/15/your-ai-employees-need-more-than-a-software-license-they-need-a-job-description/",
+    "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+    "https://martinfowler.com/articles/llm-and-dsls.html",
+    "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+    "https://www.saastr.com/an-hour-with-our-top-ai-agent-cost-13-42-you-cant-hire-anyone-for-that/",
+    "https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/"
   ],
-  "generated_at": "2026-07-14T17:16:43.019741+00:00"
+  "generated_at": "2026-07-15T17:19:41.226369+00:00"
 }
