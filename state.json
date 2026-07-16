@@ -1,26 +1,6 @@
 {
   "queue": [
     {
-      "id": "e00d538fa12f",
-      "title": "AISec: The New Security Imperative For The AI-Driven Enterprise",
-      "url": "https://www.forbes.com/sites/timbajarin/2026/07/13/aisec-the-new-security-imperative-for-the-ai-driven-enterprise/",
-      "summary": "AI is reshaping software and enterprise operations, creating new risks. AISec emerges as a critical discipline to secure AI-driven systems and autonomous processes.",
-      "source": "Forbes Innovation",
-      "score": 10.0,
-      "published": "2026-07-13T22:23:22+00:00",
-      "fetched_at": "2026-07-14T01:49:49.264844+00:00"
-    },
-    {
-      "id": "ba2a16992cf7",
-      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
-      "url": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
-      "summary": "1Password on Tuesday launched AI Spend and Consumption Management, a new capability embedded in its SaaS Manager platform that gives IT and finance teams a unified, real-time view of how their organizations consume and spend on AI services from vendors including Anthropic, Cursor, and OpenAI.The move marks the latest strategic expansion for a company that built its reputation on password management for consumers and, over the past three years, has aggressively repositioned itself as a broader identity security and SaaS governance platform for enterprise buyers. With this release, 1Password is ",
-      "source": "VentureBeat",
-      "score": 9.9,
-      "published": "2026-07-14T13:00:00+00:00",
-      "fetched_at": "2026-07-14T17:16:37.316250+00:00"
-    },
-    {
       "id": "a7d536cf06e6",
       "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
       "url": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
@@ -81,16 +61,6 @@
       "fetched_at": "2026-07-15T17:19:36.161428+00:00"
     },
     {
-      "id": "a1dce868351e",
-      "title": "DSLs Enable Reliable Use of LLMs",
-      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
-      "summary": "LLMs generate code incredibly fast, but to ensure they generate\n      exactly what is intended, they need clear boundaries. Abstractions and\n      Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs\n      right from the start. Unmesh Joshi describes how the example\n      of Tickloom - a domain model and DSL for illustrating distributed system\n      behavior - shows how we can use an LLM as a partner to iteratively build a\n      DSL and as a natural language interface to use it. Such a DSL can act as\n      the key source of truth for software systems in the world of LLMs.",
-      "source": "Martin Fowler",
-      "score": 4.4,
-      "published": "2026-07-14T12:51:00+00:00",
-      "fetched_at": "2026-07-15T17:19:40.639206+00:00"
-    },
-    {
       "id": "54bdfbfdb36f",
       "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
       "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
@@ -119,6 +89,36 @@
       "score": 3.3,
       "published": "2026-07-15T09:18:23+00:00",
       "fetched_at": "2026-07-15T17:19:38.307822+00:00"
+    },
+    {
+      "id": "e2d44eecff5c",
+      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
+      "url": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
+      "summary": "Hundreds of enterprise leaders and technical experts packed the main ballroom of the luxurious Hotel Nia in Menlo Park this week for VB Transform 2026, the year&#x27;s preeminent conference on using generative AI agents to drive business outcomes. Rachad Alao, vice president of product engineering at the rising Canadian enterprise AI startup Cohere, joined VentureBeat CEO and editor-in-chief Matt Marshall for a fireside chat about building agentic systems without surrendering sensitive data, infrastructure control, or the ability to change vendors.Alao, who previously led responsible AI and tr",
+      "source": "VentureBeat",
+      "score": 18.7,
+      "published": "2026-07-15T18:21:02+00:00",
+      "fetched_at": "2026-07-16T17:19:39.977193+00:00"
+    },
+    {
+      "id": "7caead535fc4",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem \u2014 and most are still building the fix",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category \u2014 yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the fix, but most are still building it; the field is converging on hybrid retrieval; and even as provider",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-07-16T17:06:08+00:00",
+      "fetched_at": "2026-07-16T17:19:39.976693+00:00"
+    },
+    {
+      "id": "dd97ee355592",
+      "title": "Generative AI in the Real World: Agentic Coding with Chelsea Troy",
+      "url": "https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-agentic-coding-with-chelsea-troy/",
+      "summary": "The tech industry is measuring AI productivity all wrong, and Mozilla MLOps engineer and University of Chicago instructor Chelsea Troy makes a strong case for why. The real opportunity, she argues, isn&#8217;t shipping more code faster but finally having the bandwidth to run the experiments, tests, and simulations that engineering teams have always wanted to [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 11.0,
+      "published": "2026-07-16T16:03:00+00:00",
+      "fetched_at": "2026-07-16T17:19:43.201519+00:00"
     }
   ],
   "history": [
@@ -290,7 +290,10 @@
     "https://martinfowler.com/articles/llm-and-dsls.html",
     "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
     "https://www.saastr.com/an-hour-with-our-top-ai-agent-cost-13-42-you-cant-hire-anyone-for-that/",
-    "https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/"
+    "https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/",
+    "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
+    "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+    "https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-agentic-coding-with-chelsea-troy/"
   ],
-  "generated_at": "2026-07-15T17:19:41.226369+00:00"
+  "generated_at": "2026-07-16T17:19:44.363993+00:00"
 }
