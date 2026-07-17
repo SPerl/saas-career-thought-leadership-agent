@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "a7d536cf06e6",
-      "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
-      "url": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
-      "summary": "Organizations need to transform to meet the needs of agentic AI.Meta VP of Engineering Barak Yagour opened his talk at VB Transform 2026 wearing a pair of Ray-Ban Meta AI glasses, a small sign of how far AI has already worked its way into physical life. His argument went further: enterprise infrastructure was built for humans, not for agents, and it&#x27;s starting to show.Yagour, who leads its data infrastructure organization, told the audience that agentic queries hitting Meta&#x27;s data systems grew 30x in a single half, an inversion that he said is breaking assumptions the company spent t",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-07-15T14:59:15+00:00",
-      "fetched_at": "2026-07-15T17:19:37.850070+00:00"
-    },
-    {
-      "id": "e8dd50de2f6d",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot\u2019s personalization and discovery features as it expands into new product categories.",
-      "source": "TechCrunch AI",
-      "score": 9.6,
-      "published": "2026-07-15T17:00:00+00:00",
-      "fetched_at": "2026-07-15T17:19:36.119127+00:00"
-    },
-    {
-      "id": "53c42ac5532a",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "source": "TechCrunch AI",
-      "score": 9.6,
-      "published": "2026-07-15T13:10:47+00:00",
-      "fetched_at": "2026-07-15T17:19:36.119227+00:00"
-    },
-    {
-      "id": "d3f280f36006",
-      "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "summary": "Apple Intelligence is headed to China after regulators approved Apple\u2019s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba\u2019s Qwen AI models to Apple\u2019s operating systems, marking a major expansion of the company\u2019s generative AI platform into one of its most important markets.",
-      "source": "TechCrunch AI",
-      "score": 8.4,
-      "published": "2026-07-15T15:29:33+00:00",
-      "fetched_at": "2026-07-15T17:19:36.119198+00:00"
-    },
-    {
-      "id": "f7e27be0053b",
-      "title": "Your AI Employees Need More Than A Software License\u2014They Need A Job Description",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/15/your-ai-employees-need-more-than-a-software-license-they-need-a-job-description/",
-      "summary": "AI agents aren't remote humans. They're cloud-native workers that were born in the infrastructure your endpoint tools can't reach.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-07-15T13:45:00+00:00",
-      "fetched_at": "2026-07-15T17:19:38.982939+00:00"
-    },
-    {
-      "id": "646c882e1178",
-      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
-      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
-      "summary": "Co-founded by serial entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.",
-      "source": "TechCrunch Enterprise",
-      "score": 5.5,
-      "published": "2026-07-15T11:00:00+00:00",
-      "fetched_at": "2026-07-15T17:19:36.161428+00:00"
-    },
-    {
-      "id": "54bdfbfdb36f",
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-07-15T12:00:00+00:00",
-      "fetched_at": "2026-07-15T17:19:36.119330+00:00"
-    },
-    {
-      "id": "1bd5693fd178",
-      "title": "An Hour With Our Top AI Agent Cost $13.42. You Can\u2019t Hire Anyone For That.",
-      "url": "https://www.saastr.com/an-hour-with-our-top-ai-agent-cost-13-42-you-cant-hire-anyone-for-that/",
-      "summary": "Amelia our Chief AI Officer pinged me this morning with a screenshot and three words: &#8220;10K making less than &#8230; minimum wage.&#8221; This is what she was looking at. 10K, our AI VP of Marketing, had just wrapped a focused work session. The summary read: Time worked: 1 hour, 1 minute Actions taken: 125 Lines... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-07-15T14:10:09+00:00",
-      "fetched_at": "2026-07-15T17:19:38.307769+00:00"
-    },
-    {
-      "id": "4a46589eb156",
-      "title": "Dear SaaStr.ai: At What Point Should We Hire an Internal Recruiter?",
-      "url": "https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/",
-      "summary": "Dear SaaStr.ai: At what point has a start up do you hire a recruiter internally versus paying recruiters 20% fees? Hire a full-time internal recruiter once you&#8217;re hiring 5+ people per quarter consistently. Here&#8217;s the math: If you&#8217;re paying 20% placement fees on $150K hires, that&#8217;s $30K per placement. An internal recruiter costs $60\u201380K fully... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-07-15T09:18:23+00:00",
-      "fetched_at": "2026-07-15T17:19:38.307822+00:00"
-    },
-    {
       "id": "e2d44eecff5c",
       "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
       "url": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
@@ -119,6 +29,96 @@
       "score": 11.0,
       "published": "2026-07-16T16:03:00+00:00",
       "fetched_at": "2026-07-16T17:19:43.201519+00:00"
+    },
+    {
+      "id": "25dd9f706803",
+      "title": "Zero trust must now move at agent speed",
+      "url": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed",
+      "summary": "Presented by Ping Identity Enterprises need to treat zero trust security architecture as an immediate requirement for AI agents rather than a long-term goal, says Andre Durand, CEO and founder of Ping Identity. Zero trust, the security model built on the assumption that no user, device, or system should be automatically trusted, requires continuous verification before every action rather than a single check at login. Agentic AI has profoundly compressed the risk timeline enterprises must manage, demanding that permission decisions be evaluated in real time.type: embedded-entry-inline id: 1Ieiy",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-07-16T17:10:15+00:00",
+      "fetched_at": "2026-07-17T17:14:40.921857+00:00"
+    },
+    {
+      "id": "1a909f02ea4e",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem \u2014 and most are shipping to production anyway",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to production on automated evaluation alone \u2014 with no human in the loop. The result is an evaluation gap \u2014 ",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-07-16T16:40:48+00:00",
+      "fetched_at": "2026-07-17T17:14:40.921945+00:00"
+    },
+    {
+      "id": "61384854622f",
+      "title": "This Meta study shows AI chatbots could be spreading restrictions on free expression",
+      "url": "https://www.fastcompany.com/91574866/this-meta-study-shows-ai-chatbots-could-spreading-restrictions-free-expression?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Ask Claude to make a pamphlet critical of President Donald Trump or Britain&#8217;s King Charles III, and Anthropic&#8217;s chatbot would oblige. Prompted to do the same for Thailand&#8217;s king, Saudi Arabia&#8217;s crown prince or China&#8217;s leader, and the artificial intelligence model declined.It is a key finding from a Meta Oversight Board study released Thursday, showing that major AI systems, including those built in the U.S., are more likely to refuse to criticize restrictive leaders or governments. It raises concerns that the large language models powering chatbots and AI agents c",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-07-16T17:05:32+00:00",
+      "fetched_at": "2026-07-17T17:14:45.328421+00:00"
+    },
+    {
+      "id": "e1584d598002",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for agents, spending remains a thin slice of the security budget, and enterprises are evenly split on whethe",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-07-16T19:02:38+00:00",
+      "fetched_at": "2026-07-17T17:14:40.921793+00:00"
+    },
+    {
+      "id": "e312e8c14c46",
+      "title": "The Archaeologist\u2019s Copilot",
+      "url": "https://martinfowler.com/articles/archaeologist-copilot.html",
+      "summary": "When people think of legacy modernization, most folks aren't imagining\n      the target environment will be Java 8. But this was the challenge facing\n      Nik Malykhin when he needed to run a Java 1.5 codebase on\n      today's hardware. His early use of LLMs gave plausible answers that did\n      not hold up in the codebase. Progress came when he grounded the process in\n      evidence, using AI to support analysis, validation in a stable Docker\n      environment, and gradual refactoring protected by tests. The main takeaway\n      is practical: AI was most useful when constrained by evidence, c",
+      "source": "Martin Fowler",
+      "score": 6.6,
+      "published": "2026-07-16T13:25:00+00:00",
+      "fetched_at": "2026-07-17T17:14:44.818711+00:00"
+    },
+    {
+      "id": "513b4aca0505",
+      "title": "Claude Became Our AI VP of Product. We Moved 10 Years Off Marketo for $14. Our Agent Killed a $10K App in an Hour: The Agents #010",
+      "url": "https://www.saastr.com/claude-became-our-ai-vp-of-product-we-moved-10-years-off-marketo-for-14-our-agent-killed-a-10k-app-in-an-hour-the-agents-010/",
+      "summary": "Amelia and I just published Episode #010 of The Agents. Same setup as always: three humans, 21+ agents in production, an 8-figure B2B + AI business and $200m of investments at SaaStr AI Fund, revenue running 140% of last year and growing again. Every week we get into what&#8217;s actually working, what broke, and what... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-07-17T15:44:01+00:00",
+      "fetched_at": "2026-07-17T17:14:41.235500+00:00"
+    },
+    {
+      "id": "a9ded13b2a0a",
+      "title": "Dear SaaStr: Do Any Top B2B Events Give You \u201cThe List\u201d?",
+      "url": "https://www.saastr.com/dear-saastr-do-any-top-b2b-events-give-you-the-list/",
+      "summary": "Dear SaaStr: Do Any Top B2B Events Give You &#8220;The List&#8221;? No, no good ones do, and for good reason. Top tier B2B events, especially ones focused on quality over volume, deliberately don&#8217;t\u00a0hand over attendee lists to sponsors as a blanket data asset. If events sold attendee data freely, they&#8217;d destroy what makes them valuable... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-07-17T10:01:58+00:00",
+      "fetched_at": "2026-07-17T17:14:41.235583+00:00"
+    },
+    {
+      "id": "7ba50c158341",
+      "title": "What Canva\u2019s cofounder really thinks about the SaaSpocalypse",
+      "url": "https://www.fastcompany.com/91574590/what-canvas-co-founder-really-thinks-about-the-saaspocalypse?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Like many companies navigating this new era of artificial intelligence, Canva has had an \u201cinteresting\u201d year. Looking back at the last six months, Cameron Adams, cofounder and chief product officer of the Sydney-based company, explains why the so-called SaaSpocalypse never kept him up at night, how Canva shifted from a design company to an AI company without losing what made it great, and why being only 1% of the way there is actually the most exciting place to be.\u00a0\n\n\n\nThis is an abridged transcript of an interview from Rapid Response recorded live at the Cannes Lions festival, hosted by the fo",
+      "source": "Fast Company Tech",
+      "score": 5.5,
+      "published": "2026-07-17T09:00:00+00:00",
+      "fetched_at": "2026-07-17T17:14:45.328286+00:00"
+    },
+    {
+      "id": "308c77cdd950",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions turn on integration and total cost of ownership rather than headline token price \u2014 which is fortunate, because most enterprises cannot yet see their unit economics clearly: GPUs sit at half utilizati",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-07-16T19:16:48+00:00",
+      "fetched_at": "2026-07-17T17:14:40.921705+00:00"
     }
   ],
   "history": [
@@ -293,7 +293,16 @@
     "https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/",
     "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
     "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-    "https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-agentic-coding-with-chelsea-troy/"
+    "https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-agentic-coding-with-chelsea-troy/",
+    "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed",
+    "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+    "https://www.fastcompany.com/91574866/this-meta-study-shows-ai-chatbots-could-spreading-restrictions-free-expression?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+    "https://martinfowler.com/articles/archaeologist-copilot.html",
+    "https://www.saastr.com/claude-became-our-ai-vp-of-product-we-moved-10-years-off-marketo-for-14-our-agent-killed-a-10k-app-in-an-hour-the-agents-010/",
+    "https://www.saastr.com/dear-saastr-do-any-top-b2b-events-give-you-the-list/",
+    "https://www.fastcompany.com/91574590/what-canvas-co-founder-really-thinks-about-the-saaspocalypse?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
   ],
-  "generated_at": "2026-07-16T17:19:44.363993+00:00"
+  "generated_at": "2026-07-17T17:14:45.517865+00:00"
 }
