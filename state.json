@@ -71,16 +71,6 @@
       "fetched_at": "2026-07-20T18:06:22.161470+00:00"
     },
     {
-      "id": "42db15b9ff0c",
-      "title": "Thinking Machines is coming for Anthropic\u2019s intellectual vibe",
-      "url": "https://www.fastcompany.com/91575110/thinking-machines-is-coming-for-anthropics-intellectual-vibe?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "In ads, influencer partnerships, and blog posts, Anthropic has continued to position itself as the intellectual, even creative, AI platform. \n\n\n\n\u201cThere\u2019s hope in hard questions,\u201d explicates one ad. \u201cKeep thinking with Claude,\u201d suggests another. \n\n\n\nAnthropic\u2019s models, notably, are named after literary forms, while its CEO, Dario Amodei, has styled himself as a thought leader through a series of heady blog posts.\n\n\n\n\n\n\n\n\n\nThe company\u2019s message is that AI should enhance human cognition rather than offload it.\n\n\n\nThinking Machines, the AI lab founded last year by former OpenAI leader Mira Murati,",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-07-19T11:00:00+00:00",
-      "fetched_at": "2026-07-20T18:06:26.586573+00:00"
-    },
-    {
       "id": "8c85bc4b5a5c",
       "title": "Archer Aviation teams up with Palmer Luckey\u2019s military tech startup to create an \u2018autonomous attack rotorcraft\u2019",
       "url": "https://www.fastcompany.com/91576495/archer-and-anduril-thunder-autonomous-attack-aircraft-defense",
@@ -111,14 +101,24 @@
       "fetched_at": "2026-07-20T18:06:22.161417+00:00"
     },
     {
-      "id": "5892f9612ea8",
-      "title": "What a Great VP Sales Does In Their First Week. Watch For It.",
-      "url": "https://www.saastr.com/what-a-great-vp-sales-does-in-their-first-week-watch-for-it/",
-      "summary": "One of the most controversial things I&#8217;ve said over the years on SaaStr is: You know within 30 days if you hired a VP right.\u00a0 Especially a VP of Sales. Not at 90 days. Not at 6 months. By day 30, the split is visible. And if you&#8217;re not paying attention, you&#8217;ll miss it. Just... Continue Reading",
+      "id": "ffb5f24395b9",
+      "title": "We Have 20+ AI Agents and Just 3 Humans. But Even So, We Still Need \u201cReal\u201d B2B Software.",
+      "url": "https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/",
+      "summary": "There&#8217;s a take floating around right now that goes something like: &#8220;Once you have AI agents doing the work, you don&#8217;t need CRM. Just give them a Postgres database and let them rip.&#8221; It sounds clean. It&#8217;s also wrong, I think.\u00a0 At least for 99% of us. At SaaStr AI, we&#8217;ve gone from ~30 humans... Continue Reading",
       "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-07-19T14:10:07+00:00",
-      "fetched_at": "2026-07-20T18:06:22.161507+00:00"
+      "score": 14.3,
+      "published": "2026-07-21T14:10:25+00:00",
+      "fetched_at": "2026-07-21T17:22:55.378550+00:00"
+    },
+    {
+      "id": "4e3d5f4e38cc",
+      "title": "Writer's AI harness cuts token spend nearly 40% \u2014 without sacrificing accuracy",
+      "url": "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
+      "summary": "Enterprise AI is facing an ROI paradox. While throwing more compute at the strongest foundation model works well in product experiments, the costs become unbearable when the product is deployed in production.A new paper from researchers at Writer provides a solution that is accessible to engineering teams. The study takes a systematic look at optimizing the different components of the orchestration layer that wraps around the foundation model, aka the AI harness.\u00a0By optimizing the harness, the researchers show dramatic reductions in tokens per task, a drop in cost-per-successful-task by up to ",
+      "source": "VentureBeat",
+      "score": 12.1,
+      "published": "2026-07-20T21:18:35+00:00",
+      "fetched_at": "2026-07-21T17:22:54.931318+00:00"
     }
   ],
   "history": [
@@ -314,7 +314,9 @@
     "https://www.fastcompany.com/91576495/archer-and-anduril-thunder-autonomous-attack-aircraft-defense",
     "https://www.forbes.com/sites/victordey/2026/07/20/former-microsoft-ai-leaders-are-spending-1m-to-prove-ai-can-replace-ceos/",
     "https://www.saastr.com/the-sub-5-club-the-terminal-state-of-software/",
-    "https://www.saastr.com/what-a-great-vp-sales-does-in-their-first-week-watch-for-it/"
+    "https://www.saastr.com/what-a-great-vp-sales-does-in-their-first-week-watch-for-it/",
+    "https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/",
+    "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy"
   ],
-  "generated_at": "2026-07-20T18:06:27.047796+00:00"
+  "generated_at": "2026-07-21T17:22:58.502481+00:00"
 }
