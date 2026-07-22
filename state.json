@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "id": "31ad0bfb231f",
-      "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
-      "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
-      "summary": "Hugging Face\u2019s incident response team first turned to frontier AI models to analyze a breach of the company\u2019s production infrastructure, and the models refused to help. Commercial safety guardrails built to stop attackers blocked every forensic query because they treated the IR team\u2019s real exploit data the same way they would treat a live attack.The attacker, an autonomous AI agent running the campaign end to end, moved laterally across the Hugging Face infrastructure for a weekend, undetected and unstopped.Security leaders are quick to recognize the pattern and diagnose what went wrong. \u201cI\u2019ve",
-      "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-07-20T15:49:20+00:00",
-      "fetched_at": "2026-07-20T18:06:21.544297+00:00"
-    },
-    {
-      "id": "fdeea8708b18",
-      "title": "An AI agent breached Hugging Face before an AI defender caught it: What users should do next",
-      "url": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/",
-      "summary": "An agentic AI infiltrated the production infrastructure of an AI project. Then an AI detected it. Is this the future of cyberattacks, and how will they be defended against?",
-      "source": "ZDNet",
-      "score": 7.0,
-      "published": "2026-07-20T16:53:00+00:00",
-      "fetched_at": "2026-07-20T18:06:23.691899+00:00"
-    },
-    {
-      "id": "5df319f9633e",
-      "title": "The cleanup trap: Stop asking RAG to fix bad data",
-      "url": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
-      "summary": "The enterprise technology ecosystem is caught in a costly cycle. Over the past two years, millions of dollars have been funneled into generative AI pilots, yet many of these initiatives stall out before ever reaching a live production environment.When a project fails, the immediate instinct of technical leadership is often to blame the model: The context window was too restrictive, the latency was too high, or the reasoning capabilities simply were not there.But as data engineers building the scaffolding for these systems, we often see a different reality: The model receives the blame, but the",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-07-20T16:19:45+00:00",
-      "fetched_at": "2026-07-20T18:06:21.544207+00:00"
-    },
-    {
-      "id": "3eb730af49db",
-      "title": "AI confidence just dropped 17 points in six months. That\u2019s actually great news.",
-      "url": "https://venturebeat.com/security/ai-confidence-just-dropped-17-points-in-six-months-thats-actually-great-news",
-      "summary": "Presented by JumpCloudThe organizations losing confidence in AI are the ones most likely to get it right.Six months ago, 40% of IT leaders described their organizations as mature in AI deployment. Today that number is 23%. Before you read that as a setback, consider what it actually reflects.We recently surveyed 800 IT leaders across the U.S. and U.K. for our Q3 2026 trends report, and the data tells a consistent story: the organizations revising their self-assessment downward are overwhelmingly the ones that have moved AI agents from pilots into production. They\u2019re not losing faith in AI. The",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-07-20T07:00:00+00:00",
-      "fetched_at": "2026-07-20T18:06:21.544368+00:00"
-    },
-    {
-      "id": "d213c30d2534",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "summary": "The next time you apply for a job, AI may screen your r\u00e9sum\u00e9 before any human sees it. But there\u2019s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-07-20T08:39:01+00:00",
-      "fetched_at": "2026-07-20T18:06:20.754064+00:00"
-    },
-    {
-      "id": "b1fff53d1848",
-      "title": "Is China replacing the U.S. as the world\u2019s AI touchpoint thanks to Kimi K3?",
-      "url": "https://www.fastcompany.com/91575831/is-china-replacing-the-u-s-as-the-worlds-ai-touchpoint-thanks-to-kimi-k3?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "The release of Kimi K3, an artificial intelligence model created by a former computer science graduate student at Carnegie Mellon University, has rocked parts of social media and the AI commentariat. The model, developed by Moonshot AI\u2014a Chinese lab cofounded by that ex-student, Yang Zhilin\u2014has wowed many observers with its capabilities.\n\n\n\n\u201cKimi K3 demonstrates the U.S. moat in building frontier AI software is not as durable as many of us had hoped,\u201d says Ryan Fedasiuk, a fellow at the American Enterprise Institute. \u201cWe should expect Chinese AI labs to continue distilling and freely releasing",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-07-20T10:00:00+00:00",
-      "fetched_at": "2026-07-20T18:06:26.586366+00:00"
-    },
-    {
-      "id": "9808073615cc",
-      "title": "Jason\u2019s Takes on This Week\u2019s 20VC: The Token Governor, the Net-New-Logo Test, and Why Renewal Stopped Being Safe",
-      "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-token-governor-the-net-new-logo-test-and-why-renewal-stopped-being-safe/",
-      "summary": "Going a level deeper on the points Harry, Rory and I hit this week, and what they actually mean if you&#8217;re building a B2B company right now. Here were the top SaaStr learnings I wanted to share from this weeks&#8217; deep dive with the 3 of us. 1. If You Can Hire the Expertise Legally,... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-07-19T18:19:08+00:00",
-      "fetched_at": "2026-07-20T18:06:22.161470+00:00"
-    },
-    {
-      "id": "8c85bc4b5a5c",
-      "title": "Archer Aviation teams up with Palmer Luckey\u2019s military tech startup to create an \u2018autonomous attack rotorcraft\u2019",
-      "url": "https://www.fastcompany.com/91576495/archer-and-anduril-thunder-autonomous-attack-aircraft-defense",
-      "summary": "Shares of Archer rose more than 10% Monday after the air taxi company announced it was co-launching a vehicle designed for defense.\n\nElectric air taxis could soon start packing some serious firepower.",
-      "source": "Fast Company",
-      "score": 4.0,
-      "published": "2026-07-20T15:53:00+00:00",
-      "fetched_at": "2026-07-20T18:06:27.047081+00:00"
-    },
-    {
-      "id": "497bc29a73c1",
-      "title": "Former Microsoft AI Leaders Are Spending $1M To Prove AI Can Replace CEOs",
-      "url": "https://www.forbes.com/sites/victordey/2026/07/20/former-microsoft-ai-leaders-are-spending-1m-to-prove-ai-can-replace-ceos/",
-      "summary": "Skyfall AI, from the team behind Microsoft's $160 million Maluuba acquisition, will buy a SaaS company and let AI run it as CEO.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-07-20T14:54:32+00:00",
-      "fetched_at": "2026-07-20T18:06:23.104248+00:00"
-    },
-    {
-      "id": "670f104cdd22",
-      "title": "The Sub-5% Club: The Terminal State of Software",
-      "url": "https://www.saastr.com/the-sub-5-club-the-terminal-state-of-software/",
-      "summary": "For twenty years, the slow lane in B2B wasn&#8217;t great.\u00a0 But it was an OK place to be. Growth faded, but the annuity was forever. High NRR, high margins, sticky contracts, structured data that was stuck in an app and couldn&#8217;t leave, predictable cash. You stopped being a growth stock and become a bond with... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-07-20T14:10:48+00:00",
-      "fetched_at": "2026-07-20T18:06:22.161417+00:00"
-    },
-    {
       "id": "ffb5f24395b9",
       "title": "We Have 20+ AI Agents and Just 3 Humans. But Even So, We Still Need \u201cReal\u201d B2B Software.",
       "url": "https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/",
@@ -119,6 +19,106 @@
       "score": 12.1,
       "published": "2026-07-20T21:18:35+00:00",
       "fetched_at": "2026-07-21T17:22:54.931318+00:00"
+    },
+    {
+      "id": "7515e67719e7",
+      "title": "The next enterprise AI frontier is the optimizable company",
+      "url": "https://www.fastcompany.com/91574442/next-enterprise-ai-frontier-is-the-optimizable-company?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "For the past two years, companies have been trying to add AI to their processes. That sounded reasonable at first. Existing workflows, existing systems, existing data, existing dashboards\u200a\u2014\u200anow with intelligence attached. Add a copilot here, an agent there, a few automated steps, a model connected to some tools, and wait for productivity to rise.\n\n\n\nBut this approach is starting to reveal its limit: The problem isn\u2019t that AI can\u2019t act. It increasingly can. The problem is that most companies don\u2019t have a formal representation of what their actions mean.\n\n\n\nA company isn\u2019t a pile of applications",
+      "source": "Fast Company Tech",
+      "score": 11.0,
+      "published": "2026-07-21T09:00:00+00:00",
+      "fetched_at": "2026-07-22T17:22:24.609737+00:00"
+    },
+    {
+      "id": "ab3e710251e1",
+      "title": "Reclaiming Control Of Your Enterprise Software Strategy With Agentic AI ERP",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/reclaiming-control-of-your-enterprise-software-strategy-with-agentic-ai-erp/",
+      "summary": "Enterprise software will keep evolving, but there is a big difference between changing on a vendor\u2019s schedule and changing on your own terms.",
+      "source": "Forbes Innovation",
+      "score": 9.0,
+      "published": "2026-07-22T13:30:00+00:00",
+      "fetched_at": "2026-07-22T17:22:22.247003+00:00"
+    },
+    {
+      "id": "fad9bd8ed5fa",
+      "title": "OpenAI's models broke containment and cyberattacked Hugging Face \u2014 what enterprises need to know",
+      "url": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
+      "summary": "Yesterday afternoon, OpenAI and Hugging Face published a joint disclosure outlining a cybersecurity event that redefines the threat landscape for enterprise technology. During an internal benchmark evaluation, frontier artificial intelligence models developed by OpenAI\u2014including GPT-5.6 Sol and an unreleased, higher-capability pre-release model\u2014broke out of their sandboxed research environment, obtained raw internet access, and autonomously executed a complex cyberattack against Hugging Face\u2019s production infrastructure.OpenAI officially categorizes the breach as an &quot;unprecedented cyber in",
+      "source": "VentureBeat",
+      "score": 7.7,
+      "published": "2026-07-22T04:39:00+00:00",
+      "fetched_at": "2026-07-22T17:22:21.120406+00:00"
+    },
+    {
+      "id": "37d9e2e9a3bd",
+      "title": "The coming burnout from managing AI agents",
+      "url": "https://www.fastcompany.com/91574416/the-coming-burnout-from-managing-ai-agents-technology-ai-agents-burnout?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Technology leaders are very comfortable talking about productivity. We can discuss automation rates, developer velocity, cost curves, and defect rates with great confidence.\n\n\n\nWe are less comfortable talking about mental strain, especially when the thing creating the tension is the very thing we are excited to adopt.\n\n\n\nArtificial intelligence agents will make that discomfort harder to avoid.\n\n\n\nAgents can write code, triage issues, research options, test hypotheses, and perform many of the tasks that previously consumed human time. For software teams, this can feel like a major shift in leve",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-07-21T10:00:00+00:00",
+      "fetched_at": "2026-07-22T17:22:24.609557+00:00"
+    },
+    {
+      "id": "e75398f513ac",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-07-22T10:00:00+00:00",
+      "fetched_at": "2026-07-22T17:22:18.076020+00:00"
+    },
+    {
+      "id": "8f98923c43c3",
+      "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
+      "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
+      "summary": "OpenAI has announced Presence, a new enterprise product for deploying and managing AI agents across customer-facing and internal business workflows. The offering is designed for eligible enterprise customers that want agents to answer questions, access company systems, take approved actions and escalate to human workers while operating under company-defined policies, permissions and evaluation standards.Presence is available immediately through a limited general availability program. OpenAI Forward Deployed Engineers (FDEs) and select global systems integrators lead deployments, and the produc",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-07-22T14:50:00+00:00",
+      "fetched_at": "2026-07-22T17:22:21.120306+00:00"
+    },
+    {
+      "id": "d8473d4966de",
+      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+      "url": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+      "summary": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
+      "source": "CNBC Economy",
+      "score": 6.0,
+      "published": "2026-07-22T15:54:48+00:00",
+      "fetched_at": "2026-07-22T17:22:19.765312+00:00"
+    },
+    {
+      "id": "41ca3e1e2114",
+      "title": "Why Autonomous AI Requires A New Operational Foundation Grounded In Trust",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/why-autonomous-ai-requires-a-new-operational-foundation-grounded-in-trust/",
+      "summary": "From my observations, the organizations making the fastest progress are treating business context as shared enterprise infrastructure rather than rebuilding it for every AI application.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-07-22T15:00:00+00:00",
+      "fetched_at": "2026-07-22T17:22:22.246841+00:00"
+    },
+    {
+      "id": "27421537c448",
+      "title": "Synthesia\u2019s AI training platform is moving beyond videos into live coaching",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-07-22T08:00:00+00:00",
+      "fetched_at": "2026-07-22T17:22:18.076056+00:00"
+    },
+    {
+      "id": "d77aa8a5fe08",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-07-21T19:43:41+00:00",
+      "fetched_at": "2026-07-22T17:22:18.076175+00:00"
     }
   ],
   "history": [
@@ -316,7 +316,17 @@
     "https://www.saastr.com/the-sub-5-club-the-terminal-state-of-software/",
     "https://www.saastr.com/what-a-great-vp-sales-does-in-their-first-week-watch-for-it/",
     "https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/",
-    "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy"
+    "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
+    "https://www.fastcompany.com/91574442/next-enterprise-ai-frontier-is-the-optimizable-company?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/reclaiming-control-of-your-enterprise-software-strategy-with-agentic-ai-erp/",
+    "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
+    "https://www.fastcompany.com/91574416/the-coming-burnout-from-managing-ai-agents-technology-ai-agents-burnout?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
+    "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/why-autonomous-ai-requires-a-new-operational-foundation-grounded-in-trust/",
+    "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+    "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
   ],
-  "generated_at": "2026-07-21T17:22:58.502481+00:00"
+  "generated_at": "2026-07-22T17:22:24.909067+00:00"
 }
