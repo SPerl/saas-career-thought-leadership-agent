@@ -1,36 +1,6 @@
 {
   "queue": [
     {
-      "id": "ffb5f24395b9",
-      "title": "We Have 20+ AI Agents and Just 3 Humans. But Even So, We Still Need \u201cReal\u201d B2B Software.",
-      "url": "https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/",
-      "summary": "There&#8217;s a take floating around right now that goes something like: &#8220;Once you have AI agents doing the work, you don&#8217;t need CRM. Just give them a Postgres database and let them rip.&#8221; It sounds clean. It&#8217;s also wrong, I think.\u00a0 At least for 99% of us. At SaaStr AI, we&#8217;ve gone from ~30 humans... Continue Reading",
-      "source": "SaaStr",
-      "score": 14.3,
-      "published": "2026-07-21T14:10:25+00:00",
-      "fetched_at": "2026-07-21T17:22:55.378550+00:00"
-    },
-    {
-      "id": "4e3d5f4e38cc",
-      "title": "Writer's AI harness cuts token spend nearly 40% \u2014 without sacrificing accuracy",
-      "url": "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
-      "summary": "Enterprise AI is facing an ROI paradox. While throwing more compute at the strongest foundation model works well in product experiments, the costs become unbearable when the product is deployed in production.A new paper from researchers at Writer provides a solution that is accessible to engineering teams. The study takes a systematic look at optimizing the different components of the orchestration layer that wraps around the foundation model, aka the AI harness.\u00a0By optimizing the harness, the researchers show dramatic reductions in tokens per task, a drop in cost-per-successful-task by up to ",
-      "source": "VentureBeat",
-      "score": 12.1,
-      "published": "2026-07-20T21:18:35+00:00",
-      "fetched_at": "2026-07-21T17:22:54.931318+00:00"
-    },
-    {
-      "id": "7515e67719e7",
-      "title": "The next enterprise AI frontier is the optimizable company",
-      "url": "https://www.fastcompany.com/91574442/next-enterprise-ai-frontier-is-the-optimizable-company?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "For the past two years, companies have been trying to add AI to their processes. That sounded reasonable at first. Existing workflows, existing systems, existing data, existing dashboards\u200a\u2014\u200anow with intelligence attached. Add a copilot here, an agent there, a few automated steps, a model connected to some tools, and wait for productivity to rise.\n\n\n\nBut this approach is starting to reveal its limit: The problem isn\u2019t that AI can\u2019t act. It increasingly can. The problem is that most companies don\u2019t have a formal representation of what their actions mean.\n\n\n\nA company isn\u2019t a pile of applications",
-      "source": "Fast Company Tech",
-      "score": 11.0,
-      "published": "2026-07-21T09:00:00+00:00",
-      "fetched_at": "2026-07-22T17:22:24.609737+00:00"
-    },
-    {
       "id": "ab3e710251e1",
       "title": "Reclaiming Control Of Your Enterprise Software Strategy With Agentic AI ERP",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/reclaiming-control-of-your-enterprise-software-strategy-with-agentic-ai-erp/",
@@ -49,16 +19,6 @@
       "score": 7.7,
       "published": "2026-07-22T04:39:00+00:00",
       "fetched_at": "2026-07-22T17:22:21.120406+00:00"
-    },
-    {
-      "id": "37d9e2e9a3bd",
-      "title": "The coming burnout from managing AI agents",
-      "url": "https://www.fastcompany.com/91574416/the-coming-burnout-from-managing-ai-agents-technology-ai-agents-burnout?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Technology leaders are very comfortable talking about productivity. We can discuss automation rates, developer velocity, cost curves, and defect rates with great confidence.\n\n\n\nWe are less comfortable talking about mental strain, especially when the thing creating the tension is the very thing we are excited to adopt.\n\n\n\nArtificial intelligence agents will make that discomfort harder to avoid.\n\n\n\nAgents can write code, triage issues, research options, test hypotheses, and perform many of the tasks that previously consumed human time. For software teams, this can feel like a major shift in leve",
-      "source": "Fast Company Tech",
-      "score": 7.7,
-      "published": "2026-07-21T10:00:00+00:00",
-      "fetched_at": "2026-07-22T17:22:24.609557+00:00"
     },
     {
       "id": "e75398f513ac",
@@ -119,6 +79,46 @@
       "score": 4.8,
       "published": "2026-07-21T19:43:41+00:00",
       "fetched_at": "2026-07-22T17:22:18.076175+00:00"
+    },
+    {
+      "id": "9caa5ad94378",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem \u2014 and most are still building the fix",
+      "url": "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category \u2014 yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the fix, but most are still building it; the field is converging on hybrid retrieval; and even as provider",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-07-23T17:03:09+00:00",
+      "fetched_at": "2026-07-23T17:24:56.801518+00:00"
+    },
+    {
+      "id": "74c6469c2976",
+      "title": "The robot byline is quietly disappearing",
+      "url": "https://www.fastcompany.com/91575942/ai-robot-byline-quietly-disappearing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "The most obvious use of generative AI is writing. It&#8217;s right there in the name\u2014large language models (LLMs) are all about reading, organizing, analyzing, and conjuring words\u2014which is exactly why many in the journalism profession have been going through a kind of existential crisis these past few years.\n\n\n\nAnd the crisis isn&#8217;t just theoretical. As artificial intelligence systems get better at writing, a growing number of newsrooms are using AI to help not just with analysis, process, and ideas, but the actual words, too. That&#8217;s leading to growing pushback from editorial teams,",
+      "source": "Fast Company Tech",
+      "score": 11.0,
+      "published": "2026-07-23T08:00:00+00:00",
+      "fetched_at": "2026-07-23T17:25:02.968627+00:00"
+    },
+    {
+      "id": "c9e19f44e5f6",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem \u2014 and most are shipping to production anyway",
+      "url": "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to production on automated evaluation alone \u2014 with no human in the loop. The result is an evaluation gap \u2014 ",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-07-23T17:02:34+00:00",
+      "fetched_at": "2026-07-23T17:24:56.801614+00:00"
+    },
+    {
+      "id": "d1b2c5a542c7",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "url": "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for agents, spending remains a thin slice of the security budget, and enterprises are evenly split on whethe",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-07-23T17:03:51+00:00",
+      "fetched_at": "2026-07-23T17:24:56.801411+00:00"
     }
   ],
   "history": [
@@ -326,7 +326,11 @@
     "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/why-autonomous-ai-requires-a-new-operational-foundation-grounded-in-trust/",
     "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-    "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
+    "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+    "https://www.fastcompany.com/91575942/ai-robot-byline-quietly-disappearing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+    "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
   ],
-  "generated_at": "2026-07-22T17:22:24.909067+00:00"
+  "generated_at": "2026-07-23T17:25:03.367971+00:00"
 }
