@@ -1,124 +1,124 @@
 {
   "queue": [
     {
-      "id": "9caa5ad94378",
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem \u2014 and most are still building the fix",
-      "url": "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category \u2014 yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the fix, but most are still building it; the field is converging on hybrid retrieval; and even as provider",
+      "id": "3a7e6fbce8d5",
+      "title": "Why SAP says enterprise AI agents need knowledge graphs and governance",
+      "url": "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance",
+      "summary": "Presented by SAP At VB Transform 2026, Max McPhee, senior solution advisor at SAP, spoke with Rob Stretchay, lead analyst at VentureBeat Research, about what it takes for enterprises to move beyond chatbots to autonomous AI agents that can execute real business processes. He argued that the difference comes down to grounding those agents in a company\u2019s own context rather than general knowledge.https://www.youtube.com/watch?v=SRf9t-wSZSo &quot;Where we&#x27;re starting to see more emergent behavior of it feeling like a coworker rather than an assistant, is where we&#x27;re able to provide conte",
       "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-07-23T17:03:09+00:00",
-      "fetched_at": "2026-07-23T17:24:56.801518+00:00"
+      "score": 12.1,
+      "published": "2026-07-27T14:00:12+00:00",
+      "fetched_at": "2026-07-27T17:44:16.118947+00:00"
     },
     {
-      "id": "74c6469c2976",
-      "title": "The robot byline is quietly disappearing",
-      "url": "https://www.fastcompany.com/91575942/ai-robot-byline-quietly-disappearing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "The most obvious use of generative AI is writing. It&#8217;s right there in the name\u2014large language models (LLMs) are all about reading, organizing, analyzing, and conjuring words\u2014which is exactly why many in the journalism profession have been going through a kind of existential crisis these past few years.\n\n\n\nAnd the crisis isn&#8217;t just theoretical. As artificial intelligence systems get better at writing, a growing number of newsrooms are using AI to help not just with analysis, process, and ideas, but the actual words, too. That&#8217;s leading to growing pushback from editorial teams,",
+      "id": "d10dbf6ad8c7",
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;",
+      "source": "MIT Technology Review",
+      "score": 9.6,
+      "published": "2026-07-27T11:32:58+00:00",
+      "fetched_at": "2026-07-27T17:44:15.530926+00:00"
+    },
+    {
+      "id": "6d8bcc8aca8b",
+      "title": "DEX buyer\u2019s guide: Choose the right digital employee experience platform",
+      "url": "https://www.computerworld.com/article/1612638/how-to-choose-digital-employee-experience-tool.html",
+      "summary": "As organizations continue to invest in hybrid work, cloud applications, digital workplace initiatives, and now generative AI tools, many IT leaders are turning to digital employee experience (DEX) platforms to better understand how technology affects employee productivity and satisfaction.\n\n\n\nDEX tools have evolved from simple endpoint monitoring products into sophisticated platforms that combine device, application, network, and employee sentiment data with artificial intelligence to identify and resolve workplace technology issues before they disrupt employees.\n\n\n\nAnalysts say an increased f",
+      "source": "Computerworld",
+      "score": 8.0,
+      "published": "2026-07-27T11:00:00+00:00",
+      "fetched_at": "2026-07-27T17:44:18.510542+00:00"
+    },
+    {
+      "id": "f9bae074f453",
+      "title": "This automation tech turns old tractors into self-driving farming machines",
+      "url": "https://www.fastcompany.com/91579524/this-automation-tech-turns-old-tractors-into-self-driving-farming-machines?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Show me a farmer, said Mike Burdick, vice president of Sabanto, an autonomous tractor startup in Itasca, Illinois, and I\u2019ll show you someone who has a million things he or she just doesn\u2019t have time to do in the course of their workday. He\u2019ll also show you a farmer who wouldn\u2019t mind having their tractor ghost-ride across their fields as they take care of the endless work of being a modern farmer.&nbsp;\n\n\n\nThat\u2019s one of the central observations that has driven the growth of Sabanto\u2019s autonomous tech. It&#8217;s a rig that can be attached to just about any existing tractor to help it mow, seed, ",
       "source": "Fast Company Tech",
-      "score": 11.0,
-      "published": "2026-07-23T08:00:00+00:00",
-      "fetched_at": "2026-07-23T17:25:02.968627+00:00"
-    },
-    {
-      "id": "c9e19f44e5f6",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem \u2014 and most are shipping to production anyway",
-      "url": "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to production on automated evaluation alone \u2014 with no human in the loop. The result is an evaluation gap \u2014 ",
-      "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-07-23T17:02:34+00:00",
-      "fetched_at": "2026-07-23T17:24:56.801614+00:00"
-    },
-    {
-      "id": "d1b2c5a542c7",
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for agents, spending remains a thin slice of the security budget, and enterprises are evenly split on whethe",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-07-23T17:03:51+00:00",
-      "fetched_at": "2026-07-23T17:24:56.801411+00:00"
-    },
-    {
-      "id": "03ef9049f4eb",
-      "title": "We Peaked at 30 AI Agents. Now We\u2019re Coming Back Down to 20. Here\u2019s What Consolidation Actually Looks Like.  The Agents #011 Live!",
-      "url": "https://www.saastr.com/we-peaked-at-30-ai-agents-now-were-coming-back-down-to-20-heres-what-consolidation-actually-looks-like-the-agents-011-live/",
-      "summary": "We run SaaStr with 3 humans and 21+ AI agents. This is a real eight-figure B2B business with real customers, real invoices, and a real collections problem, and the agents run it. About a month ago we hit a wall. Amelia and I realized we could not manage one more agent. Some precision on what... Continue Reading",
-      "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-07-24T14:10:42+00:00",
-      "fetched_at": "2026-07-24T17:39:33.589917+00:00"
-    },
-    {
-      "id": "b37d23bd9558",
-      "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
-      "url": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
-      "summary": "ServiceNow CEO Bill McDermott said the company is becoming increasingly important as businesses deploy more autonomous AI agents.",
-      "source": "CNBC Tech",
-      "score": 6.6,
-      "published": "2026-07-22T22:56:13+00:00",
-      "fetched_at": "2026-07-24T17:39:31.852240+00:00"
-    },
-    {
-      "id": "844e8fe2aaee",
-      "title": "The 3 types of people who will excel in the AI agent era, according to tech leaders",
-      "url": "https://www.zdnet.com/article/types-of-people-who-will-excel-in-ai-agent-era-according-to-tech-leaders/",
-      "summary": "The autonomous business of the future is being built. Certain skills are in high demand - and can help you stand out.",
-      "source": "ZDNet",
-      "score": 6.0,
-      "published": "2026-07-24T14:38:00+00:00",
-      "fetched_at": "2026-07-24T17:39:35.339977+00:00"
-    },
-    {
-      "id": "bfa477fa4919",
-      "title": "OpenAI's attack agent did exactly what it was told - just more relentlessly than expected",
-      "url": "https://www.zdnet.com/article/openai-hugging-face-attack-agent/",
-      "summary": "OpenAI's unintended attack on Hugging Face startled the world because its AI agent was acting on its own. But that's exactly what agentic AI is designed to do. We just didn't expect it to do it so well.",
-      "source": "ZDNet",
-      "score": 6.0,
-      "published": "2026-07-23T13:31:00+00:00",
-      "fetched_at": "2026-07-24T17:39:35.340266+00:00"
-    },
-    {
-      "id": "7807165144b3",
-      "title": "The Economics of Agentic AI: Engineering for Imperfection",
-      "url": "https://www.oreilly.com/radar/the-economics-of-agentic-ai-engineering-for-imperfection/",
-      "summary": "The price of adoption euphoria You played entirely by the book. You procured the most capable enterprise models, mandated adoption across your teams, and put the right metrics in place. The promise was a predictable boost in efficiency. And at first, it delivered. The demos were flawless. The prototypes worked. The agents reasoned with a [&#8230;]",
-      "source": "O'Reilly Radar",
       "score": 5.5,
-      "published": "2026-07-24T16:00:31+00:00",
-      "fetched_at": "2026-07-24T17:39:36.857021+00:00"
+      "published": "2026-07-27T09:00:00+00:00",
+      "fetched_at": "2026-07-27T17:44:19.977424+00:00"
     },
     {
-      "id": "c379bbec796a",
-      "title": "Multi-turn attacks broke AI models 88% of the time \u2014 single-turn testing missed it, Cisco AI security lead warns at VB Transform 2026",
-      "url": "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time",
-      "summary": "When Cisco ran 6,986 multi-turn attacks against 15 flagship models, attackers who adapted across the conversation broke through as often as 88.3% of the time. Amy Chang, Cisco&#x27;s head of AI threat intelligence and security research, brought that finding to the agentic security panel at VB Transform 2026; the number should worry anyone still running single-turn red-teaming programs.VentureBeat&#x27;s June 2026 Pulse survey of 107 enterprise respondents explains why the room was full. More than half, 54%, have already had a confirmed agent security incident (18%) or a near-miss caught before",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-07-23T17:13:48+00:00",
-      "fetched_at": "2026-07-24T17:39:32.823664+00:00"
-    },
-    {
-      "id": "49ecda10e207",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "url": "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions turn on integration and total cost of ownership rather than headline token price \u2014 which is fortunate, because most enterprises cannot yet see their unit economics clearly: GPUs sit at half utilizati",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-07-23T17:06:07+00:00",
-      "fetched_at": "2026-07-24T17:39:32.823758+00:00"
-    },
-    {
-      "id": "b454001c9abf",
-      "title": "AI In Enterprise Operations: Why Orchestration Is Becoming The Real Challenge",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/24/ai-in-enterprise-operations-why-orchestration-is-becoming-the-real-challenge/",
-      "summary": "The convergence of AI systems, enterprise operations and human operators is forcing organizations to rethink how environments are coordinated and governed.",
-      "source": "Forbes Innovation",
+      "id": "ab68125c5cde",
+      "title": "This automation tech turns old tractors into self-driving farming machines",
+      "url": "https://www.fastcompany.com/91579524/this-automation-tech-turns-old-tractors-into-self-driving-farming-machines",
+      "summary": "Sabanto Tractors retrofits old machines to make them futuristic automated devices, helping farmers overcome staffing shortages.\n\nShow me a farmer, said Mike Burdick, vice president of Sabanto, an autonomous tractor startup in Itasca, Illinois, and I\u2019ll show you someone who has a million things he or she just doesn\u2019t have time to do in the course of their workday. He\u2019ll also show you a farmer who wouldn\u2019t mind having their tractor ghost-ride across their fields as they take care of the endless work of being a modern farmer.&nbsp;",
+      "source": "Fast Company",
       "score": 5.0,
-      "published": "2026-07-24T14:15:00+00:00",
-      "fetched_at": "2026-07-24T17:39:34.715008+00:00"
+      "published": "2026-07-27T09:00:00+00:00",
+      "fetched_at": "2026-07-27T17:44:20.147334+00:00"
+    },
+    {
+      "id": "25cc5f27cc6a",
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
+      "source": "MIT Technology Review",
+      "score": 4.8,
+      "published": "2026-07-27T12:00:00+00:00",
+      "fetched_at": "2026-07-27T17:44:15.530857+00:00"
+    },
+    {
+      "id": "09b4688fdf24",
+      "title": "The Top 12 Sales Lessons From SaaStr AI 2026: Anthropic, Gamma, Owner, Stripe, Salesforce, Vercel, Replit and Monaco",
+      "url": "https://www.saastr.com/the-top-sales-lessons-from-saastr-ai-2026-gamma-owner-stripe-salesforce-cloudflare-and-monaco/",
+      "summary": "The sales and GTM sessions at SaaStr AI 2026 in San Mateo was all about where to take agents next. No one was still debating whether to put agents in the revenue org. They had already done it, and they brought the war stories. What broke, and what they would do differently next time. The... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-07-27T14:10:25+00:00",
+      "fetched_at": "2026-07-27T17:44:16.580645+00:00"
+    },
+    {
+      "id": "32b1350d1023",
+      "title": "Why Today's Data Architectures Break Down In The Age Of Agentic AI",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/27/why-todays-data-architectures-break-down-in-the-age-of-agentic-ai/",
+      "summary": "The future belongs to agentic architectures that move past delivering insights and create systems capable of turning those insights into intelligent action.\u200b",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-07-27T13:30:00+00:00",
+      "fetched_at": "2026-07-27T17:44:17.308029+00:00"
+    },
+    {
+      "id": "355626f29c21",
+      "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-07-26T16:33:13+00:00",
+      "fetched_at": "2026-07-27T17:44:14.249946+00:00"
+    },
+    {
+      "id": "cc05cf715d09",
+      "title": "Our New AI VP of Finance Closes the Deal, Sends the Invoice, and Chases the Cash. It Took 4 Deals to Train It.",
+      "url": "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
+      "summary": "Our finance team went on vacation during SaaStr AI Annual.\u00a0 Our busiest time of the year. That&#8217;s the whole origin story. Collections started slipping, sponsors and vendors weren&#8217;t getting billed, and the work that has to happen after a deal closes stopped happening, at the time of the year when time matters most. It&#8217;s was... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-07-26T14:10:45+00:00",
+      "fetched_at": "2026-07-27T17:44:16.580687+00:00"
+    },
+    {
+      "id": "11aa8c60d770",
+      "title": "Is open source the answer to rogue AI agents? Nvidia's new alliance says yes",
+      "url": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
+      "summary": "As AI cybersecurity incidents ramp up, companies are racing to find a fix.",
+      "source": "ZDNet",
+      "score": 3.0,
+      "published": "2026-07-27T15:52:15+00:00",
+      "fetched_at": "2026-07-27T17:44:17.783458+00:00"
+    },
+    {
+      "id": "9787dc63d089",
+      "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "summary": "Google\u2019s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "source": "TechCrunch AI",
+      "score": 2.4,
+      "published": "2026-07-27T15:57:12+00:00",
+      "fetched_at": "2026-07-27T17:44:14.249727+00:00"
     }
   ],
   "history": [
@@ -338,7 +338,19 @@
     "https://www.oreilly.com/radar/the-economics-of-agentic-ai-engineering-for-imperfection/",
     "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time",
     "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/24/ai-in-enterprise-operations-why-orchestration-is-becoming-the-real-challenge/"
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/24/ai-in-enterprise-operations-why-orchestration-is-becoming-the-real-challenge/",
+    "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance",
+    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+    "https://www.computerworld.com/article/1612638/how-to-choose-digital-employee-experience-tool.html",
+    "https://www.fastcompany.com/91579524/this-automation-tech-turns-old-tractors-into-self-driving-farming-machines?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91579524/this-automation-tech-turns-old-tractors-into-self-driving-farming-machines",
+    "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "https://www.saastr.com/the-top-sales-lessons-from-saastr-ai-2026-gamma-owner-stripe-salesforce-cloudflare-and-monaco/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/27/why-todays-data-architectures-break-down-in-the-age-of-agentic-ai/",
+    "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
+    "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
+    "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
   ],
-  "generated_at": "2026-07-24T17:39:38.519654+00:00"
+  "generated_at": "2026-07-27T17:44:20.147593+00:00"
 }
