@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "3a7e6fbce8d5",
-      "title": "Why SAP says enterprise AI agents need knowledge graphs and governance",
-      "url": "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance",
-      "summary": "Presented by SAP At VB Transform 2026, Max McPhee, senior solution advisor at SAP, spoke with Rob Stretchay, lead analyst at VentureBeat Research, about what it takes for enterprises to move beyond chatbots to autonomous AI agents that can execute real business processes. He argued that the difference comes down to grounding those agents in a company\u2019s own context rather than general knowledge.https://www.youtube.com/watch?v=SRf9t-wSZSo &quot;Where we&#x27;re starting to see more emergent behavior of it feeling like a coworker rather than an assistant, is where we&#x27;re able to provide conte",
-      "source": "VentureBeat",
-      "score": 12.1,
-      "published": "2026-07-27T14:00:12+00:00",
-      "fetched_at": "2026-07-27T17:44:16.118947+00:00"
-    },
-    {
       "id": "d10dbf6ad8c7",
       "title": "Building the enterprise environment for agentic AI",
       "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
@@ -119,6 +109,16 @@
       "score": 2.4,
       "published": "2026-07-27T15:57:12+00:00",
       "fetched_at": "2026-07-27T17:44:14.249727+00:00"
+    },
+    {
+      "id": "9a7e331bd111",
+      "title": "Hugging Face CEO wants transparency after OpenAI\u2019s AI incident",
+      "url": "https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html",
+      "summary": "Hugging Face CEO Clem Delangue wants to see radical transparency from OpenAI after the company acknowledged that one of its AI agents managed to hack into the AI platform\u2019s systems during a test.\n\n\n\nIn a post on X, Delangue wrote that, among other things, he wants OpenAI to publish logs and traces from the autonomous AI agent so researchers can analyze what happened. He also called for better defensive tools and urged OpenAI to allocate $100 million worth of computing capacity to help the Hugging Face community develop stronger cybersecurity solutions.\n\n\n\n\u201cThe first cyberattack by an autonomou",
+      "source": "Computerworld",
+      "score": 10.0,
+      "published": "2026-07-27T20:20:15+00:00",
+      "fetched_at": "2026-07-27T21:34:08.095028+00:00"
     }
   ],
   "history": [
@@ -350,7 +350,8 @@
     "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
     "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
     "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
-    "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
+    "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html"
   ],
-  "generated_at": "2026-07-27T17:44:20.147593+00:00"
+  "generated_at": "2026-07-27T21:34:10.225674+00:00"
 }
