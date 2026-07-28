@@ -71,26 +71,6 @@
       "fetched_at": "2026-07-27T17:44:17.308029+00:00"
     },
     {
-      "id": "355626f29c21",
-      "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-07-26T16:33:13+00:00",
-      "fetched_at": "2026-07-27T17:44:14.249946+00:00"
-    },
-    {
-      "id": "cc05cf715d09",
-      "title": "Our New AI VP of Finance Closes the Deal, Sends the Invoice, and Chases the Cash. It Took 4 Deals to Train It.",
-      "url": "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
-      "summary": "Our finance team went on vacation during SaaStr AI Annual.\u00a0 Our busiest time of the year. That&#8217;s the whole origin story. Collections started slipping, sponsors and vendors weren&#8217;t getting billed, and the work that has to happen after a deal closes stopped happening, at the time of the year when time matters most. It&#8217;s was... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-07-26T14:10:45+00:00",
-      "fetched_at": "2026-07-27T17:44:16.580687+00:00"
-    },
-    {
       "id": "11aa8c60d770",
       "title": "Is open source the answer to rogue AI agents? Nvidia's new alliance says yes",
       "url": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
@@ -119,6 +99,26 @@
       "score": 10.0,
       "published": "2026-07-27T20:20:15+00:00",
       "fetched_at": "2026-07-27T21:34:08.095028+00:00"
+    },
+    {
+      "id": "0352408624aa",
+      "title": "Microsoft\u2019s Nadella calls out Big AI for hypocrisy \u2014 but what about his own company?",
+      "url": "https://www.computerworld.com/article/4201955/microsofts-nadella-calls-out-big-ai-for-hypocrisy-but-what-about-his-own-company.html",
+      "summary": "The 19th-century French novelist Honore de Balzac is believed to have said that behind every great fortune lies a great crime.\n\n\n\nThat\u2019s even more true today than it was 200 years ago \u2014 just look at how Big AI, including Anthropic, OpenAI, Google, and others have built their trillion-dollar fortunes.\u00a0\n\n\n\nThey all use vast amounts of copyrighted material to train their large language models (LLMs) without paying the copyright holders. In other words, they steal it. They don\u2019t call it stealing, though. They call it \u201cfair use,\u201d which in this case amounts to the same thing.\n\n\n\nGenerative AI (genAI",
+      "source": "Computerworld",
+      "score": 12.0,
+      "published": "2026-07-28T11:00:00+00:00",
+      "fetched_at": "2026-07-28T17:37:06.795486+00:00"
+    },
+    {
+      "id": "b930631d6191",
+      "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
+      "url": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs",
+      "summary": "Snowflake announced Cortex AI Gateway on Tuesday, a centralized control layer designed to govern how AI agents \u2014 including those built by competitors like Anthropic&#x27;s Claude Code and Cursor \u2014 access enterprise data, tools, and models. Alongside the gateway, the company unveiled a first wave of security integrations with 1Password, Aembit, Linx Security, SailPoint, and Saviynt, an unusual coalition of identity vendors who often compete with one another, now aligned around a shared trust model for autonomous agents.The announcement, made from the company&#x27;s no-headquarters base in Bozem",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-07-28T13:00:00+00:00",
+      "fetched_at": "2026-07-28T17:37:04.370929+00:00"
     }
   ],
   "history": [
@@ -351,7 +351,9 @@
     "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
     "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
     "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html"
+    "https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html",
+    "https://www.computerworld.com/article/4201955/microsofts-nadella-calls-out-big-ai-for-hypocrisy-but-what-about-his-own-company.html",
+    "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs"
   ],
-  "generated_at": "2026-07-27T21:34:10.225674+00:00"
+  "generated_at": "2026-07-28T17:37:08.665887+00:00"
 }
