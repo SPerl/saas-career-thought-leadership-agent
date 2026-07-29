@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "d10dbf6ad8c7",
-      "title": "Building the enterprise environment for agentic AI",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;",
-      "source": "MIT Technology Review",
-      "score": 9.6,
-      "published": "2026-07-27T11:32:58+00:00",
-      "fetched_at": "2026-07-27T17:44:15.530926+00:00"
-    },
-    {
-      "id": "6d8bcc8aca8b",
-      "title": "DEX buyer\u2019s guide: Choose the right digital employee experience platform",
-      "url": "https://www.computerworld.com/article/1612638/how-to-choose-digital-employee-experience-tool.html",
-      "summary": "As organizations continue to invest in hybrid work, cloud applications, digital workplace initiatives, and now generative AI tools, many IT leaders are turning to digital employee experience (DEX) platforms to better understand how technology affects employee productivity and satisfaction.\n\n\n\nDEX tools have evolved from simple endpoint monitoring products into sophisticated platforms that combine device, application, network, and employee sentiment data with artificial intelligence to identify and resolve workplace technology issues before they disrupt employees.\n\n\n\nAnalysts say an increased f",
-      "source": "Computerworld",
-      "score": 8.0,
-      "published": "2026-07-27T11:00:00+00:00",
-      "fetched_at": "2026-07-27T17:44:18.510542+00:00"
-    },
-    {
-      "id": "f9bae074f453",
-      "title": "This automation tech turns old tractors into self-driving farming machines",
-      "url": "https://www.fastcompany.com/91579524/this-automation-tech-turns-old-tractors-into-self-driving-farming-machines?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Show me a farmer, said Mike Burdick, vice president of Sabanto, an autonomous tractor startup in Itasca, Illinois, and I\u2019ll show you someone who has a million things he or she just doesn\u2019t have time to do in the course of their workday. He\u2019ll also show you a farmer who wouldn\u2019t mind having their tractor ghost-ride across their fields as they take care of the endless work of being a modern farmer.&nbsp;\n\n\n\nThat\u2019s one of the central observations that has driven the growth of Sabanto\u2019s autonomous tech. It&#8217;s a rig that can be attached to just about any existing tractor to help it mow, seed, ",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-07-27T09:00:00+00:00",
-      "fetched_at": "2026-07-27T17:44:19.977424+00:00"
-    },
-    {
-      "id": "ab68125c5cde",
-      "title": "This automation tech turns old tractors into self-driving farming machines",
-      "url": "https://www.fastcompany.com/91579524/this-automation-tech-turns-old-tractors-into-self-driving-farming-machines",
-      "summary": "Sabanto Tractors retrofits old machines to make them futuristic automated devices, helping farmers overcome staffing shortages.\n\nShow me a farmer, said Mike Burdick, vice president of Sabanto, an autonomous tractor startup in Itasca, Illinois, and I\u2019ll show you someone who has a million things he or she just doesn\u2019t have time to do in the course of their workday. He\u2019ll also show you a farmer who wouldn\u2019t mind having their tractor ghost-ride across their fields as they take care of the endless work of being a modern farmer.&nbsp;",
-      "source": "Fast Company",
-      "score": 5.0,
-      "published": "2026-07-27T09:00:00+00:00",
-      "fetched_at": "2026-07-27T17:44:20.147334+00:00"
-    },
-    {
-      "id": "25cc5f27cc6a",
-      "title": "The path to artificial superintelligence",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-07-27T12:00:00+00:00",
-      "fetched_at": "2026-07-27T17:44:15.530857+00:00"
-    },
-    {
-      "id": "09b4688fdf24",
-      "title": "The Top 12 Sales Lessons From SaaStr AI 2026: Anthropic, Gamma, Owner, Stripe, Salesforce, Vercel, Replit and Monaco",
-      "url": "https://www.saastr.com/the-top-sales-lessons-from-saastr-ai-2026-gamma-owner-stripe-salesforce-cloudflare-and-monaco/",
-      "summary": "The sales and GTM sessions at SaaStr AI 2026 in San Mateo was all about where to take agents next. No one was still debating whether to put agents in the revenue org. They had already done it, and they brought the war stories. What broke, and what they would do differently next time. The... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-07-27T14:10:25+00:00",
-      "fetched_at": "2026-07-27T17:44:16.580645+00:00"
-    },
-    {
-      "id": "32b1350d1023",
-      "title": "Why Today's Data Architectures Break Down In The Age Of Agentic AI",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/27/why-todays-data-architectures-break-down-in-the-age-of-agentic-ai/",
-      "summary": "The future belongs to agentic architectures that move past delivering insights and create systems capable of turning those insights into intelligent action.\u200b",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-07-27T13:30:00+00:00",
-      "fetched_at": "2026-07-27T17:44:17.308029+00:00"
-    },
-    {
-      "id": "11aa8c60d770",
-      "title": "Is open source the answer to rogue AI agents? Nvidia's new alliance says yes",
-      "url": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
-      "summary": "As AI cybersecurity incidents ramp up, companies are racing to find a fix.",
-      "source": "ZDNet",
-      "score": 3.0,
-      "published": "2026-07-27T15:52:15+00:00",
-      "fetched_at": "2026-07-27T17:44:17.783458+00:00"
-    },
-    {
-      "id": "9787dc63d089",
-      "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
-      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "summary": "Google\u2019s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-      "source": "TechCrunch AI",
-      "score": 2.4,
-      "published": "2026-07-27T15:57:12+00:00",
-      "fetched_at": "2026-07-27T17:44:14.249727+00:00"
-    },
-    {
       "id": "9a7e331bd111",
       "title": "Hugging Face CEO wants transparency after OpenAI\u2019s AI incident",
       "url": "https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html",
@@ -119,6 +29,96 @@
       "score": 11.0,
       "published": "2026-07-28T13:00:00+00:00",
       "fetched_at": "2026-07-28T17:37:04.370929+00:00"
+    },
+    {
+      "id": "206145095893",
+      "title": "Synsira Launches Kind Local Pro with 100% On-Device AI",
+      "url": "https://www.computerworld.com/article/4202302/synsira-launches-kind-local-pro-with-100-on-device-ai.html",
+      "summary": "Operating entirely offline, Kind Local Pro gives individuals local data sovereignty without sacrificing AI performance\n\n\n\nSynsira Software is addressing the biggest concern with AI: privacy. Today, the company introduced Kind Local Pro, an AI platform that operates independently of corporate cloud-based LLM models and is available to download onto desktops and laptops. Designed for people and organizations wanting the benefits of AI without sending their data, analysis and queries to external sources, the platform allows users to take control of their information.\n\n\n\nKind Local Pro builds on S",
+      "source": "Computerworld",
+      "score": 10.0,
+      "published": "2026-07-28T13:57:28+00:00",
+      "fetched_at": "2026-07-29T17:17:16.130565+00:00"
+    },
+    {
+      "id": "67958797bb06",
+      "title": "GM redesigned its engineering workflows around AI agents \u2014 and tripled its merged pull requests",
+      "url": "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests",
+      "summary": "Software engineers at General Motors&#x27; (GM&#x27;s) autonomous driving division spend only 15% of their time writing code, according to Rashed Haq, GM&#x27;s VP of autonomous vehicles, in a recent onstage interview at VB Transform 2026.GM is now using AI agents to accelerate much of the other 85%\u2014including analyzing vehicle data, triaging problems, running experiments and testing potential fixes.The result, Haq said, is roughly three times as many merged pull requests across GM\u2019s autonomous vehicle engineering organization, faster releases and fewer defects escaping into later stages of dev",
+      "source": "VentureBeat",
+      "score": 9.9,
+      "published": "2026-07-28T17:29:58+00:00",
+      "fetched_at": "2026-07-29T17:17:13.835874+00:00"
+    },
+    {
+      "id": "d4aac8e47e83",
+      "title": "Runway couldn't fix a bug in its AI video model, so it turned the bug into a feature",
+      "url": "https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature",
+      "summary": "Runway spent weeks trying to engineer its way out of a stubborn bug: AI-generated avatars would drift off-center during real-time video generation. The fix wasn&#x27;t a back-end patch \u2014 it was a new front-end feature that just worked around the problem. That&#x27;s the kind of lesson Ryan Phillips, head of enterprise product at Runway ML, walked through at VB Transform 2026, arguing that even companies not building foundation models themselves can learn from how Runway builds, evaluates, and ships them.&quot;I think even if you are not all building models yourselves, it&#x27;s helpful to lear",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-07-28T17:20:10+00:00",
+      "fetched_at": "2026-07-29T17:17:13.835952+00:00"
+    },
+    {
+      "id": "1da71329129f",
+      "title": "Your Agents Are About to Start Firing Your Vendors. Ours Fired Marketo.",
+      "url": "https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/",
+      "summary": "We just moved 10+ years of data off Marketo into Salesforce Marketing Cloud. It took us years to get there.\u00a0 The final straw was the rate-limiting in their API made it unusable for 10K, our AI agent for marketing and revenue. The renewal came up, they raised prices 12%-20% again with no new features, it... Continue Reading",
+      "source": "SaaStr",
+      "score": 7.7,
+      "published": "2026-07-28T12:00:14+00:00",
+      "fetched_at": "2026-07-29T17:17:14.540736+00:00"
+    },
+    {
+      "id": "5de17107a676",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-07-29T14:41:06+00:00",
+      "fetched_at": "2026-07-29T17:17:11.593228+00:00"
+    },
+    {
+      "id": "7f8dc55fa98b",
+      "title": "Target SVP says its real AI moat isn't the models \u2014 it's everything built around them",
+      "url": "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
+      "summary": "Target SVP Siobh\u00e1n Mc Feeney says the AI models her company runs aren&#x27;t what gives Target its edge \u2014 everything built around them is.&quot;There&#x27;s a lot in it. That to us is the moat,&quot; Mc Feeney said at VB Transform 2026. &quot;The models are great, and they&#x27;re important. They&#x27;re just not sufficient to be the competitive advantage.&quot;That discipline shows up early in how Target decides whether to build an agent at all. Mc Feeney was blunt, even &quot;controversial&quot; by her own admission, about the current AI moment: every enterprise wants AI agents, but not ever",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-07-29T16:23:49+00:00",
+      "fetched_at": "2026-07-29T17:17:13.835555+00:00"
+    },
+    {
+      "id": "c0aa5a95c41d",
+      "title": "What to know about Moonshot AI and its new open-weight model Kimi K3",
+      "url": "https://www.fastcompany.com/91581267/what-to-know-about-moonshot-ai-and-its-new-open-weight-model-kimi-k3?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "The release of the Chinese AI model Kimi K3 was a flashpoint in the AI world, sharpening the debate over whether the most capable models should be closely held by individual companies, usually U.S. tech firms, or freely and transparently distributed in the tradition of open-source software.\n\n\n\nNot only did the high-performing Kimi K3 challenge the cherished Silicon Valley notion that Western AI labs still lead their Chinese counterparts in large language models (though likely by only a hair), but it also raised the possibility that more transparent open-weight models may ultimately be easier t",
+      "source": "Fast Company Tech",
+      "score": 5.5,
+      "published": "2026-07-28T19:29:42+00:00",
+      "fetched_at": "2026-07-29T17:17:17.364112+00:00"
+    },
+    {
+      "id": "9a66fb125501",
+      "title": "Enterprise AI Has A Context Problem, And The Next Competitive Advantage Is Solving It",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/29/enterprise-ai-has-a-context-problem-and-the-next-competitive-advantage-is-solving-it/",
+      "summary": "Context grounds AI in operational reality, allowing more accuracy, reliability and trust. Without it, AI remains capable in isolation and unreliable in practice.\u200b\u200b",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-07-29T13:45:00+00:00",
+      "fetched_at": "2026-07-29T17:17:15.138893+00:00"
+    },
+    {
+      "id": "992c30afce20",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-07-29T00:09:05+00:00",
+      "fetched_at": "2026-07-29T17:17:11.593279+00:00"
     }
   ],
   "history": [
@@ -353,7 +353,16 @@
     "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
     "https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html",
     "https://www.computerworld.com/article/4201955/microsofts-nadella-calls-out-big-ai-for-hypocrisy-but-what-about-his-own-company.html",
-    "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs"
+    "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs",
+    "https://www.computerworld.com/article/4202302/synsira-launches-kind-local-pro-with-100-on-device-ai.html",
+    "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests",
+    "https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature",
+    "https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/",
+    "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
+    "https://www.fastcompany.com/91581267/what-to-know-about-moonshot-ai-and-its-new-open-weight-model-kimi-k3?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/29/enterprise-ai-has-a-context-problem-and-the-next-competitive-advantage-is-solving-it/",
+    "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
   ],
-  "generated_at": "2026-07-28T17:37:08.665887+00:00"
+  "generated_at": "2026-07-29T17:17:17.562523+00:00"
 }
