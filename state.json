@@ -1,76 +1,6 @@
 {
   "queue": [
     {
-      "id": "9a7e331bd111",
-      "title": "Hugging Face CEO wants transparency after OpenAI\u2019s AI incident",
-      "url": "https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html",
-      "summary": "Hugging Face CEO Clem Delangue wants to see radical transparency from OpenAI after the company acknowledged that one of its AI agents managed to hack into the AI platform\u2019s systems during a test.\n\n\n\nIn a post on X, Delangue wrote that, among other things, he wants OpenAI to publish logs and traces from the autonomous AI agent so researchers can analyze what happened. He also called for better defensive tools and urged OpenAI to allocate $100 million worth of computing capacity to help the Hugging Face community develop stronger cybersecurity solutions.\n\n\n\n\u201cThe first cyberattack by an autonomou",
-      "source": "Computerworld",
-      "score": 10.0,
-      "published": "2026-07-27T20:20:15+00:00",
-      "fetched_at": "2026-07-27T21:34:08.095028+00:00"
-    },
-    {
-      "id": "0352408624aa",
-      "title": "Microsoft\u2019s Nadella calls out Big AI for hypocrisy \u2014 but what about his own company?",
-      "url": "https://www.computerworld.com/article/4201955/microsofts-nadella-calls-out-big-ai-for-hypocrisy-but-what-about-his-own-company.html",
-      "summary": "The 19th-century French novelist Honore de Balzac is believed to have said that behind every great fortune lies a great crime.\n\n\n\nThat\u2019s even more true today than it was 200 years ago \u2014 just look at how Big AI, including Anthropic, OpenAI, Google, and others have built their trillion-dollar fortunes.\u00a0\n\n\n\nThey all use vast amounts of copyrighted material to train their large language models (LLMs) without paying the copyright holders. In other words, they steal it. They don\u2019t call it stealing, though. They call it \u201cfair use,\u201d which in this case amounts to the same thing.\n\n\n\nGenerative AI (genAI",
-      "source": "Computerworld",
-      "score": 12.0,
-      "published": "2026-07-28T11:00:00+00:00",
-      "fetched_at": "2026-07-28T17:37:06.795486+00:00"
-    },
-    {
-      "id": "b930631d6191",
-      "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
-      "url": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs",
-      "summary": "Snowflake announced Cortex AI Gateway on Tuesday, a centralized control layer designed to govern how AI agents \u2014 including those built by competitors like Anthropic&#x27;s Claude Code and Cursor \u2014 access enterprise data, tools, and models. Alongside the gateway, the company unveiled a first wave of security integrations with 1Password, Aembit, Linx Security, SailPoint, and Saviynt, an unusual coalition of identity vendors who often compete with one another, now aligned around a shared trust model for autonomous agents.The announcement, made from the company&#x27;s no-headquarters base in Bozem",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-07-28T13:00:00+00:00",
-      "fetched_at": "2026-07-28T17:37:04.370929+00:00"
-    },
-    {
-      "id": "206145095893",
-      "title": "Synsira Launches Kind Local Pro with 100% On-Device AI",
-      "url": "https://www.computerworld.com/article/4202302/synsira-launches-kind-local-pro-with-100-on-device-ai.html",
-      "summary": "Operating entirely offline, Kind Local Pro gives individuals local data sovereignty without sacrificing AI performance\n\n\n\nSynsira Software is addressing the biggest concern with AI: privacy. Today, the company introduced Kind Local Pro, an AI platform that operates independently of corporate cloud-based LLM models and is available to download onto desktops and laptops. Designed for people and organizations wanting the benefits of AI without sending their data, analysis and queries to external sources, the platform allows users to take control of their information.\n\n\n\nKind Local Pro builds on S",
-      "source": "Computerworld",
-      "score": 10.0,
-      "published": "2026-07-28T13:57:28+00:00",
-      "fetched_at": "2026-07-29T17:17:16.130565+00:00"
-    },
-    {
-      "id": "67958797bb06",
-      "title": "GM redesigned its engineering workflows around AI agents \u2014 and tripled its merged pull requests",
-      "url": "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests",
-      "summary": "Software engineers at General Motors&#x27; (GM&#x27;s) autonomous driving division spend only 15% of their time writing code, according to Rashed Haq, GM&#x27;s VP of autonomous vehicles, in a recent onstage interview at VB Transform 2026.GM is now using AI agents to accelerate much of the other 85%\u2014including analyzing vehicle data, triaging problems, running experiments and testing potential fixes.The result, Haq said, is roughly three times as many merged pull requests across GM\u2019s autonomous vehicle engineering organization, faster releases and fewer defects escaping into later stages of dev",
-      "source": "VentureBeat",
-      "score": 9.9,
-      "published": "2026-07-28T17:29:58+00:00",
-      "fetched_at": "2026-07-29T17:17:13.835874+00:00"
-    },
-    {
-      "id": "d4aac8e47e83",
-      "title": "Runway couldn't fix a bug in its AI video model, so it turned the bug into a feature",
-      "url": "https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature",
-      "summary": "Runway spent weeks trying to engineer its way out of a stubborn bug: AI-generated avatars would drift off-center during real-time video generation. The fix wasn&#x27;t a back-end patch \u2014 it was a new front-end feature that just worked around the problem. That&#x27;s the kind of lesson Ryan Phillips, head of enterprise product at Runway ML, walked through at VB Transform 2026, arguing that even companies not building foundation models themselves can learn from how Runway builds, evaluates, and ships them.&quot;I think even if you are not all building models yourselves, it&#x27;s helpful to lear",
-      "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-07-28T17:20:10+00:00",
-      "fetched_at": "2026-07-29T17:17:13.835952+00:00"
-    },
-    {
-      "id": "1da71329129f",
-      "title": "Your Agents Are About to Start Firing Your Vendors. Ours Fired Marketo.",
-      "url": "https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/",
-      "summary": "We just moved 10+ years of data off Marketo into Salesforce Marketing Cloud. It took us years to get there.\u00a0 The final straw was the rate-limiting in their API made it unusable for 10K, our AI agent for marketing and revenue. The renewal came up, they raised prices 12%-20% again with no new features, it... Continue Reading",
-      "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-07-28T12:00:14+00:00",
-      "fetched_at": "2026-07-29T17:17:14.540736+00:00"
-    },
-    {
       "id": "5de17107a676",
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
       "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
@@ -119,6 +49,76 @@
       "score": 4.8,
       "published": "2026-07-29T00:09:05+00:00",
       "fetched_at": "2026-07-29T17:17:11.593279+00:00"
+    },
+    {
+      "id": "b2e3f7e34cbd",
+      "title": "Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread",
+      "url": "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
+      "summary": "Less than a year after emerging from stealth to tackle non-human identity security, Israeli cybersecurity startup Hush Security believes the enterprise AI security conversation has fundamentally changed.The company, which earlier this week announced a $30 million Series A round led by returning investors Battery Ventures and YL Ventures with Akamai Technologies joining as a strategic investor, argues that organizations are rapidly moving beyond experimenting with generative AI assistants and into deploying autonomous software agents that require an entirely different security model. While the ",
+      "source": "VentureBeat",
+      "score": 15.4,
+      "published": "2026-07-30T16:29:00+00:00",
+      "fetched_at": "2026-07-30T17:37:02.376620+00:00"
+    },
+    {
+      "id": "30f8e69e4b3c",
+      "title": "Enterprise AI agents can't talk to each other, can't be trusted with permissions, and can't be audited \u2014 5 startups are already fixing that",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that",
+      "summary": "Enterprise AI agents can do the work \u2014 but the infrastructure to let them talk to each other, prove they should be trusted, and be audited when something goes wrong is still being built.Here&#x27;s a look at how five startups are tackling that gap \u2014 around orchestration, observability, connectivity, and security \u2014 as shown at VB Transform 2026.BAND is orchestrating all the agents you have running in the backgroundIn the very near future, agents will be deployed everywhere, and they will do work on our behalf, noted Vlad Luzin, CTO and co-founder of BAND. As he describes it: They will receive t",
+      "source": "VentureBeat",
+      "score": 14.3,
+      "published": "2026-07-29T20:02:03+00:00",
+      "fetched_at": "2026-07-30T17:37:02.376906+00:00"
+    },
+    {
+      "id": "af4884c08971",
+      "title": "NTT DATA AIVista and Snowflake: Identity alone won\u2019t secure enterprise AI agents",
+      "url": "https://venturebeat.com/security/ntt-data-aivista-and-snowflake-identity-alone-wont-secure-enterprise-ai-agents",
+      "summary": "Presented by NTT DATA AIVistaVentureBeat\u2019s June research found that 69% of enterprises are still running AI agents that share credentials, a practice associated with higher rates of security incidents and near-incidents. But at VB Transform 2026, Mukesh Karki, CTO of NTT DATA AIVista, and Mayank Upadhyay, chief security and trust officer at Snowflake, argued that fixing identity is only the first step. Enterprises also need action-level authorization and tamper-resistant audit trails built into every agent interaction if they\u2019re going to deploy autonomous systems safely at scale. &quot;These o",
+      "source": "VentureBeat",
+      "score": 13.2,
+      "published": "2026-07-30T07:00:00+00:00",
+      "fetched_at": "2026-07-30T17:37:02.376751+00:00"
+    },
+    {
+      "id": "c9945336eb04",
+      "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "summary": "On the company\u2019s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a \u201clarge enterprise opportunity\u201d spanning AI agents, APIs, compute, and internal software.",
+      "source": "TechCrunch AI",
+      "score": 12.0,
+      "published": "2026-07-29T22:23:12+00:00",
+      "fetched_at": "2026-07-30T17:37:00.390014+00:00"
+    },
+    {
+      "id": "d3ef4a34cd19",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+      "source": "MIT Technology Review",
+      "score": 10.8,
+      "published": "2026-07-30T10:15:19+00:00",
+      "fetched_at": "2026-07-30T17:37:01.814720+00:00"
+    },
+    {
+      "id": "dc715a08c73f",
+      "title": "Companies are finally seeing AI ROI \u2014 and now they know how much more value it can deliver",
+      "url": "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
+      "summary": "Presented by SAPEnterprise AI has moved from experiment to execution, and that shift is beginning to show real returns. The SAP Value of AI Report 2026, produced with Oxford Economics and based on a survey of 2,600 business leaders across 13 countries, found that AI now supports nearly one-third of all tasks in the average organization, rising to 30% from 25% last year. ROI expectations for agentic AI have jumped from 10% last year to 17% this year, but many organizations believe AI could be delivering far more value. The report reveals that the gap comes down to strategy, data, and governance",
+      "source": "VentureBeat",
+      "score": 9.9,
+      "published": "2026-07-30T07:00:00+00:00",
+      "fetched_at": "2026-07-30T17:37:02.376803+00:00"
+    },
+    {
+      "id": "62da5ea9173b",
+      "title": "OpenAI\u2019s runaway AI agent also compromised a cloud platform customer",
+      "url": "https://www.computerworld.com/article/4203049/openais-runaway-ai-agent-compromised-a-cloud-platform-customer.html",
+      "summary": "OpenAI\u2019s renegade AI agent, which carried out a high-profile breach of the AI platform Hugging Face, also reportedly compromised a customer of the cloud platform Modal Labs, according to Reuters.\n\n\n\nThe agent is said to have exploited a vulnerability in the customer\u2019s own code, where an unprotected endpoint allowed anyone to run code in an isolated test environment.\n\n\n\nModal Labs emphasized that its own infrastructure was not compromised and that the security isolation worked as intended.\n\n\n\nOpenAI declined to comment on the Modal case, but referred to a recent update in which the company conf",
+      "source": "Computerworld",
+      "score": 9.0,
+      "published": "2026-07-29T19:45:14+00:00",
+      "fetched_at": "2026-07-30T17:37:05.513009+00:00"
     }
   ],
   "history": [
@@ -362,7 +362,14 @@
     "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
     "https://www.fastcompany.com/91581267/what-to-know-about-moonshot-ai-and-its-new-open-weight-model-kimi-k3?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/29/enterprise-ai-has-a-context-problem-and-the-next-competitive-advantage-is-solving-it/",
-    "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+    "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
+    "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that",
+    "https://venturebeat.com/security/ntt-data-aivista-and-snowflake-identity-alone-wont-secure-enterprise-ai-agents",
+    "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
+    "https://www.computerworld.com/article/4203049/openais-runaway-ai-agent-compromised-a-cloud-platform-customer.html"
   ],
-  "generated_at": "2026-07-29T17:17:17.562523+00:00"
+  "generated_at": "2026-07-30T17:37:07.350688+00:00"
 }
