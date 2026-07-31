@@ -1,56 +1,6 @@
 {
   "queue": [
     {
-      "id": "5de17107a676",
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-07-29T14:41:06+00:00",
-      "fetched_at": "2026-07-29T17:17:11.593228+00:00"
-    },
-    {
-      "id": "7f8dc55fa98b",
-      "title": "Target SVP says its real AI moat isn't the models \u2014 it's everything built around them",
-      "url": "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
-      "summary": "Target SVP Siobh\u00e1n Mc Feeney says the AI models her company runs aren&#x27;t what gives Target its edge \u2014 everything built around them is.&quot;There&#x27;s a lot in it. That to us is the moat,&quot; Mc Feeney said at VB Transform 2026. &quot;The models are great, and they&#x27;re important. They&#x27;re just not sufficient to be the competitive advantage.&quot;That discipline shows up early in how Target decides whether to build an agent at all. Mc Feeney was blunt, even &quot;controversial&quot; by her own admission, about the current AI moment: every enterprise wants AI agents, but not ever",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-07-29T16:23:49+00:00",
-      "fetched_at": "2026-07-29T17:17:13.835555+00:00"
-    },
-    {
-      "id": "c0aa5a95c41d",
-      "title": "What to know about Moonshot AI and its new open-weight model Kimi K3",
-      "url": "https://www.fastcompany.com/91581267/what-to-know-about-moonshot-ai-and-its-new-open-weight-model-kimi-k3?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "The release of the Chinese AI model Kimi K3 was a flashpoint in the AI world, sharpening the debate over whether the most capable models should be closely held by individual companies, usually U.S. tech firms, or freely and transparently distributed in the tradition of open-source software.\n\n\n\nNot only did the high-performing Kimi K3 challenge the cherished Silicon Valley notion that Western AI labs still lead their Chinese counterparts in large language models (though likely by only a hair), but it also raised the possibility that more transparent open-weight models may ultimately be easier t",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-07-28T19:29:42+00:00",
-      "fetched_at": "2026-07-29T17:17:17.364112+00:00"
-    },
-    {
-      "id": "9a66fb125501",
-      "title": "Enterprise AI Has A Context Problem, And The Next Competitive Advantage Is Solving It",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/29/enterprise-ai-has-a-context-problem-and-the-next-competitive-advantage-is-solving-it/",
-      "summary": "Context grounds AI in operational reality, allowing more accuracy, reliability and trust. Without it, AI remains capable in isolation and unreliable in practice.\u200b\u200b",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-07-29T13:45:00+00:00",
-      "fetched_at": "2026-07-29T17:17:15.138893+00:00"
-    },
-    {
-      "id": "992c30afce20",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-07-29T00:09:05+00:00",
-      "fetched_at": "2026-07-29T17:17:11.593279+00:00"
-    },
-    {
       "id": "b2e3f7e34cbd",
       "title": "Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread",
       "url": "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
@@ -119,12 +69,59 @@
       "score": 9.0,
       "published": "2026-07-29T19:45:14+00:00",
       "fetched_at": "2026-07-30T17:37:05.513009+00:00"
+    },
+    {
+      "id": "aa3111da4189",
+      "title": "From Tools To Governed Intelligence: Enterprise AI\u2019s Platform Moment",
+      "url": "https://www.forbes.com/sites/timbajarin/2026/07/31/from-tools-to-governed-intelligence-enterprise-ais-platform-moment/",
+      "summary": "Enterprise AI is no longer a pilot. It\u2019s the infrastructure governing business. Across marketing, CX, and finance, AI agents are arriving with new governance models.",
+      "source": "Forbes Innovation",
+      "score": 10.0,
+      "published": "2026-07-31T14:00:00+00:00",
+      "fetched_at": "2026-07-31T17:40:26.443063+00:00"
+    },
+    {
+      "id": "9327b8297589",
+      "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "source": "TechCrunch AI",
+      "score": 8.4,
+      "published": "2026-07-30T16:09:42+00:00",
+      "fetched_at": "2026-07-31T17:40:23.186857+00:00"
+    },
+    {
+      "id": "866e7360332a",
+      "title": "Beyond Model Loyalty: Enterprise AI Must Be Built For Vendor Volatility",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/31/beyond-model-loyalty-enterprise-ai-must-be-built-for-vendor-volatility/",
+      "summary": "The deeper AI embeds into decision flows, agent orchestration and validation pipelines, the more expensive any disruption becomes.",
+      "source": "Forbes Innovation",
+      "score": 8.0,
+      "published": "2026-07-31T15:45:00+00:00",
+      "fetched_at": "2026-07-31T17:40:26.442686+00:00"
+    },
+    {
+      "id": "97aec3fde336",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack\u00a0 It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
+      "source": "MIT Technology Review",
+      "score": 7.2,
+      "published": "2026-07-30T12:10:00+00:00",
+      "fetched_at": "2026-07-31T17:40:24.413869+00:00"
+    },
+    {
+      "id": "f918508efc91",
+      "title": "20VC x SaaStr: Jensen\u2019s First Tweet Ever, The Agent That Rewrote My Code Without Telling Me, and Why The PE Turnaround Playbook Is Out Of Road",
+      "url": "https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/",
+      "summary": "This week on 20VC with Harry Stebbings and Rory O&#8217;Driscoll: the open-weights letter that Anthropic didn&#8217;t sign, the OpenAI agent that broke out of its sandbox and went hunting for test answers on Hugging Face, Etched raising $300M, Alphabet posting its first ever negative free cash flow, Travis Kalanick raising $1.7B, and Francisco Partners closing... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-07-30T15:08:48+00:00",
+      "fetched_at": "2026-07-31T17:40:25.454119+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/orchestration/mcp-solved-tool-calling-a2a-solved-coordination-what-solves-transport",
-    "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
-    "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
     "https://www.saastr.com/hiring-risks-vs-hiring-flags/",
     "https://www.fastcompany.com/91557448/your-business-doesnt-need-random-acts-of-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
@@ -369,7 +366,12 @@
     "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
     "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
-    "https://www.computerworld.com/article/4203049/openais-runaway-ai-agent-compromised-a-cloud-platform-customer.html"
+    "https://www.computerworld.com/article/4203049/openais-runaway-ai-agent-compromised-a-cloud-platform-customer.html",
+    "https://www.forbes.com/sites/timbajarin/2026/07/31/from-tools-to-governed-intelligence-enterprise-ais-platform-moment/",
+    "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/07/31/beyond-model-loyalty-enterprise-ai-must-be-built-for-vendor-volatility/",
+    "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/"
   ],
-  "generated_at": "2026-07-30T17:37:07.350688+00:00"
+  "generated_at": "2026-07-31T17:40:29.212072+00:00"
 }
