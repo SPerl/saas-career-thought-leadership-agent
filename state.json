@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "866e7360332a",
-      "title": "Beyond Model Loyalty: Enterprise AI Must Be Built For Vendor Volatility",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/31/beyond-model-loyalty-enterprise-ai-must-be-built-for-vendor-volatility/",
-      "summary": "The deeper AI embeds into decision flows, agent orchestration and validation pipelines, the more expensive any disruption becomes.",
-      "source": "Forbes Innovation",
-      "score": 8.0,
-      "published": "2026-07-31T15:45:00+00:00",
-      "fetched_at": "2026-07-31T17:40:26.442686+00:00"
-    },
-    {
       "id": "e0fc6ce445a7",
       "title": "Structured AI data pipelines score 10.9 points below free-form code \u2014 DataFlow-Harness closes the gap",
       "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
@@ -119,10 +109,19 @@
       "score": 3.3,
       "published": "2026-07-31T14:10:14+00:00",
       "fetched_at": "2026-08-01T16:56:23.353706+00:00"
+    },
+    {
+      "id": "57d0a9046fc0",
+      "title": "This Week in AI: Agents, Gatekeepers, and World Models",
+      "url": "https://www.oreilly.com/radar/this-week-in-ai-agents-gatekeepers-and-world-models/",
+      "summary": "This week, data and AI evangelist Christina Stathopoulos looked at three developments shaping AI\u2019s next phase: agents that can act across systems, infrastructure built for specific models, and world models that help AI understand physical environments. Model quality is no longer the only constraint for teams. They also need to account for security controls, compute [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 3.3,
+      "published": "2026-07-31T13:02:06+00:00",
+      "fetched_at": "2026-08-01T16:56:42.686767+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
     "https://www.fastcompany.com/91557323/6-skills-everyone-needs-in-the-ai-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.businessinsider.com/user-increase-dod-workers-using-military-ai-program-daily-official-2026-6",
     "https://www.fastcompany.com/91547150/business-products-services-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +370,8 @@
     "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
     "https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/",
     "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/",
-    "https://www.saastr.com/dilutionalwaysmore/"
+    "https://www.saastr.com/dilutionalwaysmore/",
+    "https://www.oreilly.com/radar/this-week-in-ai-agents-gatekeepers-and-world-models/"
   ],
-  "generated_at": "2026-08-01T16:56:27.887901+00:00"
+  "generated_at": "2026-08-01T16:56:44.263279+00:00"
 }
