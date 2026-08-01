@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "e0fc6ce445a7",
-      "title": "Structured AI data pipelines score 10.9 points below free-form code \u2014 DataFlow-Harness closes the gap",
-      "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
-      "summary": "If you ask an AI coding agent to write a standalone Python script to parse a single JSON file, it will likely give you a perfect answer in seconds. But the same agent often breaks if you ask it to build a systematic data processing pipeline, like ingesting thousands of messy documents, chunking text, scoring quality, and filtering noise for a Retrieval-Augmented Generation (RAG) system that fits your specific enterprise stack.While large language models (LLMs) excel at one-off code generation, their outputs for complex data-processing tasks are typically free-form, disposable scripts. These sc",
-      "source": "VentureBeat",
-      "score": 13.2,
-      "published": "2026-07-31T21:19:09+00:00",
-      "fetched_at": "2026-08-01T16:55:37.796017+00:00"
-    },
-    {
       "id": "7236af026033",
       "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
       "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
@@ -119,10 +109,19 @@
       "score": 3.3,
       "published": "2026-07-31T13:02:06+00:00",
       "fetched_at": "2026-08-01T16:56:42.686767+00:00"
+    },
+    {
+      "id": "1166552e6f4e",
+      "title": "Dear SaaStr:  How Do You Compensate Reps on Multi-Year Deals?",
+      "url": "https://www.saastr.com/jason-lemkin-interesting-startup-sales-incentive-plan-echosign-reps-compensated-multi-year-deals/",
+      "summary": "Dear SaaStr: How Do You Compensate Reps on Multi-Year Deals? In the early days, when Cash is King, pay the sales reps a full commission on all cash paid up-front.\u00a0 It&#8217;s what I did.\u00a0 95% of the time, this is what you want to do.\u00a0\u00a0 As as a SaaS founder, I paid nothing on multiyear... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-07-31T09:04:20+00:00",
+      "fetched_at": "2026-08-01T16:56:54.251930+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91557323/6-skills-everyone-needs-in-the-ai-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.businessinsider.com/user-increase-dod-workers-using-military-ai-program-daily-official-2026-6",
     "https://www.fastcompany.com/91547150/business-products-services-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/sites/amd/2026/06/16/this-three-layer-customer-zero-strategy-is-how-amd-builds--scales-ai/",
@@ -371,7 +370,8 @@
     "https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/",
     "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/",
     "https://www.saastr.com/dilutionalwaysmore/",
-    "https://www.oreilly.com/radar/this-week-in-ai-agents-gatekeepers-and-world-models/"
+    "https://www.oreilly.com/radar/this-week-in-ai-agents-gatekeepers-and-world-models/",
+    "https://www.saastr.com/jason-lemkin-interesting-startup-sales-incentive-plan-echosign-reps-compensated-multi-year-deals/"
   ],
-  "generated_at": "2026-08-01T16:56:44.263279+00:00"
+  "generated_at": "2026-08-01T16:56:58.438268+00:00"
 }
