@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "aa3111da4189",
-      "title": "From Tools To Governed Intelligence: Enterprise AI\u2019s Platform Moment",
-      "url": "https://www.forbes.com/sites/timbajarin/2026/07/31/from-tools-to-governed-intelligence-enterprise-ais-platform-moment/",
-      "summary": "Enterprise AI is no longer a pilot. It\u2019s the infrastructure governing business. Across marketing, CX, and finance, AI agents are arriving with new governance models.",
-      "source": "Forbes Innovation",
-      "score": 10.0,
-      "published": "2026-07-31T14:00:00+00:00",
-      "fetched_at": "2026-07-31T17:40:26.443063+00:00"
-    },
-    {
       "id": "866e7360332a",
       "title": "Beyond Model Loyalty: Enterprise AI Must Be Built For Vendor Volatility",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/31/beyond-model-loyalty-enterprise-ai-must-be-built-for-vendor-volatility/",
@@ -119,10 +109,19 @@
       "score": 3.3,
       "published": "2026-07-31T16:09:24+00:00",
       "fetched_at": "2026-08-01T16:55:41.379558+00:00"
+    },
+    {
+      "id": "d750b522432c",
+      "title": "When a 3.8x \u201cExit\u201d Becomes 1.6x: The Gap Between Markups and Returns",
+      "url": "https://www.saastr.com/dilutionalwaysmore/",
+      "summary": "One of our older SaaStr Fund companies was recently acquired. It is selling for 3.8x what we paid to get in years ago. On paper that reads like a clean triple. We won&#8217;t make 1.6x. That gap, 3.8x on the marquee valuation versus under 1.6x in the bank, is one of the least understood dynamics... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-07-31T14:10:14+00:00",
+      "fetched_at": "2026-08-01T16:56:23.353706+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
     "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
     "https://www.fastcompany.com/91557323/6-skills-everyone-needs-in-the-ai-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.businessinsider.com/user-increase-dod-workers-using-military-ai-program-daily-official-2026-6",
@@ -371,7 +370,8 @@
     "https://www.computerworld.com/article/4203702/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-3.html",
     "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
     "https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/",
-    "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/"
+    "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/",
+    "https://www.saastr.com/dilutionalwaysmore/"
   ],
-  "generated_at": "2026-08-01T16:55:43.105813+00:00"
+  "generated_at": "2026-08-01T16:56:27.887901+00:00"
 }
