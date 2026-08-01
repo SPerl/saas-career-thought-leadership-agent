@@ -1,76 +1,6 @@
 {
   "queue": [
     {
-      "id": "b2e3f7e34cbd",
-      "title": "Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread",
-      "url": "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
-      "summary": "Less than a year after emerging from stealth to tackle non-human identity security, Israeli cybersecurity startup Hush Security believes the enterprise AI security conversation has fundamentally changed.The company, which earlier this week announced a $30 million Series A round led by returning investors Battery Ventures and YL Ventures with Akamai Technologies joining as a strategic investor, argues that organizations are rapidly moving beyond experimenting with generative AI assistants and into deploying autonomous software agents that require an entirely different security model. While the ",
-      "source": "VentureBeat",
-      "score": 15.4,
-      "published": "2026-07-30T16:29:00+00:00",
-      "fetched_at": "2026-07-30T17:37:02.376620+00:00"
-    },
-    {
-      "id": "30f8e69e4b3c",
-      "title": "Enterprise AI agents can't talk to each other, can't be trusted with permissions, and can't be audited \u2014 5 startups are already fixing that",
-      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that",
-      "summary": "Enterprise AI agents can do the work \u2014 but the infrastructure to let them talk to each other, prove they should be trusted, and be audited when something goes wrong is still being built.Here&#x27;s a look at how five startups are tackling that gap \u2014 around orchestration, observability, connectivity, and security \u2014 as shown at VB Transform 2026.BAND is orchestrating all the agents you have running in the backgroundIn the very near future, agents will be deployed everywhere, and they will do work on our behalf, noted Vlad Luzin, CTO and co-founder of BAND. As he describes it: They will receive t",
-      "source": "VentureBeat",
-      "score": 14.3,
-      "published": "2026-07-29T20:02:03+00:00",
-      "fetched_at": "2026-07-30T17:37:02.376906+00:00"
-    },
-    {
-      "id": "af4884c08971",
-      "title": "NTT DATA AIVista and Snowflake: Identity alone won\u2019t secure enterprise AI agents",
-      "url": "https://venturebeat.com/security/ntt-data-aivista-and-snowflake-identity-alone-wont-secure-enterprise-ai-agents",
-      "summary": "Presented by NTT DATA AIVistaVentureBeat\u2019s June research found that 69% of enterprises are still running AI agents that share credentials, a practice associated with higher rates of security incidents and near-incidents. But at VB Transform 2026, Mukesh Karki, CTO of NTT DATA AIVista, and Mayank Upadhyay, chief security and trust officer at Snowflake, argued that fixing identity is only the first step. Enterprises also need action-level authorization and tamper-resistant audit trails built into every agent interaction if they\u2019re going to deploy autonomous systems safely at scale. &quot;These o",
-      "source": "VentureBeat",
-      "score": 13.2,
-      "published": "2026-07-30T07:00:00+00:00",
-      "fetched_at": "2026-07-30T17:37:02.376751+00:00"
-    },
-    {
-      "id": "c9945336eb04",
-      "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
-      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "summary": "On the company\u2019s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a \u201clarge enterprise opportunity\u201d spanning AI agents, APIs, compute, and internal software.",
-      "source": "TechCrunch AI",
-      "score": 12.0,
-      "published": "2026-07-29T22:23:12+00:00",
-      "fetched_at": "2026-07-30T17:37:00.390014+00:00"
-    },
-    {
-      "id": "d3ef4a34cd19",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
-      "source": "MIT Technology Review",
-      "score": 10.8,
-      "published": "2026-07-30T10:15:19+00:00",
-      "fetched_at": "2026-07-30T17:37:01.814720+00:00"
-    },
-    {
-      "id": "dc715a08c73f",
-      "title": "Companies are finally seeing AI ROI \u2014 and now they know how much more value it can deliver",
-      "url": "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
-      "summary": "Presented by SAPEnterprise AI has moved from experiment to execution, and that shift is beginning to show real returns. The SAP Value of AI Report 2026, produced with Oxford Economics and based on a survey of 2,600 business leaders across 13 countries, found that AI now supports nearly one-third of all tasks in the average organization, rising to 30% from 25% last year. ROI expectations for agentic AI have jumped from 10% last year to 17% this year, but many organizations believe AI could be delivering far more value. The report reveals that the gap comes down to strategy, data, and governance",
-      "source": "VentureBeat",
-      "score": 9.9,
-      "published": "2026-07-30T07:00:00+00:00",
-      "fetched_at": "2026-07-30T17:37:02.376803+00:00"
-    },
-    {
-      "id": "62da5ea9173b",
-      "title": "OpenAI\u2019s runaway AI agent also compromised a cloud platform customer",
-      "url": "https://www.computerworld.com/article/4203049/openais-runaway-ai-agent-compromised-a-cloud-platform-customer.html",
-      "summary": "OpenAI\u2019s renegade AI agent, which carried out a high-profile breach of the AI platform Hugging Face, also reportedly compromised a customer of the cloud platform Modal Labs, according to Reuters.\n\n\n\nThe agent is said to have exploited a vulnerability in the customer\u2019s own code, where an unprotected endpoint allowed anyone to run code in an isolated test environment.\n\n\n\nModal Labs emphasized that its own infrastructure was not compromised and that the security isolation worked as intended.\n\n\n\nOpenAI declined to comment on the Modal case, but referred to a recent update in which the company conf",
-      "source": "Computerworld",
-      "score": 9.0,
-      "published": "2026-07-29T19:45:14+00:00",
-      "fetched_at": "2026-07-30T17:37:05.513009+00:00"
-    },
-    {
       "id": "aa3111da4189",
       "title": "From Tools To Governed Intelligence: Enterprise AI\u2019s Platform Moment",
       "url": "https://www.forbes.com/sites/timbajarin/2026/07/31/from-tools-to-governed-intelligence-enterprise-ais-platform-moment/",
@@ -79,16 +9,6 @@
       "score": 10.0,
       "published": "2026-07-31T14:00:00+00:00",
       "fetched_at": "2026-07-31T17:40:26.443063+00:00"
-    },
-    {
-      "id": "9327b8297589",
-      "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "source": "TechCrunch AI",
-      "score": 8.4,
-      "published": "2026-07-30T16:09:42+00:00",
-      "fetched_at": "2026-07-31T17:40:23.186857+00:00"
     },
     {
       "id": "866e7360332a",
@@ -101,37 +21,107 @@
       "fetched_at": "2026-07-31T17:40:26.442686+00:00"
     },
     {
-      "id": "97aec3fde336",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack\u00a0 It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
-      "source": "MIT Technology Review",
-      "score": 7.2,
-      "published": "2026-07-30T12:10:00+00:00",
-      "fetched_at": "2026-07-31T17:40:24.413869+00:00"
+      "id": "e0fc6ce445a7",
+      "title": "Structured AI data pipelines score 10.9 points below free-form code \u2014 DataFlow-Harness closes the gap",
+      "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+      "summary": "If you ask an AI coding agent to write a standalone Python script to parse a single JSON file, it will likely give you a perfect answer in seconds. But the same agent often breaks if you ask it to build a systematic data processing pipeline, like ingesting thousands of messy documents, chunking text, scoring quality, and filtering noise for a Retrieval-Augmented Generation (RAG) system that fits your specific enterprise stack.While large language models (LLMs) excel at one-off code generation, their outputs for complex data-processing tasks are typically free-form, disposable scripts. These sc",
+      "source": "VentureBeat",
+      "score": 13.2,
+      "published": "2026-07-31T21:19:09+00:00",
+      "fetched_at": "2026-08-01T16:55:37.796017+00:00"
     },
     {
-      "id": "f918508efc91",
-      "title": "20VC x SaaStr: Jensen\u2019s First Tweet Ever, The Agent That Rewrote My Code Without Telling Me, and Why The PE Turnaround Playbook Is Out Of Road",
-      "url": "https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/",
-      "summary": "This week on 20VC with Harry Stebbings and Rory O&#8217;Driscoll: the open-weights letter that Anthropic didn&#8217;t sign, the OpenAI agent that broke out of its sandbox and went hunting for test answers on Hugging Face, Etched raising $300M, Alphabet posting its first ever negative free cash flow, Travis Kalanick raising $1.7B, and Francisco Partners closing... Continue Reading",
+      "id": "7236af026033",
+      "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
+      "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
+      "summary": "The AI agent observability space is taking off \u2014 but how can enterprises be sure what observability products and solutions they need?Observability startup groudcover (lower case &quot;g&quot; intentional) announced this week that it raised $100 million in a round led by One Peak, bringing its total funding to $160 million. The company says it has more than 250 paying customers, tripled annual recurring revenue over the past year and is increasingly replacing established observability platforms inside enterprise environments. Those are company-reported figures, but together they point to growin",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-07-31T19:20:00+00:00",
+      "fetched_at": "2026-08-01T16:55:37.796194+00:00"
+    },
+    {
+      "id": "b21bc54d37d5",
+      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
+      "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+      "summary": "Days after OpenAI disclosed that two frontier AI models escaped containment measures and autonomously cyberattacked the AI code sharing platform Hugging Face, OpenAI&#x27;s top U.S. rival Anthropic tonight revealed that \u2014 lo and behold \u2014 it has also had models surreptitiously access the web when they weren&#x27;t supposed to, and cyberattack and gain &quot;unauthorized access&quot; to three other organizations.  Anthropic says that it ran &quot;capture the flag&quot; cybersecurity scenarios with three models \u2014 Claude Opus 4.7, Claude Mythos 5, and unnamed internal research prototype \u2014 with its",
+      "source": "VentureBeat",
+      "score": 4.4,
+      "published": "2026-07-31T01:45:07+00:00",
+      "fetched_at": "2026-08-01T16:55:37.796315+00:00"
+    },
+    {
+      "id": "763d5bf47ea6",
+      "title": "Within Uber-Waymo split, a key labor battle over AVs is being waged in the nation's capital",
+      "url": "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
+      "summary": "Uber and Waymo are increasingly at odds about the autonomous future, including in a labor battle over mass AV deployment in Washington, D.C.",
+      "source": "CNBC Economy",
+      "score": 4.0,
+      "published": "2026-08-01T14:10:03+00:00",
+      "fetched_at": "2026-08-01T16:55:36.764297+00:00"
+    },
+    {
+      "id": "7d9b3de69f22",
+      "title": "From Drones To Nuclear Reactors To Robots: An Engineer\u2019s Journey",
+      "url": "https://www.forbes.com/sites/johnwerner/2026/08/01/from-drones-to-nuclear-reactors-to-robots-an-engineers-journey/",
+      "summary": "Autonomous drones, intelligent robotics, and AI are reshaping defense by prioritizing protection over battlefield casualties.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-08-01T09:00:00+00:00",
+      "fetched_at": "2026-08-01T16:55:39.324229+00:00"
+    },
+    {
+      "id": "ae3d84f0caf9",
+      "title": "12 top productivity tips for Microsoft Edge",
+      "url": "https://www.computerworld.com/article/1613111/microsoft-edge-productivity-tips.html",
+      "summary": "We live and work in browsers. It\u2019s where we spend most of our time \u2014 and it\u2019s where we waste most of our time as well. Web browsing is slow, inefficient, and full of time-sapping annoyances.\n\n\n\nBut it needn\u2019t be that way. You can turn your browser into a lean, mean productivity machine. To do it, just follow these tips for Microsoft Edge in Windows 10 or 11. You\u2019ll learn how to switch between home and work profiles, put idle tabs to sleep to speed up your PC, tap into the power of Microsoft\u2019s Copilot AI assistant, and more.\n\n\n\n(Note that these tips are written for the most recently updated ver",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-07-31T11:00:00+00:00",
+      "fetched_at": "2026-08-01T16:55:40.774740+00:00"
+    },
+    {
+      "id": "e0336b6fd5b8",
+      "title": "Microsoft doubles down on multi-model AI as it builds a Copilot super app",
+      "url": "https://www.computerworld.com/article/4203702/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-3.html",
+      "summary": "All of the major AI providers want you to use, and ideally stay within, their super apps, and now Microsoft is looking to capture that attention, too.\n\n\n\nDuring an earnings call this week, CEO Satya Nadella confirmed that the tech giant is building a Copilot \u2018super app\u2019 that will be rolled out this quarter. The new platform will bring together various Copilot tools, including chat, Cowork, long-running Autopilot agents, and the always-on Microsoft Scout, powered by OpenClaw.\n\n\n\nMicrosoft said the super app will be wired into many of its other governance platforms, including Agent 365, IT Ops, ",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-07-31T02:13:46+00:00",
+      "fetched_at": "2026-08-01T16:55:40.774873+00:00"
+    },
+    {
+      "id": "f41c7307b777",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "summary": "As experts have warned for the last two years, some companies \u2014 like Microsoft and now Google \u2014 are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-07-30T18:57:58+00:00",
+      "fetched_at": "2026-08-01T16:55:35.660923+00:00"
+    },
+    {
+      "id": "becc55a2de80",
+      "title": "Dear SaaStr:  I Fired My VP of Sales.  What Now?",
+      "url": "https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/",
+      "summary": "Dear SaaStr: I Fired My VP of Sales. What Now? It&#8217;s tough and there may be some bumps.\u00a0 But honestly things probably will be better in just a week or two. What you do need to do is have a plan. You need to act fast and smart to stabilize and rebuild. Here\u2019s what you... Continue Reading",
       "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-07-30T15:08:48+00:00",
-      "fetched_at": "2026-07-31T17:40:25.454119+00:00"
+      "score": 3.3,
+      "published": "2026-08-01T10:00:00+00:00",
+      "fetched_at": "2026-08-01T16:55:38.246732+00:00"
+    },
+    {
+      "id": "b3d01534bbd0",
+      "title": "AI as an Enterprise Operating System",
+      "url": "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/",
+      "summary": "I hadn\u2019t heard of Dan Guido until a few months ago, when I came across the video of a talk he gave at [un]prompted, an AI security practitioners\u2019 conference. Dan is the CEO and cofounder of Trail of Bits, a software security research and development firm that works with companies in tech, defense, and finance. [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 3.3,
+      "published": "2026-07-31T16:09:24+00:00",
+      "fetched_at": "2026-08-01T16:55:41.379558+00:00"
     }
   ],
   "history": [
-    "https://www.saastr.com/hiring-risks-vs-hiring-flags/",
-    "https://www.fastcompany.com/91557448/your-business-doesnt-need-random-acts-of-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
-    "https://www.fastcompany.com/91557448/your-business-doesnt-need-random-acts-of-ai",
-    "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-    "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-    "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-    "https://www.fastcompany.com/91557210/apple-ios-27-siri-ai-artificial-intelligence-hardware-business-brand-company-future?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.forbes.com/sites/erikkain/2026/06/14/from-season-4-episode-8-review/",
-    "https://fortune.com/2026/06/14/vietnam-us-asean-business-council-economic-growth/",
     "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
     "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
     "https://www.fastcompany.com/91557323/6-skills-everyone-needs-in-the-ai-era?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +361,17 @@
     "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/31/beyond-model-loyalty-enterprise-ai-must-be-built-for-vendor-volatility/",
     "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/"
+    "https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/",
+    "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+    "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
+    "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+    "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
+    "https://www.forbes.com/sites/johnwerner/2026/08/01/from-drones-to-nuclear-reactors-to-robots-an-engineers-journey/",
+    "https://www.computerworld.com/article/1613111/microsoft-edge-productivity-tips.html",
+    "https://www.computerworld.com/article/4203702/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-3.html",
+    "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/",
+    "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/"
   ],
-  "generated_at": "2026-07-31T17:40:29.212072+00:00"
+  "generated_at": "2026-08-01T16:55:43.105813+00:00"
 }
