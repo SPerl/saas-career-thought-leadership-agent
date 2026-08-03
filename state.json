@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "7236af026033",
-      "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
-      "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
-      "summary": "The AI agent observability space is taking off \u2014 but how can enterprises be sure what observability products and solutions they need?Observability startup groudcover (lower case &quot;g&quot; intentional) announced this week that it raised $100 million in a round led by One Peak, bringing its total funding to $160 million. The company says it has more than 250 paying customers, tripled annual recurring revenue over the past year and is increasingly replacing established observability platforms inside enterprise environments. Those are company-reported figures, but together they point to growin",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-07-31T19:20:00+00:00",
-      "fetched_at": "2026-08-01T16:55:37.796194+00:00"
+      "id": "536a3df18ee5",
+      "title": "The AI boom has college majors of all types dabbling in computer science",
+      "url": "https://www.fastcompany.com/91584042/ai-boom-college-majors-all-types-dabbling-computer-science?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "With no background in coding, Faith Maeba, a psychology major, was reluctant when her mother first suggested she enroll in classes on artificial intelligence.But the senior at Virginia Commonwealth University began to see it differently as she looked into graduate psychology programs that explore human behavior in the workplace, which is quickly being upended by machine learning. Maeba, 21, is now pursuing a minor in AI.&#8220;It&#8217;s giving me an edge and standing out,&#8221; she said.Hiring has cooled for entry-level software developers \u2014 work increasingly done by AI agents \u2014 and college ",
+      "source": "Fast Company Tech",
+      "score": 8.8,
+      "published": "2026-08-03T15:40:35+00:00",
+      "fetched_at": "2026-08-03T17:53:02.773166+00:00"
     },
     {
-      "id": "b21bc54d37d5",
-      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
-      "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
-      "summary": "Days after OpenAI disclosed that two frontier AI models escaped containment measures and autonomously cyberattacked the AI code sharing platform Hugging Face, OpenAI&#x27;s top U.S. rival Anthropic tonight revealed that \u2014 lo and behold \u2014 it has also had models surreptitiously access the web when they weren&#x27;t supposed to, and cyberattack and gain &quot;unauthorized access&quot; to three other organizations.  Anthropic says that it ran &quot;capture the flag&quot; cybersecurity scenarios with three models \u2014 Claude Opus 4.7, Claude Mythos 5, and unnamed internal research prototype \u2014 with its",
-      "source": "VentureBeat",
-      "score": 4.4,
-      "published": "2026-07-31T01:45:07+00:00",
-      "fetched_at": "2026-08-01T16:55:37.796315+00:00"
+      "id": "567ed6b514b9",
+      "title": "Palantir earnings will test the real shape of enterprise AI",
+      "url": "https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Everyone has a statistic about enterprise AI. Depending on the survey you come across, 70% to 90% of projects never make it past the pilot stage. For the last two years, &#8220;pilot purgatory&#8221; has been enterprise AI&#8217;s defining narrative.\n\n\n\nThen came Palantir. If Wall Street wants proof that enterprise artificial intelligence has escaped the lab, few companies make a stronger case. Palantir has posted growth rates that would be extraordinary for a startup, let alone a company expected to top $7.6 billion in revenue this year. CEO Alex Karp told shareholders that the company\u2019s resu",
+      "source": "Fast Company Tech",
+      "score": 8.8,
+      "published": "2026-08-02T10:00:00+00:00",
+      "fetched_at": "2026-08-03T17:53:02.773664+00:00"
     },
     {
-      "id": "763d5bf47ea6",
-      "title": "Within Uber-Waymo split, a key labor battle over AVs is being waged in the nation's capital",
-      "url": "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
-      "summary": "Uber and Waymo are increasingly at odds about the autonomous future, including in a labor battle over mass AV deployment in Washington, D.C.",
-      "source": "CNBC Economy",
-      "score": 4.0,
-      "published": "2026-08-01T14:10:03+00:00",
-      "fetched_at": "2026-08-01T16:55:36.764297+00:00"
-    },
-    {
-      "id": "7d9b3de69f22",
-      "title": "From Drones To Nuclear Reactors To Robots: An Engineer\u2019s Journey",
-      "url": "https://www.forbes.com/sites/johnwerner/2026/08/01/from-drones-to-nuclear-reactors-to-robots-an-engineers-journey/",
-      "summary": "Autonomous drones, intelligent robotics, and AI are reshaping defense by prioritizing protection over battlefield casualties.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-08-01T09:00:00+00:00",
-      "fetched_at": "2026-08-01T16:55:39.324229+00:00"
-    },
-    {
-      "id": "ae3d84f0caf9",
-      "title": "12 top productivity tips for Microsoft Edge",
-      "url": "https://www.computerworld.com/article/1613111/microsoft-edge-productivity-tips.html",
-      "summary": "We live and work in browsers. It\u2019s where we spend most of our time \u2014 and it\u2019s where we waste most of our time as well. Web browsing is slow, inefficient, and full of time-sapping annoyances.\n\n\n\nBut it needn\u2019t be that way. You can turn your browser into a lean, mean productivity machine. To do it, just follow these tips for Microsoft Edge in Windows 10 or 11. You\u2019ll learn how to switch between home and work profiles, put idle tabs to sleep to speed up your PC, tap into the power of Microsoft\u2019s Copilot AI assistant, and more.\n\n\n\n(Note that these tips are written for the most recently updated ver",
+      "id": "c58d614bf72e",
+      "title": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch",
+      "url": "https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html",
+      "summary": "Alibaba on Monday introduced Qwen3.8-Max, its largest artificial intelligence model to date, expanding its enterprise AI portfolio with an open-weight model designed for software engineering, multimodal reasoning, and other knowledge-intensive business workloads.\n\n\n\nIn a\u00a0blog post\u00a0announcing the launch, Alibaba described Qwen3.8-Max as a 2.4-trillion-parameter mixture-of-experts (MoE) model that activates only about 95 billion parameters during inference.\n\n\n\nThe company said the architecture is intended to improve inference efficiency while supporting coding, reasoning and multimodal tasks, wi",
       "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-07-31T11:00:00+00:00",
-      "fetched_at": "2026-08-01T16:55:40.774740+00:00"
+      "score": 7.0,
+      "published": "2026-08-03T12:27:56+00:00",
+      "fetched_at": "2026-08-03T17:53:01.406643+00:00"
     },
     {
-      "id": "e0336b6fd5b8",
-      "title": "Microsoft doubles down on multi-model AI as it builds a Copilot super app",
-      "url": "https://www.computerworld.com/article/4203702/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-3.html",
-      "summary": "All of the major AI providers want you to use, and ideally stay within, their super apps, and now Microsoft is looking to capture that attention, too.\n\n\n\nDuring an earnings call this week, CEO Satya Nadella confirmed that the tech giant is building a Copilot \u2018super app\u2019 that will be rolled out this quarter. The new platform will bring together various Copilot tools, including chat, Cowork, long-running Autopilot agents, and the always-on Microsoft Scout, powered by OpenClaw.\n\n\n\nMicrosoft said the super app will be wired into many of its other governance platforms, including Agent 365, IT Ops, ",
-      "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-07-31T02:13:46+00:00",
-      "fetched_at": "2026-08-01T16:55:40.774873+00:00"
+      "id": "d75e4d74c560",
+      "title": "Palantir earnings will test the real shape of enterprise AI",
+      "url": "https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai",
+      "summary": "The company\u2019s growth suggests enterprise AI is moving beyond pilot projects. It also raises a harder question about whether customers are buying software they can deploy, or infrastructure they can\u2019t easily replace.\n\nEveryone has a statistic about enterprise AI. Depending on the survey you come across, 70% to 90% of projects never make it past the pilot stage. For the last two years, &#8220;pilot purgatory&#8221; has been enterprise AI&#8217;s defining narrative.",
+      "source": "Fast Company",
+      "score": 7.0,
+      "published": "2026-08-02T10:00:00+00:00",
+      "fetched_at": "2026-08-03T17:53:02.944499+00:00"
     },
     {
-      "id": "f41c7307b777",
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "summary": "As experts have warned for the last two years, some companies \u2014 like Microsoft and now Google \u2014 are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "id": "11e95122fa11",
+      "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
+      "url": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
+      "summary": "Presented by NTT DATA AIVista At VB Transform 2026, NTT DATA AIVista CEO Bratin Saha joined VentureBeat CEO and editor-in-chief Matt Marshall to discuss the last-mile challenge of operationalizing frontier models in regulated production, where reliability, context, guardrails, and security determine whether AI delivers enterprise value. The conversation centered around the question facing every enterprise now pouring money into AI: how to convert that spending into real, tangible value. &quot;It&#x27;s not just a model, you&#x27;re building a system around the model,&quot; Saha said. The last ",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-08-03T07:00:00+00:00",
+      "fetched_at": "2026-08-03T17:52:58.790064+00:00"
+    },
+    {
+      "id": "ed4593e1444b",
+      "title": "The AI boom has college majors of all types dabbling in computer science",
+      "url": "https://www.fastcompany.com/91584042/ai-boom-college-majors-all-types-dabbling-computer-science",
+      "summary": "Demand for AI literacy is on the rise with college students.\n\nWith no background in coding, Faith Maeba, a psychology major, was reluctant when her mother first suggested she enroll in classes on artificial intelligence.But the senior at Virginia Commonwealth University began to see it differently as she looked into graduate psychology programs that explore human behavior in the workplace, which is quickly being upended by machine learning. Maeba, 21, is now pursuing a minor in AI.&#8220;It&#8217;s giving me an edge and standing out,&#8221; she said.Hiring has cooled for entry-level software d",
+      "source": "Fast Company",
+      "score": 5.0,
+      "published": "2026-08-03T15:40:35+00:00",
+      "fetched_at": "2026-08-03T17:53:02.943848+00:00"
+    },
+    {
+      "id": "264557595479",
+      "title": "SoftBank, Hitachi, LG back Zenity\u2019s $125 million round to police AI agents",
+      "url": "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/",
+      "summary": "The round lands as Asian enterprises rush to deploy AI agents that touch \u201cevery aspect of the enterprise,\u201d in the words of CEO Ben Kliger.",
+      "source": "Fortune",
+      "score": 5.0,
+      "published": "2026-08-03T13:00:00+00:00",
+      "fetched_at": "2026-08-03T17:53:02.621082+00:00"
+    },
+    {
+      "id": "a7754f051081",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-08-03T10:00:00+00:00",
+      "fetched_at": "2026-08-03T17:52:56.885281+00:00"
+    },
+    {
+      "id": "72f55c675e27",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here\u2019s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren\u2019t trying to make money or commit sabotage\u2014they were&#8230;",
+      "source": "MIT Technology Review",
+      "score": 3.6,
+      "published": "2026-08-03T12:08:00+00:00",
+      "fetched_at": "2026-08-03T17:52:57.747160+00:00"
+    },
+    {
+      "id": "e4b3c3d5632c",
+      "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren\u2019t trying to make money or commit sabotage\u2014they were just looking for answers&#8230;",
+      "source": "MIT Technology Review",
+      "score": 3.6,
+      "published": "2026-08-03T08:30:05+00:00",
+      "fetched_at": "2026-08-03T17:52:57.747200+00:00"
+    },
+    {
+      "id": "c3a681b52914",
+      "title": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
       "source": "TechCrunch AI",
       "score": 3.6,
-      "published": "2026-07-30T18:57:58+00:00",
-      "fetched_at": "2026-08-01T16:55:35.660923+00:00"
+      "published": "2026-08-01T19:45:45+00:00",
+      "fetched_at": "2026-08-03T17:52:56.885341+00:00"
     },
     {
-      "id": "becc55a2de80",
-      "title": "Dear SaaStr:  I Fired My VP of Sales.  What Now?",
-      "url": "https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/",
-      "summary": "Dear SaaStr: I Fired My VP of Sales. What Now? It&#8217;s tough and there may be some bumps.\u00a0 But honestly things probably will be better in just a week or two. What you do need to do is have a plan. You need to act fast and smart to stabilize and rebuild. Here\u2019s what you... Continue Reading",
+      "id": "4b31ea62e469",
+      "title": "I Was Wrong About Marketing ROI. Here\u2019s What $100,000,000+ in Sponsorship Sales Taught Me.",
+      "url": "https://www.saastr.com/i-was-wrong-about-marketing-roi-heres-what-100000000-in-sponsorships-taught-me/",
+      "summary": "We&#8217;ve closed over $120,000,000+ in sponsorships at SaaStr over the years. And I&#8217;m still learning about real marketing ROI from them. For a long time, I thought most marketers were doing it backwards. Here&#8217;s the pattern I kept seeing: when a company&#8217;s growth was exploding, everyone wanted to sponsor everything. Events, podcasts, newsletters \u2014 all... Continue Reading",
       "source": "SaaStr",
       "score": 3.3,
-      "published": "2026-08-01T10:00:00+00:00",
-      "fetched_at": "2026-08-01T16:55:38.246732+00:00"
-    },
-    {
-      "id": "b3d01534bbd0",
-      "title": "AI as an Enterprise Operating System",
-      "url": "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/",
-      "summary": "I hadn\u2019t heard of Dan Guido until a few months ago, when I came across the video of a talk he gave at [un]prompted, an AI security practitioners\u2019 conference. Dan is the CEO and cofounder of Trail of Bits, a software security research and development firm that works with companies in tech, defense, and finance. [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 3.3,
-      "published": "2026-07-31T16:09:24+00:00",
-      "fetched_at": "2026-08-01T16:55:41.379558+00:00"
-    },
-    {
-      "id": "d750b522432c",
-      "title": "When a 3.8x \u201cExit\u201d Becomes 1.6x: The Gap Between Markups and Returns",
-      "url": "https://www.saastr.com/dilutionalwaysmore/",
-      "summary": "One of our older SaaStr Fund companies was recently acquired. It is selling for 3.8x what we paid to get in years ago. On paper that reads like a clean triple. We won&#8217;t make 1.6x. That gap, 3.8x on the marquee valuation versus under 1.6x in the bank, is one of the least understood dynamics... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-07-31T14:10:14+00:00",
-      "fetched_at": "2026-08-01T16:56:23.353706+00:00"
-    },
-    {
-      "id": "57d0a9046fc0",
-      "title": "This Week in AI: Agents, Gatekeepers, and World Models",
-      "url": "https://www.oreilly.com/radar/this-week-in-ai-agents-gatekeepers-and-world-models/",
-      "summary": "This week, data and AI evangelist Christina Stathopoulos looked at three developments shaping AI\u2019s next phase: agents that can act across systems, infrastructure built for specific models, and world models that help AI understand physical environments. Model quality is no longer the only constraint for teams. They also need to account for security controls, compute [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 3.3,
-      "published": "2026-07-31T13:02:06+00:00",
-      "fetched_at": "2026-08-01T16:56:42.686767+00:00"
-    },
-    {
-      "id": "1166552e6f4e",
-      "title": "Dear SaaStr:  How Do You Compensate Reps on Multi-Year Deals?",
-      "url": "https://www.saastr.com/jason-lemkin-interesting-startup-sales-incentive-plan-echosign-reps-compensated-multi-year-deals/",
-      "summary": "Dear SaaStr: How Do You Compensate Reps on Multi-Year Deals? In the early days, when Cash is King, pay the sales reps a full commission on all cash paid up-front.\u00a0 It&#8217;s what I did.\u00a0 95% of the time, this is what you want to do.\u00a0\u00a0 As as a SaaS founder, I paid nothing on multiyear... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-07-31T09:04:20+00:00",
-      "fetched_at": "2026-08-01T16:56:54.251930+00:00"
+      "published": "2026-08-03T14:10:22+00:00",
+      "fetched_at": "2026-08-03T17:52:59.073601+00:00"
     }
   ],
   "history": [
-    "https://www.businessinsider.com/user-increase-dod-workers-using-military-ai-program-daily-official-2026-6",
-    "https://www.fastcompany.com/91547150/business-products-services-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.forbes.com/sites/amd/2026/06/16/this-three-layer-customer-zero-strategy-is-how-amd-builds--scales-ai/",
-    "https://martinfowler.com/articles/reliable-llm-bayer.html",
-    "https://www.oreilly.com/radar/linear-thinking-nonlinear-costs/",
-    "https://www.fastcompany.com/91547084/ai-technology-solutions-world-changing-ideas-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html",
-    "https://www.fastcompany.com/91559841/aws-says-autonomous-ai-agents-are-ready-for-work-so-why-do-they-need-so-many-guardrails?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91559841/aws-says-autonomous-ai-agents-are-ready-for-work-so-why-do-they-need-so-many-guardrails",
-    "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
-    "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents",
-    "https://www.forbes.com/sites/peterhigh/2026/06/17/how-southwest-is-rewiring-itself-for-the-age-of-ai/",
     "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/",
     "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
     "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
@@ -371,7 +359,19 @@
     "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/",
     "https://www.saastr.com/dilutionalwaysmore/",
     "https://www.oreilly.com/radar/this-week-in-ai-agents-gatekeepers-and-world-models/",
-    "https://www.saastr.com/jason-lemkin-interesting-startup-sales-incentive-plan-echosign-reps-compensated-multi-year-deals/"
+    "https://www.saastr.com/jason-lemkin-interesting-startup-sales-incentive-plan-echosign-reps-compensated-multi-year-deals/",
+    "https://www.fastcompany.com/91584042/ai-boom-college-majors-all-types-dabbling-computer-science?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html",
+    "https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai",
+    "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
+    "https://www.fastcompany.com/91584042/ai-boom-college-majors-all-types-dabbling-computer-science",
+    "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/",
+    "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "https://www.saastr.com/i-was-wrong-about-marketing-roi-heres-what-100000000-in-sponsorships-taught-me/"
   ],
-  "generated_at": "2026-08-01T16:56:58.438268+00:00"
+  "generated_at": "2026-08-03T17:53:02.944607+00:00"
 }
