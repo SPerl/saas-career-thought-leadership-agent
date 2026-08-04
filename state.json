@@ -11,16 +11,6 @@
       "fetched_at": "2026-08-03T17:53:02.773166+00:00"
     },
     {
-      "id": "567ed6b514b9",
-      "title": "Palantir earnings will test the real shape of enterprise AI",
-      "url": "https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Everyone has a statistic about enterprise AI. Depending on the survey you come across, 70% to 90% of projects never make it past the pilot stage. For the last two years, &#8220;pilot purgatory&#8221; has been enterprise AI&#8217;s defining narrative.\n\n\n\nThen came Palantir. If Wall Street wants proof that enterprise artificial intelligence has escaped the lab, few companies make a stronger case. Palantir has posted growth rates that would be extraordinary for a startup, let alone a company expected to top $7.6 billion in revenue this year. CEO Alex Karp told shareholders that the company\u2019s resu",
-      "source": "Fast Company Tech",
-      "score": 8.8,
-      "published": "2026-08-02T10:00:00+00:00",
-      "fetched_at": "2026-08-03T17:53:02.773664+00:00"
-    },
-    {
       "id": "c58d614bf72e",
       "title": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch",
       "url": "https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html",
@@ -29,16 +19,6 @@
       "score": 7.0,
       "published": "2026-08-03T12:27:56+00:00",
       "fetched_at": "2026-08-03T17:53:01.406643+00:00"
-    },
-    {
-      "id": "d75e4d74c560",
-      "title": "Palantir earnings will test the real shape of enterprise AI",
-      "url": "https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai",
-      "summary": "The company\u2019s growth suggests enterprise AI is moving beyond pilot projects. It also raises a harder question about whether customers are buying software they can deploy, or infrastructure they can\u2019t easily replace.\n\nEveryone has a statistic about enterprise AI. Depending on the survey you come across, 70% to 90% of projects never make it past the pilot stage. For the last two years, &#8220;pilot purgatory&#8221; has been enterprise AI&#8217;s defining narrative.",
-      "source": "Fast Company",
-      "score": 7.0,
-      "published": "2026-08-02T10:00:00+00:00",
-      "fetched_at": "2026-08-03T17:53:02.944499+00:00"
     },
     {
       "id": "11e95122fa11",
@@ -109,12 +89,39 @@
       "score": 3.3,
       "published": "2026-08-03T14:10:22+00:00",
       "fetched_at": "2026-08-03T17:52:59.073601+00:00"
+    },
+    {
+      "id": "fd8f692b30bf",
+      "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
+      "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+      "summary": "Chinese e-commerce and cloud giant Alibaba&#x27;s famed Qwen team of AI researchers last night unveiled Qwen3.8-Max, a new flagship 2.4-trillion-parameter mixture-of-experts (MoE) multimodal large language model (LLM) that targets one of the most competitive corners of the frontier AI market: autonomous software engineering and long-horizon enterprise work. If the company&#x27;s published benchmarks hold up under broader independent testing, Qwen3.8-Max doesn&#x27;t merely compete with today&#x27;s leading proprietary models \u2014 it surpasses several of them on some key benchmarks in agentic comp",
+      "source": "VentureBeat",
+      "score": 17.6,
+      "published": "2026-08-03T23:50:58+00:00",
+      "fetched_at": "2026-08-04T17:50:19.689109+00:00"
+    },
+    {
+      "id": "17c3fd6f9f4c",
+      "title": "AI agents get better at IT ops, but only with humans in the loop",
+      "url": "https://www.computerworld.com/article/4205062/ai-agents-get-better-at-it-ops-but-only-with-humans-in-the-loop.html",
+      "summary": "AI agents are performing roughly 1 in 3 actions in enterprise IT workflows (but that share is rising quickly), while human analysts are rejecting about one-quarter of AI-proposed actions (but that rate is falling), according to a new study of tens of thousands of human-AI interactions. Operational data, rather than underlying AI infrastructures, is often the culprit when things go wrong.\n\n\n\nHuman analysts are approving the most consequential actions, managing exceptions, and supervising and shaping agentic systems, while AI agents are carrying out routine tasks and executions, automation platf",
+      "source": "Computerworld",
+      "score": 12.0,
+      "published": "2026-08-04T14:53:01+00:00",
+      "fetched_at": "2026-08-04T17:50:21.899786+00:00"
+    },
+    {
+      "id": "434fd6f90bd9",
+      "title": "Asana's AI agents share memory across your company \u2014 but not your secrets",
+      "url": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
+      "summary": "Enterprise teams building AI agents keep hitting the same wall: a chatbot that can answer a prompt but can&#x27;t remember what the last five people asked it, and can&#x27;t tell you whether last month&#x27;s version actually worked.In a fireside chat with VentureBeat&#x27;s Sam Witteveen at VB Transform 2026, Asana&#x27;s chief product officer, Arnab Bose, unpacked how his team tackled this problem to build a new operating system: Agentic Work Management (AWM). The product treats AI agents as coachable teammates that operate alongside humans rather than as one-to-one assistants.For product bu",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-08-03T23:14:48+00:00",
+      "fetched_at": "2026-08-04T17:50:19.689184+00:00"
     }
   ],
   "history": [
-    "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/",
-    "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
-    "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
     "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91550776/rajiv-dattani-is-bringing-insurance-to-the-ai-agent-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91550806/dropzone-ais-edward-wu-wants-ai-agents-to-fight-cyberattacks?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -361,7 +368,10 @@
     "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "https://www.saastr.com/i-was-wrong-about-marketing-roi-heres-what-100000000-in-sponsorships-taught-me/"
+    "https://www.saastr.com/i-was-wrong-about-marketing-roi-heres-what-100000000-in-sponsorships-taught-me/",
+    "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+    "https://www.computerworld.com/article/4205062/ai-agents-get-better-at-it-ops-but-only-with-humans-in-the-loop.html",
+    "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets"
   ],
-  "generated_at": "2026-08-03T21:47:54.415238+00:00"
+  "generated_at": "2026-08-04T17:50:23.736997+00:00"
 }
