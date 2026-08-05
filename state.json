@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "536a3df18ee5",
-      "title": "The AI boom has college majors of all types dabbling in computer science",
-      "url": "https://www.fastcompany.com/91584042/ai-boom-college-majors-all-types-dabbling-computer-science?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "With no background in coding, Faith Maeba, a psychology major, was reluctant when her mother first suggested she enroll in classes on artificial intelligence.But the senior at Virginia Commonwealth University began to see it differently as she looked into graduate psychology programs that explore human behavior in the workplace, which is quickly being upended by machine learning. Maeba, 21, is now pursuing a minor in AI.&#8220;It&#8217;s giving me an edge and standing out,&#8221; she said.Hiring has cooled for entry-level software developers \u2014 work increasingly done by AI agents \u2014 and college ",
-      "source": "Fast Company Tech",
-      "score": 8.8,
-      "published": "2026-08-03T15:40:35+00:00",
-      "fetched_at": "2026-08-03T17:53:02.773166+00:00"
-    },
-    {
-      "id": "c58d614bf72e",
-      "title": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch",
-      "url": "https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html",
-      "summary": "Alibaba on Monday introduced Qwen3.8-Max, its largest artificial intelligence model to date, expanding its enterprise AI portfolio with an open-weight model designed for software engineering, multimodal reasoning, and other knowledge-intensive business workloads.\n\n\n\nIn a\u00a0blog post\u00a0announcing the launch, Alibaba described Qwen3.8-Max as a 2.4-trillion-parameter mixture-of-experts (MoE) model that activates only about 95 billion parameters during inference.\n\n\n\nThe company said the architecture is intended to improve inference efficiency while supporting coding, reasoning and multimodal tasks, wi",
-      "source": "Computerworld",
-      "score": 7.0,
-      "published": "2026-08-03T12:27:56+00:00",
-      "fetched_at": "2026-08-03T17:53:01.406643+00:00"
-    },
-    {
-      "id": "11e95122fa11",
-      "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
-      "url": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
-      "summary": "Presented by NTT DATA AIVista At VB Transform 2026, NTT DATA AIVista CEO Bratin Saha joined VentureBeat CEO and editor-in-chief Matt Marshall to discuss the last-mile challenge of operationalizing frontier models in regulated production, where reliability, context, guardrails, and security determine whether AI delivers enterprise value. The conversation centered around the question facing every enterprise now pouring money into AI: how to convert that spending into real, tangible value. &quot;It&#x27;s not just a model, you&#x27;re building a system around the model,&quot; Saha said. The last ",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-08-03T17:52:58.790064+00:00"
-    },
-    {
-      "id": "ed4593e1444b",
-      "title": "The AI boom has college majors of all types dabbling in computer science",
-      "url": "https://www.fastcompany.com/91584042/ai-boom-college-majors-all-types-dabbling-computer-science",
-      "summary": "Demand for AI literacy is on the rise with college students.\n\nWith no background in coding, Faith Maeba, a psychology major, was reluctant when her mother first suggested she enroll in classes on artificial intelligence.But the senior at Virginia Commonwealth University began to see it differently as she looked into graduate psychology programs that explore human behavior in the workplace, which is quickly being upended by machine learning. Maeba, 21, is now pursuing a minor in AI.&#8220;It&#8217;s giving me an edge and standing out,&#8221; she said.Hiring has cooled for entry-level software d",
-      "source": "Fast Company",
-      "score": 5.0,
-      "published": "2026-08-03T15:40:35+00:00",
-      "fetched_at": "2026-08-03T17:53:02.943848+00:00"
-    },
-    {
-      "id": "264557595479",
-      "title": "SoftBank, Hitachi, LG back Zenity\u2019s $125 million round to police AI agents",
-      "url": "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/",
-      "summary": "The round lands as Asian enterprises rush to deploy AI agents that touch \u201cevery aspect of the enterprise,\u201d in the words of CEO Ben Kliger.",
-      "source": "Fortune",
-      "score": 5.0,
-      "published": "2026-08-03T13:00:00+00:00",
-      "fetched_at": "2026-08-03T17:53:02.621082+00:00"
-    },
-    {
-      "id": "a7754f051081",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-08-03T10:00:00+00:00",
-      "fetched_at": "2026-08-03T17:52:56.885281+00:00"
-    },
-    {
-      "id": "72f55c675e27",
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here\u2019s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren\u2019t trying to make money or commit sabotage\u2014they were&#8230;",
-      "source": "MIT Technology Review",
-      "score": 3.6,
-      "published": "2026-08-03T12:08:00+00:00",
-      "fetched_at": "2026-08-03T17:52:57.747160+00:00"
-    },
-    {
-      "id": "e4b3c3d5632c",
-      "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren\u2019t trying to make money or commit sabotage\u2014they were just looking for answers&#8230;",
-      "source": "MIT Technology Review",
-      "score": 3.6,
-      "published": "2026-08-03T08:30:05+00:00",
-      "fetched_at": "2026-08-03T17:52:57.747200+00:00"
-    },
-    {
-      "id": "4b31ea62e469",
-      "title": "I Was Wrong About Marketing ROI. Here\u2019s What $100,000,000+ in Sponsorship Sales Taught Me.",
-      "url": "https://www.saastr.com/i-was-wrong-about-marketing-roi-heres-what-100000000-in-sponsorships-taught-me/",
-      "summary": "We&#8217;ve closed over $120,000,000+ in sponsorships at SaaStr over the years. And I&#8217;m still learning about real marketing ROI from them. For a long time, I thought most marketers were doing it backwards. Here&#8217;s the pattern I kept seeing: when a company&#8217;s growth was exploding, everyone wanted to sponsor everything. Events, podcasts, newsletters \u2014 all... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-08-03T14:10:22+00:00",
-      "fetched_at": "2026-08-03T17:52:59.073601+00:00"
-    },
-    {
       "id": "fd8f692b30bf",
       "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
       "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
@@ -119,18 +29,99 @@
       "score": 8.8,
       "published": "2026-08-03T23:14:48+00:00",
       "fetched_at": "2026-08-04T17:50:19.689184+00:00"
+    },
+    {
+      "id": "932bf95797c0",
+      "title": "What Salesforce's \u2018No Browser Required\u2019 Moment Means For Enterprise Software",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/what-salesforces-no-browser-required-moment-means-for-enterprise-software/",
+      "summary": "This is the real architecture problem facing every incumbent SaaS vendor making the agentic turn: The business model transition is harder than the technical one.",
+      "source": "Forbes Innovation",
+      "score": 12.0,
+      "published": "2026-08-05T15:15:00+00:00",
+      "fetched_at": "2026-08-05T17:40:38.561473+00:00"
+    },
+    {
+      "id": "04b00e57b108",
+      "title": "AI is exposing the limits of traditional network architecture",
+      "url": "https://venturebeat.com/infrastructure/ai-is-exposing-the-limits-of-traditional-network-architecture",
+      "summary": "Presented by Tata Communications Continuous inference, agent-to-agent communication, and real-time data pipelines are generating unpredictable, always-on traffic that legacy architectures were never built to support. As AI moves from pilot project to operational backbone, the network is emerging as a critical control layer that determines performance, reliability, and cost. The shift is forcing organizations to question assumptions that have held for decades. Legacy systems were static and rigid, and lacked the ability to manage network demand efficiently or dynamically, while AI-ready network",
+      "source": "VentureBeat",
+      "score": 7.7,
+      "published": "2026-08-05T07:00:00+00:00",
+      "fetched_at": "2026-08-05T17:40:37.219408+00:00"
+    },
+    {
+      "id": "88fd3afa9dec",
+      "title": "AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff",
+      "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
+      "summary": "Hark, the secretive AI startup founded earlier this year by serial entrepreneur and roboticist Brett Adcock, today announced Handoff, a &quot;computer use agent&quot; (CUA) that it says is among the top-performing in the world at navigating the open web on a user&#x27;s behalf \u2014 ordering dinner on DoorDash, booking flights on United and Delta, or messaging job candidates on LinkedIn \u2014 all autonomously, end-to-end.Sign-ups open to the public today at hark.com, with availability planned for later this month as part of the initial release of Hark&#x27;s software platform.The company says Handoff ",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-08-05T15:42:43+00:00",
+      "fetched_at": "2026-08-05T17:40:37.219326+00:00"
+    },
+    {
+      "id": "b0950fe486a7",
+      "title": "AI coding agents are blowing through budgets \u2014 Replit, Kilo Code, and Symbotic explain how they're managing it",
+      "url": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
+      "summary": "At Kilo Code, engineers are reading or writing code themselves only about 1% of the time now, according to co-founder Emilie Schario \u2014 the rest is agents. That shift is forcing new questions onto dev teams: which systems are safe to hand over, who cleans up when models goof up, how to support multi-model architectures, and whether skyrocketing token bills mean real progress or just burned IT budget.As far as tech leads from Replit, Kilo Code, and Symbotic are concerned, it\u2019s a natural \u2014 and welcome \u2014 evolution as agentic AI becomes embedded into more and more enterprise workflows. \u201cUnless some",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-08-04T17:16:41+00:00",
+      "fetched_at": "2026-08-05T17:40:37.219484+00:00"
+    },
+    {
+      "id": "b4c327c6a159",
+      "title": "This startup that just raised $6.5 million bets the next big side hustle is controlling robots with VR headsets",
+      "url": "https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8",
+      "summary": "Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.",
+      "source": "Business Insider",
+      "score": 5.0,
+      "published": "2026-08-05T15:00:01+00:00",
+      "fetched_at": "2026-08-05T17:40:40.612765+00:00"
+    },
+    {
+      "id": "a6a73dc017aa",
+      "title": "Agentic AI Isn\u2019t Just Another Technology Wave. It\u2019s The Next Enterprise Operating Model",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/agentic-ai-isnt-just-another-technology-wave-its-the-next-enterprise-operating-model/",
+      "summary": "The value of agentic AI is not in the technology but in redesign.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-08-05T15:00:00+00:00",
+      "fetched_at": "2026-08-05T17:40:38.561566+00:00"
+    },
+    {
+      "id": "23bacd61e7aa",
+      "title": "The Hidden Risk In Enterprise AI: AI Fluency",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/the-hidden-risk-in-enterprise-ai-ai-fluency/",
+      "summary": "Fluency is about understanding what AI can realistically do, where it breaks and what it changes inside your business model.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-08-05T14:30:00+00:00",
+      "fetched_at": "2026-08-05T17:40:38.561720+00:00"
+    },
+    {
+      "id": "0f53decaf7c8",
+      "title": "5 Interesting Learnings from Palantir at $7.7 Billion ARR: 93% Growth (!), 157% NRR, and a Rule of 40 Score of 155%",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-palantir-at-7-7-billion-arr-93-growth-157-nrr-and-a-rule-of-40-score-of-155/",
+      "summary": "Almost everyone's growth rate decays at scale Not Palantir. It just pulled off a quarter (and a year) like we've never seen: &#8211; Revenue grew 93% year-over-year to $1.935 billion&#8211; The twelfth consecutive quarter of accelerating growth&#8211; 47% GAAP operating margins&#8211; The company\u2026 pic.twitter.com/iyfdvFXk0r &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) August 4, 2026 Palantir just posted... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-08-04T14:10:17+00:00",
+      "fetched_at": "2026-08-05T17:40:37.747532+00:00"
+    },
+    {
+      "id": "a21d180516b2",
+      "title": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-08-04T19:28:49+00:00",
+      "fetched_at": "2026-08-05T17:40:35.496282+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91550776/rajiv-dattani-is-bringing-insurance-to-the-ai-agent-boom?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91550806/dropzone-ais-edward-wu-wants-ai-agents-to-fight-cyberattacks?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91550802/awss-swami-sivasubramanian-is-building-the-cloud-for-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91550756/kari-briski-is-making-sure-nvidia-can-handle-the-agentic-ai-boom",
-    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "https://www.fastcompany.com/91560768/claude-is-becoming-more-agentic-amanda-askell-is-thinking-through-what-that-means?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.saastr.com/how-attention-com-turns-sales-calls-into-pipeline-the-best-gtm-data-you-own-and-why-most-b2b-teams-throw-it-away/",
-    "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
     "https://www.fastcompany.com/91550763/chelsea-finn-wants-robots-to-get-better-at-learning?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
     "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
@@ -371,7 +362,16 @@
     "https://www.saastr.com/i-was-wrong-about-marketing-roi-heres-what-100000000-in-sponsorships-taught-me/",
     "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
     "https://www.computerworld.com/article/4205062/ai-agents-get-better-at-it-ops-but-only-with-humans-in-the-loop.html",
-    "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets"
+    "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/what-salesforces-no-browser-required-moment-means-for-enterprise-software/",
+    "https://venturebeat.com/infrastructure/ai-is-exposing-the-limits-of-traditional-network-architecture",
+    "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
+    "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
+    "https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/agentic-ai-isnt-just-another-technology-wave-its-the-next-enterprise-operating-model/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/the-hidden-risk-in-enterprise-ai-ai-fluency/",
+    "https://www.saastr.com/5-interesting-learnings-from-palantir-at-7-7-billion-arr-93-growth-157-nrr-and-a-rule-of-40-score-of-155/",
+    "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
   ],
-  "generated_at": "2026-08-04T17:50:23.736997+00:00"
+  "generated_at": "2026-08-05T17:40:41.238673+00:00"
 }
