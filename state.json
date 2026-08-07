@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "fd8f692b30bf",
-      "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
-      "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
-      "summary": "Chinese e-commerce and cloud giant Alibaba&#x27;s famed Qwen team of AI researchers last night unveiled Qwen3.8-Max, a new flagship 2.4-trillion-parameter mixture-of-experts (MoE) multimodal large language model (LLM) that targets one of the most competitive corners of the frontier AI market: autonomous software engineering and long-horizon enterprise work. If the company&#x27;s published benchmarks hold up under broader independent testing, Qwen3.8-Max doesn&#x27;t merely compete with today&#x27;s leading proprietary models \u2014 it surpasses several of them on some key benchmarks in agentic comp",
-      "source": "VentureBeat",
-      "score": 17.6,
-      "published": "2026-08-03T23:50:58+00:00",
-      "fetched_at": "2026-08-04T17:50:19.689109+00:00"
+      "id": "57370f258721",
+      "title": "Enterprise AI doesn\u2019t need another app: it needs its language",
+      "url": "https://www.fastcompany.com/91584370/enterprise-ai-doesnt-need-another-app-it-needs-its-language?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "For the past two years, companies have been asking the same question in slightly different forms: which AI application should we build next?&nbsp;\n\n\n\nA customer service agent? A sales copilot? A procurement assistant? A coding agent? A research assistant? A workflow automation layer? A chatbot connected to internal data? A model wrapped in a user interface and connected to tools?\n\n\n\nAll of that makes sense. It is how every new computing era begins. First, people try to build applications directly on top of the new substrate. They use whatever tools already exist, wrap the new capability in fam",
+      "source": "Fast Company Tech",
+      "score": 14.3,
+      "published": "2026-08-07T08:30:00+00:00",
+      "fetched_at": "2026-08-07T16:56:04.446409+00:00"
     },
     {
-      "id": "17c3fd6f9f4c",
-      "title": "AI agents get better at IT ops, but only with humans in the loop",
-      "url": "https://www.computerworld.com/article/4205062/ai-agents-get-better-at-it-ops-but-only-with-humans-in-the-loop.html",
-      "summary": "AI agents are performing roughly 1 in 3 actions in enterprise IT workflows (but that share is rising quickly), while human analysts are rejecting about one-quarter of AI-proposed actions (but that rate is falling), according to a new study of tens of thousands of human-AI interactions. Operational data, rather than underlying AI infrastructures, is often the culprit when things go wrong.\n\n\n\nHuman analysts are approving the most consequential actions, managing exceptions, and supervising and shaping agentic systems, while AI agents are carrying out routine tasks and executions, automation platf",
+      "id": "27d768f108b8",
+      "title": "Cloudflare wants to provide the operating system for the AI-first enterprise",
+      "url": "https://www.computerworld.com/article/4206390/cloudflare-wants-to-provide-the-operating-system-for-the-ai-first-enterprise-2.html",
+      "summary": "Traditional operating systems (OS) were built to manage hardware, files, apps, and users on a device, but Cloudflare says the agentic AI era requires a whole new format.\n\n\n\nThe company this week announced Cloudflare OS, which connects AI agents, enterprise data and context, internal systems, and workflows together in one secure workspace. It is open source and browser-based, sparing companies the need to build all-new infrastructure.\n\n\n\nThe OS is launching alongside several other new security, identity, spending, and user insight tools that Cloudflare has built for the AI-based workplace.\n\n\n\n\u201c",
       "source": "Computerworld",
-      "score": 12.0,
-      "published": "2026-08-04T14:53:01+00:00",
-      "fetched_at": "2026-08-04T17:50:21.899786+00:00"
+      "score": 11.0,
+      "published": "2026-08-07T00:31:56+00:00",
+      "fetched_at": "2026-08-07T16:56:02.075824+00:00"
     },
     {
-      "id": "434fd6f90bd9",
-      "title": "Asana's AI agents share memory across your company \u2014 but not your secrets",
-      "url": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
-      "summary": "Enterprise teams building AI agents keep hitting the same wall: a chatbot that can answer a prompt but can&#x27;t remember what the last five people asked it, and can&#x27;t tell you whether last month&#x27;s version actually worked.In a fireside chat with VentureBeat&#x27;s Sam Witteveen at VB Transform 2026, Asana&#x27;s chief product officer, Arnab Bose, unpacked how his team tackled this problem to build a new operating system: Agentic Work Management (AWM). The product treats AI agents as coachable teammates that operate alongside humans rather than as one-to-one assistants.For product bu",
+      "id": "98796c6fa75f",
+      "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
+      "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
+      "summary": "Earlier this week, the AI startup Liquid, formed in 2023 by former MIT computer scientists, debuted LFM2.5-2.6B, a new open-weight language model designed specifically for agentic workloads. In release materials and a recent interview with VentureBeat, Liquid&#x27;s researchers said LFM2.5-2.6B can run entirely on local hardware \u2014 from smartphones and laptops down to a Raspberry Pi \u2014 without relying on cloud inference or GPUs, unlocking edge AI applications and giving more options to enterprises working in regulated industries or with sensitive information they don&#x27;t want to send up to th",
       "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-08-06T22:56:06+00:00",
+      "fetched_at": "2026-08-07T16:55:58.703383+00:00"
+    },
+    {
+      "id": "910c3fed6971",
+      "title": "I Bought 30+ APIs This Year. Only Exa Asked How It Went. Copy Them.",
+      "url": "https://www.saastr.com/i-bought-30-apis-this-year-only-exa-asked-how-it-went-copy-them/",
+      "summary": "Four sentences, from a real PM, timed off actual usage. It got a 400-word product spec back. We run 21+ AI agents in production at SaaStr, and we&#8217;re building SaaStr AI Connect on top of them. That means a lot of API signups: search, enrichment, structured data, email infrastructure, inference, storage. Somewhere north of 30... Continue Reading",
+      "source": "SaaStr",
+      "score": 9.9,
+      "published": "2026-08-06T14:10:33+00:00",
+      "fetched_at": "2026-08-07T16:55:59.267416+00:00"
+    },
+    {
+      "id": "13c15ec6f94a",
+      "title": "Your AI Agent Isn\u2019t a Static Artifact. It\u2019s Growing Up.",
+      "url": "https://www.oreilly.com/radar/your-ai-agent-isnt-a-static-artifact-its-growing-up/",
+      "summary": "In July 2025, an AI coding agent on Replit deleted a production database belonging to SaaStr founder Jason Lemkin. It did this during an explicit code freeze. Lemkin had told the agent, in capital letters, not to change anything. The agent ran destructive commands anyway, wiped records on more than a thousand executives and companies, [&#8230;]",
+      "source": "O'Reilly Radar",
       "score": 8.8,
-      "published": "2026-08-03T23:14:48+00:00",
-      "fetched_at": "2026-08-04T17:50:19.689184+00:00"
+      "published": "2026-08-06T10:55:59+00:00",
+      "fetched_at": "2026-08-07T16:56:02.427389+00:00"
     },
     {
-      "id": "932bf95797c0",
-      "title": "What Salesforce's \u2018No Browser Required\u2019 Moment Means For Enterprise Software",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/what-salesforces-no-browser-required-moment-means-for-enterprise-software/",
-      "summary": "This is the real architecture problem facing every incumbent SaaS vendor making the agentic turn: The business model transition is harder than the technical one.",
+      "id": "62678037a7fe",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-08-07T16:16:09+00:00",
+      "fetched_at": "2026-08-07T16:55:56.347259+00:00"
+    },
+    {
+      "id": "2932eeb5e628",
+      "title": "Why 'Alpha' Is The Most Important Word In Enterprise AI Right Now",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/07/why-alpha-is-the-most-important-word-in-enterprise-ai-right-now/",
+      "summary": "Trust in how AI touches your data is becoming the actual competitive battleground.  \u200b",
       "source": "Forbes Innovation",
-      "score": 12.0,
-      "published": "2026-08-05T15:15:00+00:00",
-      "fetched_at": "2026-08-05T17:40:38.561473+00:00"
+      "score": 6.0,
+      "published": "2026-08-07T15:45:00+00:00",
+      "fetched_at": "2026-08-07T16:56:00.490457+00:00"
     },
     {
-      "id": "04b00e57b108",
-      "title": "AI is exposing the limits of traditional network architecture",
-      "url": "https://venturebeat.com/infrastructure/ai-is-exposing-the-limits-of-traditional-network-architecture",
-      "summary": "Presented by Tata Communications Continuous inference, agent-to-agent communication, and real-time data pipelines are generating unpredictable, always-on traffic that legacy architectures were never built to support. As AI moves from pilot project to operational backbone, the network is emerging as a critical control layer that determines performance, reliability, and cost. The shift is forcing organizations to question assumptions that have held for decades. Legacy systems were static and rigid, and lacked the ability to manage network demand efficiently or dynamically, while AI-ready network",
-      "source": "VentureBeat",
-      "score": 7.7,
-      "published": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-05T17:40:37.219408+00:00"
+      "id": "e3ba50579015",
+      "title": "Enterprise AI doesn\u2019t need another app: it needs its language",
+      "url": "https://www.fastcompany.com/91584370/enterprise-ai-doesnt-need-another-app-it-needs-its-language",
+      "summary": "The history of computing contains a recurring pattern: the infrastructure arrives first, and the language that makes it productive arrives later.\n\nFor the past two years, companies have been asking the same question in slightly different forms: which AI application should we build next?&nbsp;",
+      "source": "Fast Company",
+      "score": 6.0,
+      "published": "2026-08-07T08:30:00+00:00",
+      "fetched_at": "2026-08-07T16:56:04.820813+00:00"
     },
     {
-      "id": "88fd3afa9dec",
-      "title": "AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff",
-      "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
-      "summary": "Hark, the secretive AI startup founded earlier this year by serial entrepreneur and roboticist Brett Adcock, today announced Handoff, a &quot;computer use agent&quot; (CUA) that it says is among the top-performing in the world at navigating the open web on a user&#x27;s behalf \u2014 ordering dinner on DoorDash, booking flights on United and Delta, or messaging job candidates on LinkedIn \u2014 all autonomously, end-to-end.Sign-ups open to the public today at hark.com, with availability planned for later this month as part of the initial release of Hark&#x27;s software platform.The company says Handoff ",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-08-05T15:42:43+00:00",
-      "fetched_at": "2026-08-05T17:40:37.219326+00:00"
-    },
-    {
-      "id": "b0950fe486a7",
-      "title": "AI coding agents are blowing through budgets \u2014 Replit, Kilo Code, and Symbotic explain how they're managing it",
-      "url": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
-      "summary": "At Kilo Code, engineers are reading or writing code themselves only about 1% of the time now, according to co-founder Emilie Schario \u2014 the rest is agents. That shift is forcing new questions onto dev teams: which systems are safe to hand over, who cleans up when models goof up, how to support multi-model architectures, and whether skyrocketing token bills mean real progress or just burned IT budget.As far as tech leads from Replit, Kilo Code, and Symbotic are concerned, it\u2019s a natural \u2014 and welcome \u2014 evolution as agentic AI becomes embedded into more and more enterprise workflows. \u201cUnless some",
+      "id": "41c0d742d84c",
+      "title": "Tencent's Team Memory shares AI agent memory across a team \u2014 with no governance yet for when it's wrong",
+      "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
+      "summary": "A VB Pulse survey this June found that 57% of enterprises had traced a confidently wrong agent answer back to missing or inconsistent context \u2014 the latest sign of how central context has become to whether AI agents can be trusted to act on their own.Most of the fixes so far have solved a narrower version of that problem: one agent remembering more, in one session. What&#x27;s been missing is a way for a team of agents to draw on the same context at once, and that gap is where a newer problem is surfacing. Once an agent&#x27;s context is shared across a whole team, a wrong fact doesn&#x27;t cos",
       "source": "VentureBeat",
       "score": 5.5,
-      "published": "2026-08-04T17:16:41+00:00",
-      "fetched_at": "2026-08-05T17:40:37.219484+00:00"
+      "published": "2026-08-07T16:30:29+00:00",
+      "fetched_at": "2026-08-07T16:55:58.703287+00:00"
     },
     {
-      "id": "b4c327c6a159",
-      "title": "This startup that just raised $6.5 million bets the next big side hustle is controlling robots with VR headsets",
-      "url": "https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8",
-      "summary": "Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.",
-      "source": "Business Insider",
+      "id": "caaeb5e8598d",
+      "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
+      "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
+      "summary": "Meta today released Muse Code, a terminal-based AI coding agent now in beta, alongside Muse Spark 1.2, a coding-focused update to its Muse Spark family of frontier models \u2014 a one-two punch that puts the company in direct competition with Anthropic&#x27;s Claude Code, OpenAI&#x27;s Codex, and the growing field of agentic coding harnesses that have rapidly become the primary way many professional developers ship software.&quot;Releasing Muse Code in beta today,&quot; Meta co-founder and CEO Mark Zuckerberg wrote in a post on rival social network X (under his longtime handle @finkd). &quot;It&#x2",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-08-05T21:00:10+00:00",
+      "fetched_at": "2026-08-07T16:55:58.703747+00:00"
+    },
+    {
+      "id": "4321fdd6b26c",
+      "title": "Airtable joins Evernote, Brightcove, WeTransfer and AOL in Bending Spoons portfolio",
+      "url": "https://www.computerworld.com/article/4206777/airtable-joins-evernote-brightcove-wetransfer-and-aol-in-bending-spoons-portfolio-2.html",
+      "summary": "Bending Spoons has snapped up Airtable to add to its portfolio of software companies, alongside AOL, Evernote, WeTransfer, Brightcove and Vimeo\n\n\n\nAirtable made its name as a builder of low/no code database services, aimed particularly at non-technical staff, but is now one of many vendors facing financial difficulties in the face of the SaaS/AIpocalypse. The arrival of AI coding tools, which offer non-technical employees more flexible ways to build business applications, has hit demand for its services.\n\n\n\nBending Spoons bought Airtable in a deal it valued at just $1.285 billion, a far cry fr",
+      "source": "Computerworld",
       "score": 5.0,
-      "published": "2026-08-05T15:00:01+00:00",
-      "fetched_at": "2026-08-05T17:40:40.612765+00:00"
+      "published": "2026-08-07T14:35:33+00:00",
+      "fetched_at": "2026-08-07T16:56:02.075623+00:00"
     },
     {
-      "id": "a6a73dc017aa",
-      "title": "Agentic AI Isn\u2019t Just Another Technology Wave. It\u2019s The Next Enterprise Operating Model",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/agentic-ai-isnt-just-another-technology-wave-its-the-next-enterprise-operating-model/",
-      "summary": "The value of agentic AI is not in the technology but in redesign.",
+      "id": "fe50c2f8c144",
+      "title": "Geoffrey Hinton Warns AI May Outsmart Humans As Agents Escape Tests",
+      "url": "https://www.forbes.com/sites/timbajarin/2026/08/07/geoffrey-hinton-warns-ai-may-outsmart-humans-as-agents-escape-tests/",
+      "summary": "Geoffrey Hinton warns AI may outsmart humans as agentic systems breach testing environments, exposing critical safety gaps for enterprise leaders.",
       "source": "Forbes Innovation",
       "score": 5.0,
-      "published": "2026-08-05T15:00:00+00:00",
-      "fetched_at": "2026-08-05T17:40:38.561566+00:00"
-    },
-    {
-      "id": "23bacd61e7aa",
-      "title": "The Hidden Risk In Enterprise AI: AI Fluency",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/the-hidden-risk-in-enterprise-ai-ai-fluency/",
-      "summary": "Fluency is about understanding what AI can realistically do, where it breaks and what it changes inside your business model.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-08-05T14:30:00+00:00",
-      "fetched_at": "2026-08-05T17:40:38.561720+00:00"
-    },
-    {
-      "id": "0f53decaf7c8",
-      "title": "5 Interesting Learnings from Palantir at $7.7 Billion ARR: 93% Growth (!), 157% NRR, and a Rule of 40 Score of 155%",
-      "url": "https://www.saastr.com/5-interesting-learnings-from-palantir-at-7-7-billion-arr-93-growth-157-nrr-and-a-rule-of-40-score-of-155/",
-      "summary": "Almost everyone's growth rate decays at scale Not Palantir. It just pulled off a quarter (and a year) like we've never seen: &#8211; Revenue grew 93% year-over-year to $1.935 billion&#8211; The twelfth consecutive quarter of accelerating growth&#8211; 47% GAAP operating margins&#8211; The company\u2026 pic.twitter.com/iyfdvFXk0r &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) August 4, 2026 Palantir just posted... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-08-04T14:10:17+00:00",
-      "fetched_at": "2026-08-05T17:40:37.747532+00:00"
-    },
-    {
-      "id": "a21d180516b2",
-      "title": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-08-04T19:28:49+00:00",
-      "fetched_at": "2026-08-05T17:40:35.496282+00:00"
+      "published": "2026-08-07T14:00:00+00:00",
+      "fetched_at": "2026-08-07T16:56:00.490680+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91550763/chelsea-finn-wants-robots-to-get-better-at-learning?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
-    "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
-    "https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/",
-    "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems",
-    "https://www.fastcompany.com/91562948/rei-faces-backlash-over-ai-generated-ad-suspicions-so-much-for-caring-about-the-environment",
-    "https://www.forbes.com/sites/ronschmelzer/2026/06/22/cfos-are-coming-for-the-enterprise-ai-budget/",
-    "https://fortune.com/2026/06/22/ai-talk-in-aspen/",
-    "https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier",
-    "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-22-2026/",
-    "https://www.zdnet.com/article/why-ai-tokens-will-send-enterprise-cloud-bill-sky-high/",
-    "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
     "https://www.forbes.com/councils/forbestechcouncil/2026/06/22/the-supply-chain-wake-up-call-why-digitization-can-no-longer-wait/",
     "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
     "https://venturebeat.com/orchestration/amazon-will-present-its-framework-for-engineering-trustworthy-ai-agents-at-vb-transform-2026",
@@ -371,7 +359,19 @@
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/agentic-ai-isnt-just-another-technology-wave-its-the-next-enterprise-operating-model/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/the-hidden-risk-in-enterprise-ai-ai-fluency/",
     "https://www.saastr.com/5-interesting-learnings-from-palantir-at-7-7-billion-arr-93-growth-157-nrr-and-a-rule-of-40-score-of-155/",
-    "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
+    "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "https://www.fastcompany.com/91584370/enterprise-ai-doesnt-need-another-app-it-needs-its-language?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.computerworld.com/article/4206390/cloudflare-wants-to-provide-the-operating-system-for-the-ai-first-enterprise-2.html",
+    "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
+    "https://www.saastr.com/i-bought-30-apis-this-year-only-exa-asked-how-it-went-copy-them/",
+    "https://www.oreilly.com/radar/your-ai-agent-isnt-a-static-artifact-its-growing-up/",
+    "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/08/07/why-alpha-is-the-most-important-word-in-enterprise-ai-right-now/",
+    "https://www.fastcompany.com/91584370/enterprise-ai-doesnt-need-another-app-it-needs-its-language",
+    "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
+    "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
+    "https://www.computerworld.com/article/4206777/airtable-joins-evernote-brightcove-wetransfer-and-aol-in-bending-spoons-portfolio-2.html",
+    "https://www.forbes.com/sites/timbajarin/2026/08/07/geoffrey-hinton-warns-ai-may-outsmart-humans-as-agents-escape-tests/"
   ],
-  "generated_at": "2026-08-05T17:40:41.238673+00:00"
+  "generated_at": "2026-08-07T16:56:04.821056+00:00"
 }
