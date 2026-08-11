@@ -41,16 +41,6 @@
       "fetched_at": "2026-08-10T16:55:06.834854+00:00"
     },
     {
-      "id": "f6e0c3830bb6",
-      "title": "Dear SaaStr: What Is A Good Demo Conversion Rate for a SaaS Startup?",
-      "url": "https://www.saastr.com/what-is-a-good-demo-conversion-rate-for-saas-startup/",
-      "summary": "Dear SaaStr: What Is A Good Demo Conversion Rate for a SaaS Startup? 10%-20%. If fewer than 8%-10% or so of your demos convert to paid customers, you\u2019ll start to burn out your sales team. \u00a0Because they generally need to close 10-15 deals a month to eat (more for SMB, less for enterprise, but 10-15... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-08-09T09:26:21+00:00",
-      "fetched_at": "2026-08-10T16:55:03.803990+00:00"
-    },
-    {
       "id": "dc40bb71fa44",
       "title": "Agentic SOC Alliance Wants To Set Rules For AI Cyber Defense",
       "url": "https://www.forbes.com/sites/ronschmelzer/2026/08/10/agentic-soc-alliance-wants-to-set-rules-for-ai-cyber-defense/",
@@ -59,16 +49,6 @@
       "score": 6.0,
       "published": "2026-08-10T14:44:48+00:00",
       "fetched_at": "2026-08-10T16:55:04.547584+00:00"
-    },
-    {
-      "id": "35f6bb826f1d",
-      "title": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-08-09T14:30:00+00:00",
-      "fetched_at": "2026-08-10T16:55:01.257603+00:00"
     },
     {
       "id": "bbb3c88b702d",
@@ -119,11 +99,29 @@
       "score": 4.0,
       "published": "2026-08-10T10:31:01+00:00",
       "fetched_at": "2026-08-10T16:55:06.315683+00:00"
+    },
+    {
+      "id": "caad26d3c31d",
+      "title": "Silicon Valley startups are about to hand corporate credit cards to AI agents",
+      "url": "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
+      "summary": "As AI agents join human cofounders, the digital banking services company Mercury is expanding its offerings with virtual cards for autonomous purchasing.\n\nThe typical early-stage startup team used to comprise a pair of founders and a handful of software engineers. Now that founding team is just as likely to include AI agents as it is human employees\u2014and the companies that serve startups are racing to adapt.&nbsp;",
+      "source": "Fast Company",
+      "score": 8.0,
+      "published": "2026-08-11T15:00:00+00:00",
+      "fetched_at": "2026-08-11T16:58:33.761615+00:00"
+    },
+    {
+      "id": "f6ccf2f928d3",
+      "title": "Frankenstein has left the laboratory, says the man selling Frankensteins\u2014and he couldn\u2019t be happier",
+      "url": "https://www.fastcompany.com/91584883/frankenstein-left-the-laboratory-altman-singularity?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "On July 21, OpenAI disclosed something that sounds like science fiction: Two of its AI models broke out of a supposedly isolated test environment and hacked into the production servers of Hugging Face, one of the world\u2019s largest AI platforms. Anthropic then combed back through 141,006 of its own evaluation runs and found three occasions on which its Claude models had done the same thing.\n\n\n\nAs Hugging Face then said: \u201cAutonomous, AI-driven offensive tooling is no longer theoretical.\u201d This is both a cybersecurity nightmare and the modern face of one of humanity\u2019s most enduring fears: the creati",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-08-10T18:42:12+00:00",
+      "fetched_at": "2026-08-11T16:58:33.631800+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026",
-    "https://www.saastr.com/what-vcs-are-hunting-today-100b-in-10-years/",
     "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
     "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
     "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
@@ -371,7 +369,9 @@
     "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
     "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
     "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-    "https://www.businessinsider.com/ai-calculator-bad-news-vibe-coders-saas-software-2026-8"
+    "https://www.businessinsider.com/ai-calculator-bad-news-vibe-coders-saas-software-2026-8",
+    "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
+    "https://www.fastcompany.com/91584883/frankenstein-left-the-laboratory-altman-singularity?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-10T16:55:06.835055+00:00"
+  "generated_at": "2026-08-11T16:58:33.762580+00:00"
 }
