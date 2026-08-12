@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "id": "71de8eb88657",
-      "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents \u2014 available now",
-      "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
-      "summary": "Meta today released Muse Glimmer, a 30-billion-parameter open-weight model designed to run autonomous AI agents directly on consumer hardware \u2014 pushing agentic workloads that normally depend on cloud infrastructure onto high-end Macs and PCs.Just as notable as what the model does is how it&#x27;s licensed. Glimmer arrives under the permissive, industry-standard Apache 2.0 open source license \u2014 the company&#x27;s first fully open release since it succeeded its open-weight Llama family in April with the proprietary Muse Spark.In fact, Muse Glimmer launches today with a more permissive license th",
-      "source": "VentureBeat",
-      "score": 12.1,
-      "published": "2026-08-10T16:22:13+00:00",
-      "fetched_at": "2026-08-10T16:55:03.194882+00:00"
-    },
-    {
-      "id": "93402afcce14",
-      "title": "Your agent didn\u2019t hallucinate; it exceeded its authority",
-      "url": "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
-      "summary": "Content filters can block unsafe output. They cannot tell you whether an agent was authorized to issue that refund, touch that production system, or commit the company to an external action. Those are different problems, and most enterprises are only solving the first one.An AI agent can follow its instructions perfectly and still take an action the business never sanctioned.In commerce environments, I have seen this pattern emerge in practical ways. A service workflow calculates the correct refund amount but lacks a boundary preventing credits above what the business approved for autonomous a",
-      "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-08-10T12:00:00+00:00",
-      "fetched_at": "2026-08-10T16:55:03.195070+00:00"
-    },
-    {
-      "id": "5a970416c035",
-      "title": "Token-maxxing is dead. Agentic memory is what comes next.",
-      "url": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next",
-      "summary": "Presented by MongoDB We have been building databases as an industry for roughly 60 years. We have been building AI agents, in the form most people mean when they say the word today, for about 18 months.Sit with that ratio for a second, because it explains almost everything about the state of agentic development right now. Six decades versus a year and a half. We are not in the middle of this learning curve. We are standing at the very bottom of it, squinting up.There is no LAMP stack for agents yet. There is no settled, boring, default set of choices that lets a team stop re-litigating archite",
-      "source": "VentureBeat",
-      "score": 7.7,
-      "published": "2026-08-10T14:30:00+00:00",
-      "fetched_at": "2026-08-10T16:55:03.194963+00:00"
-    },
-    {
-      "id": "06f70f463ce7",
-      "title": "This font looks perfectly normal to humans but wreaks havoc on AI",
-      "url": "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
-      "summary": "ShieldFont was designed to poison the well of data scraped by LLM bots.  \nA new &#8220;AI-proof&#8221; font was designed to be hard for AI agents to scrape, but you can&#8217;t tell by just looking at it. Unlike other anti-AI fonts that use letters that are difficult for bots to read, ShieldFont swaps out words behind the scenes to poison the data that automated scrapers take without permission.ShieldFont was designed as part of a project created by a group of professionals including the Brazilian creative studio Seneda &#038; Abrucio and the Danish type foundry PlayType. It shields text from ",
-      "source": "Fast Company",
-      "score": 7.0,
-      "published": "2026-08-10T10:30:00+00:00",
-      "fetched_at": "2026-08-10T16:55:06.834854+00:00"
-    },
-    {
-      "id": "dc40bb71fa44",
-      "title": "Agentic SOC Alliance Wants To Set Rules For AI Cyber Defense",
-      "url": "https://www.forbes.com/sites/ronschmelzer/2026/08/10/agentic-soc-alliance-wants-to-set-rules-for-ai-cyber-defense/",
-      "summary": "AI agents are flooding cybersecurity. The Agentic SOC Alliance wants to define which ones can be trusted before hype outruns security.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-08-10T14:44:48+00:00",
-      "fetched_at": "2026-08-10T16:55:04.547584+00:00"
-    },
-    {
-      "id": "bbb3c88b702d",
-      "title": "You Can Now Control And Troubleshoot Your SwitchBot Devices Using AI",
-      "url": "https://www.forbes.com/sites/paullamkin/2026/08/10/you-can-now-control-and-troubleshoot-your-switchbot-devices-using-ai/",
-      "summary": "SwitchBot updates its app with Kata, an LLM-powered AI assistant that builds automations, troubleshoots devices, and interprets natural language commands",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-08-10T13:39:29+00:00",
-      "fetched_at": "2026-08-10T16:55:04.547808+00:00"
-    },
-    {
-      "id": "1e1aa73b47f5",
-      "title": "The Download: AI agents for science, and the \u201ccensorship-industrial complex\u201d",
-      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data \u2014Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-08-10T12:10:00+00:00",
-      "fetched_at": "2026-08-10T16:55:02.418632+00:00"
-    },
-    {
-      "id": "6859719fca47",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "summary": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called \u201cAttention Is All You Need,\u201d in which they described a new&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-08-10T09:00:00+00:00",
-      "fetched_at": "2026-08-10T16:55:02.418722+00:00"
-    },
-    {
-      "id": "4832769cc462",
-      "title": "Boeing is selling its air taxi startups to Archer Aviation",
-      "url": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-      "summary": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company. The subsidiares to be acquired by Archer include Wisk Aero, which has been developing an autonomous electric aircraft; SkyGrid, which is building air traffic management systems to [&#8230;]",
-      "source": "The Verge",
-      "score": 4.0,
-      "published": "2026-08-10T13:51:46+00:00",
-      "fetched_at": "2026-08-10T16:55:04.745969+00:00"
-    },
-    {
-      "id": "4837d4dad487",
-      "title": "Should you build or buy software? This Wall Street firm has a new tool to decide.",
-      "url": "https://www.businessinsider.com/ai-calculator-bad-news-vibe-coders-saas-software-2026-8",
-      "summary": "Should companies build or buy software? An RBC analysis finds custom AI apps are often more expensive than SaaS.",
-      "source": "Business Insider",
-      "score": 4.0,
-      "published": "2026-08-10T10:31:01+00:00",
-      "fetched_at": "2026-08-10T16:55:06.315683+00:00"
-    },
-    {
       "id": "caad26d3c31d",
       "title": "Silicon Valley startups are about to hand corporate credit cards to AI agents",
       "url": "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
@@ -119,19 +19,109 @@
       "score": 7.7,
       "published": "2026-08-10T18:42:12+00:00",
       "fetched_at": "2026-08-11T16:58:33.631800+00:00"
+    },
+    {
+      "id": "46391e3b8d60",
+      "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
+      "url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
+      "summary": "Skan AI, a startup that builds what it calls a &quot;context graph of work&quot; by observing how employees actually perform their jobs across enterprise software, has raised $63 million in Series C funding co-led by Cathay Innovation and Dell Technologies Capital, the company announced Wednesday.Citi Ventures, Bloomberg Beta, State Farm Ventures, and Wipro Ventures also participated in the round, which brings the seven-year-old company&#x27;s total funding to roughly $120 million. Alongside the raise, Skan is announcing the general availability of two new products \u2014 Skan AI Blueprint and Skan",
+      "source": "VentureBeat",
+      "score": 13.2,
+      "published": "2026-08-12T11:00:00+00:00",
+      "fetched_at": "2026-08-12T16:57:38.269548+00:00"
+    },
+    {
+      "id": "a0b38dfb9d6d",
+      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+      "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+      "summary": "Across 107 enterprises, agentic orchestration is not a choice of a single platform.The typical enterprise runs three orchestration platforms at once, and selects them for flexibility across models rather than affinity to any single one. Microsoft leads primary usage while Anthropic leads forward consideration by a wide margin.\u00a0The AI control plane enterprises expect is deliberately hybrid, meaning it includes use of the leading AI providers, but also provider-independent technologies \u2014 and the risk they fear most from provider-resident control is not lock-in but the provider\u2019s own security and",
+      "source": "VentureBeat",
+      "score": 13.2,
+      "published": "2026-08-12T07:30:00+00:00",
+      "fetched_at": "2026-08-12T16:57:38.269947+00:00"
+    },
+    {
+      "id": "e000d516c73b",
+      "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
+      "url": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
+      "summary": "Across 101 enterprises, the context feeding AI agents is failing often and repeatedly. Sixty-eight percent have traced a confident but wrong agent answer to missing or inconsistent business context in the past six months, and the single most common answer is not &quot;once&quot; but &quot;more than once.&quot; The counterintuitive part is which companies report it. Enterprises building or running a governed semantic layer (a layer of company-specific definitions and relationships) report recurring failures at more than twice the rate of those without one.The infrastructure built to fix bad con",
+      "source": "VentureBeat",
+      "score": 7.7,
+      "published": "2026-08-12T07:30:00+00:00",
+      "fetched_at": "2026-08-12T16:57:38.269852+00:00"
+    },
+    {
+      "id": "fc955190665c",
+      "title": "Meta\u2019s local AI model prompts enterprises to rethink hardware-software cost trade-off",
+      "url": "https://www.computerworld.com/article/4207598/metas-new-local-model-forces-enterprises-to-recalculate-ai-costs-and-roi.html",
+      "summary": "Meta rolled out a new 30-billion-parameter AI model optimized to run on a PC or Mac with a single GPU on Monday, offering a way to run always-on agentic workflows locally rather than relying on the cloud.\n\n\n\nThe company has dubbed it Muse Glimmer. However, its hardware demands, including a GPU with a minimum of 24GB of VRAM, could make it difficult to justify for deployment at scale.\n\n\n\nAlthough analysts and consultants agree that there is a tremendous enterprise appetite for running models locally, determining whether switching more systems from cloud to local makes fiscal sense is much more ",
+      "source": "Computerworld",
+      "score": 7.0,
+      "published": "2026-08-11T01:38:31+00:00",
+      "fetched_at": "2026-08-12T16:57:40.568242+00:00"
+    },
+    {
+      "id": "0e503caf8a89",
+      "title": "Pylon\u2019s Founders at SaaStr AI Day: A 1,000-Person Support Team Deflected 50% of Its Tickets. Headcount Didn\u2019t Change.",
+      "url": "https://www.saastr.com/pylons-founders-at-saastr-ai-day-a-1000-person-support-team-deflected-50-of-its-tickets-headcount-didnt-change/",
+      "summary": "Marty Kausas and Advith Chelikani on why deflection rate is the wrong numberin CX. And what they&#8217;re replacing it with, and what you should, too. Pylon closed out the latest SaaStr AI Day with the two co-founders walking through the launch they shipped the week before, which they&#8217;re calling agentic customer support. Marty Kausas is... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-08-11T10:40:34+00:00",
+      "fetched_at": "2026-08-12T16:57:38.894573+00:00"
+    },
+    {
+      "id": "45fca7a46b39",
+      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
+      "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
+      "summary": "Across 108 enterprises, trust in automated agent evaluation rose sharply in July \u2014 and the failure rate it is supposed to predict did not move at all. The share of organizations that fully trust automated evaluation nearly tripled, from 5% in June to 13%, and the complaint that evaluations don\u2019t match real-world outcomes fell 10 points. Yet the same share as last month \u2014 just under half \u2014 shipped an agent that passed its evals and then failed a customer. The reason is visible in the cross-tabs: the new trust belongs almost entirely to enterprises that have not yet been burned. Among those that",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-08-12T07:30:00+00:00",
+      "fetched_at": "2026-08-12T16:57:38.269757+00:00"
+    },
+    {
+      "id": "240f90bb6f55",
+      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time \u2014 and isolate high-risk agents less than one in five",
+      "url": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
+      "summary": "Across 116 enterprises, agents are in production and so are the incidents: A majority have already had a confirmed agent security event or a near-miss. Two-thirds of enterprises enforce scoped permissions at runtime. Barely one in five isolates its highest-risk agents, making containment the weakest layer in the stack precisely as autonomy scales. Credential sharing persists across nearly two-thirds of agent fleets, and 53% have already had a confirmed agent security event or near-miss, contributing to a growing lack of confidence in agentic security.\u00a0 Security stacks remain overwhelmingly bor",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-08-12T07:30:00+00:00",
+      "fetched_at": "2026-08-12T16:57:38.270047+00:00"
+    },
+    {
+      "id": "226e5e097bdf",
+      "title": "Silicon Valley startups are about to hand corporate credit cards to AI agents",
+      "url": "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "The typical early-stage startup team used to comprise a pair of founders and a handful of software engineers. Now that founding team is just as likely to include AI agents as it is human employees\u2014and the companies that serve startups are racing to adapt.&nbsp;\n\n\n\nFor Mercury, a popular Silicon Valley banking solution, that shift in team composition has prompted the development of a new feature: AI agent cards, or virtual credit cards that businesses can use to delegate and automate purchasing decisions. The cards launch today as part of a broader expansion of Mercury\u2019s spend management tools.",
+      "source": "Fast Company Tech",
+      "score": 5.5,
+      "published": "2026-08-11T15:00:00+00:00",
+      "fetched_at": "2026-08-12T16:57:41.829526+00:00"
+    },
+    {
+      "id": "1e9dd24f2729",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
+      "source": "MIT Technology Review",
+      "score": 4.8,
+      "published": "2026-08-11T12:10:00+00:00",
+      "fetched_at": "2026-08-12T16:57:37.631989+00:00"
+    },
+    {
+      "id": "0d5dcd365b3a",
+      "title": "In the Age of AI, your tech debt is an even bigger issue than you think",
+      "url": "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Only 5% of enterprises say their data is ready for AI. I think the real number might be even lower. Most organizations are about to learn what I spent 15 years teaching companies in the Business Intelligence (BI) era: The problems you ignore don&#8217;t disappear. They wait.\n\n\n\nIn business, perfection is impossible and there isn&#8217;t time to chase everything. Problems tend to get addressed only when they directly threaten the flow of money. I learned the hard way running a data and BI consultancy, because our work had a way of forcing organizations&#8217; unaddressed sins to the surface.\n\n\n",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-08-12T10:42:00+00:00",
+      "fetched_at": "2026-08-12T16:57:41.828911+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
-    "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
-    "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/06/26/why-just-use-ai-is-a-risky-it-policy-and-what-to-do-instead/",
-    "https://www.saastr.com/we-crossed-200000-youtube-subscribers-the-fastest-growing-content-is-us-running-ai-agents-in-public/",
-    "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/",
-    "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
-    "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-    "https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/",
-    "https://www.saastr.com/watching-an-ai-native-crm-run-the-full-gtm-loop-live-lightfield-ceo-keith-peiris-demos-a-stalled-deal-an-automation-and-ten-new-prospects/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/from-compliance-to-continuous-assurance-automating-cloud-governance-with-policy-as-code/",
     "https://www.oreilly.com/radar/what-you-bring-to-ai-determines-the-result/",
     "https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/",
@@ -371,7 +361,17 @@
     "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
     "https://www.businessinsider.com/ai-calculator-bad-news-vibe-coders-saas-software-2026-8",
     "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
-    "https://www.fastcompany.com/91584883/frankenstein-left-the-laboratory-altman-singularity?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91584883/frankenstein-left-the-laboratory-altman-singularity?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
+    "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+    "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
+    "https://www.computerworld.com/article/4207598/metas-new-local-model-forces-enterprises-to-recalculate-ai-costs-and-roi.html",
+    "https://www.saastr.com/pylons-founders-at-saastr-ai-day-a-1000-person-support-team-deflected-50-of-its-tickets-headcount-didnt-change/",
+    "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
+    "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
+    "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-11T16:58:33.762580+00:00"
+  "generated_at": "2026-08-12T16:57:41.967696+00:00"
 }
