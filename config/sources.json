@@ -1,153 +1,155 @@
 {
   "feeds": [
     {
-      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "name": "TechCrunch AI",
-      "weight": 1.2
+      "url": "https://hbr.org/advice/feed",
+      "name": "Harvard Business Review",
+      "weight": 1.4
     },
     {
-      "url": "https://techcrunch.com/category/enterprise/feed/",
-      "name": "TechCrunch Enterprise",
-      "weight": 1.1
+      "url": "https://www.chieflearningofficer.com/feed/",
+      "name": "Chief Learning Officer",
+      "weight": 1.5
     },
     {
-      "url": "https://feeds.feedburner.com/TechCrunch",
-      "name": "TechCrunch All",
-      "weight": 1.0
+      "url": "https://trainingindustry.com/feed/",
+      "name": "Training Industry",
+      "weight": 1.5
     },
     {
-      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "name": "CNBC Economy",
-      "weight": 1.0
+      "url": "https://www.learningguild.com/feed/",
+      "name": "The Learning Guild",
+      "weight": 1.4
     },
     {
-      "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
-      "name": "CNBC Tech",
-      "weight": 1.1
-    },
-    {
-      "url": "https://www.technologyreview.com/feed/",
-      "name": "MIT Technology Review",
-      "weight": 1.2
-    },
-    {
-      "url": "https://www.therundown.ai/feed",
-      "name": "The Rundown AI",
+      "url": "https://peoplemanagingpeople.com/feed/",
+      "name": "People Managing People",
       "weight": 1.3
     },
     {
-      "url": "https://venturebeat.com/feed/",
-      "name": "VentureBeat",
-      "weight": 1.1
-    },
-    {
-      "url": "https://venturebeat.com/category/ai/feed/",
-      "name": "VentureBeat AI",
+      "url": "https://www.mckinsey.com/featured-insights/leadership-and-management/rss",
+      "name": "McKinsey Leadership & Management",
       "weight": 1.2
     },
     {
-      "url": "https://www.saastr.com/feed/",
-      "name": "SaaStr",
-      "weight": 1.1
-    },
-    {
-      "url": "https://a16z.com/feed/",
-      "name": "a16z",
+      "url": "https://www.fastcompany.com/leadership/rss",
+      "name": "Fast Company Leadership",
       "weight": 1.2
     },
     {
-      "url": "https://hbr.org/advice/feed",
-      "name": "HBR",
-      "weight": 1.0
+      "url": "https://www.fastcompany.com/work-life/rss",
+      "name": "Fast Company Work Life",
+      "weight": 1.2
     },
     {
-      "url": "https://www.forbes.com/innovation/feed/",
-      "name": "Forbes Innovation",
-      "weight": 1.0
+      "url": "https://feeds.harvardbusiness.org/harvardbusiness?format=xml",
+      "name": "HBR Management",
+      "weight": 1.2
     },
     {
-      "url": "https://www.wired.com/feed/rss",
-      "name": "Wired",
-      "weight": 1.0
-    },
-    {
-      "url": "https://www.theverge.com/rss/index.xml",
-      "name": "The Verge",
-      "weight": 1.0
-    },
-    {
-      "url": "https://feeds.arstechnica.com/arstechnica/index",
-      "name": "Ars Technica",
-      "weight": 1.0
-    },
-    {
-      "url": "https://www.zdnet.com/news/rss.xml",
-      "name": "ZDNet",
-      "weight": 1.0
-    },
-    {
-      "url": "https://www.infoworld.com/index.rss",
-      "name": "InfoWorld",
-      "weight": 1.1
-    },
-    {
-      "url": "https://www.computerworld.com/index.rss",
-      "name": "Computerworld",
-      "weight": 1.0
-    },
-    {
-      "url": "https://feeds.feedburner.com/oreilly/radar/atom",
-      "name": "O'Reilly Radar",
-      "weight": 1.1
-    },
-    {
-      "url": "https://martinfowler.com/feed.atom",
-      "name": "Martin Fowler",
-      "weight": 1.1
-    },
-    {
-      "url": "https://www.businessinsider.com/rss",
-      "name": "Business Insider",
-      "weight": 1.0
-    },
-    {
-      "url": "https://fortune.com/feed/",
-      "name": "Fortune",
-      "weight": 1.0
-    },
-    {
-      "url": "https://www.fastcompany.com/technology/rss",
-      "name": "Fast Company Tech",
-      "weight": 1.1
-    },
-    {
-      "url": "https://feeds.feedburner.com/fastcompany/headlines",
-      "name": "Fast Company",
-      "weight": 1.0
+      "url": "https://www.td.org/rss",
+      "name": "Association for Talent Development",
+      "weight": 1.5
     }
   ],
   "keywords": {
     "high_value": [
-      "decisioning", "decision intelligence", "agentic", "AI agent", "autonomous",
-      "SaaS", "B2B software", "enterprise AI", "LLM", "generative AI", "GenAI",
-      "workflow automation", "process automation", "orchestration", "real-time",
-      "large language model", "foundation model", "copilot", "AI platform",
-      "machine learning", "MLOps", "data pipeline", "AI adoption", "enterprise software"
+      "leadership development",
+      "leadership",
+      "learning and development",
+      "learning & development",
+      "L&D",
+      "talent development",
+      "talent management",
+      "executive presence",
+      "communication",
+      "communications",
+      "presentation skills",
+      "public speaking",
+      "storytelling",
+      "business storytelling",
+      "difficult conversations",
+      "crucial conversations",
+      "conflict",
+      "influence",
+      "persuasion",
+      "change management",
+      "organizational change",
+      "organizational development",
+      "manager development",
+      "manager effectiveness",
+      "people leadership",
+      "employee engagement",
+      "learning engagement",
+      "learning experience",
+      "adult learning",
+      "behavior change",
+      "leadership communication",
+      "executive communication",
+      "coaching",
+      "corporate coaching",
+      "workplace learning",
+      "learning strategy",
+      "learning metrics",
+      "training effectiveness",
+      "training evaluation",
+      "learning measurement",
+      "ROI of training"
     ],
     "medium_value": [
-      "artificial intelligence", "automation", "enterprise",
-      "platform", "cloud", "API", "integration", "digital transformation",
-      "software", "data", "productivity", "startup", "funding", "acquisition",
-      "product-led growth", "go-to-market", "revenue", "B2B", "CRM", "ERP",
-      "analytics", "business intelligence", "no-code", "low-code", "infrastructure"
+      "management",
+      "managers",
+      "workplace",
+      "culture",
+      "employee experience",
+      "employee development",
+      "performance",
+      "feedback",
+      "psychological safety",
+      "team dynamics",
+      "team development",
+      "organizational culture",
+      "organizational effectiveness",
+      "people strategy",
+      "HR",
+      "human resources",
+      "chief people officer",
+      "CHRO",
+      "learning officer",
+      "future of work",
+      "hybrid work",
+      "remote work",
+      "AI adoption",
+      "digital transformation",
+      "transformation",
+      "business growth",
+      "entrepreneurship",
+      "founders",
+      "executives",
+      "emerging leaders"
     ],
     "low_value": [
-      "technology", "tech", "business", "innovation", "future", "digital"
+      "business",
+      "innovation",
+      "work",
+      "career",
+      "strategy",
+      "productivity",
+      "collaboration",
+      "growth"
     ],
     "exclude": [
-      "gaming", "entertainment", "sports", "crypto",
-      "NFT", "metaverse", "celebrity", "movies", "music",
-      "fashion", "food", "travel", "dating", "social media drama"
+      "gaming",
+      "crypto",
+      "NFT",
+      "celebrity",
+      "movies",
+      "music",
+      "fashion",
+      "food",
+      "travel",
+      "sports",
+      "political campaign",
+      "social media drama"
     ]
   },
   "scoring": {
@@ -155,6 +157,6 @@
     "medium_value_weight": 1,
     "low_value_weight": 0,
     "exclude_penalty": -10,
-    "min_score_threshold": 1
+    "min_score_threshold": 2
   }
 }
