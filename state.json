@@ -11,16 +11,6 @@
       "fetched_at": "2026-08-11T16:58:33.761615+00:00"
     },
     {
-      "id": "f6ccf2f928d3",
-      "title": "Frankenstein has left the laboratory, says the man selling Frankensteins\u2014and he couldn\u2019t be happier",
-      "url": "https://www.fastcompany.com/91584883/frankenstein-left-the-laboratory-altman-singularity?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "On July 21, OpenAI disclosed something that sounds like science fiction: Two of its AI models broke out of a supposedly isolated test environment and hacked into the production servers of Hugging Face, one of the world\u2019s largest AI platforms. Anthropic then combed back through 141,006 of its own evaluation runs and found three occasions on which its Claude models had done the same thing.\n\n\n\nAs Hugging Face then said: \u201cAutonomous, AI-driven offensive tooling is no longer theoretical.\u201d This is both a cybersecurity nightmare and the modern face of one of humanity\u2019s most enduring fears: the creati",
-      "source": "Fast Company Tech",
-      "score": 7.7,
-      "published": "2026-08-10T18:42:12+00:00",
-      "fetched_at": "2026-08-11T16:58:33.631800+00:00"
-    },
-    {
       "id": "46391e3b8d60",
       "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
       "url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
@@ -49,16 +39,6 @@
       "score": 7.7,
       "published": "2026-08-12T07:30:00+00:00",
       "fetched_at": "2026-08-12T16:57:38.269852+00:00"
-    },
-    {
-      "id": "fc955190665c",
-      "title": "Meta\u2019s local AI model prompts enterprises to rethink hardware-software cost trade-off",
-      "url": "https://www.computerworld.com/article/4207598/metas-new-local-model-forces-enterprises-to-recalculate-ai-costs-and-roi.html",
-      "summary": "Meta rolled out a new 30-billion-parameter AI model optimized to run on a PC or Mac with a single GPU on Monday, offering a way to run always-on agentic workflows locally rather than relying on the cloud.\n\n\n\nThe company has dubbed it Muse Glimmer. However, its hardware demands, including a GPU with a minimum of 24GB of VRAM, could make it difficult to justify for deployment at scale.\n\n\n\nAlthough analysts and consultants agree that there is a tremendous enterprise appetite for running models locally, determining whether switching more systems from cloud to local makes fiscal sense is much more ",
-      "source": "Computerworld",
-      "score": 7.0,
-      "published": "2026-08-11T01:38:31+00:00",
-      "fetched_at": "2026-08-12T16:57:40.568242+00:00"
     },
     {
       "id": "0e503caf8a89",
@@ -373,5 +353,5 @@
     "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
     "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-12T16:57:41.967696+00:00"
+  "generated_at": "2026-08-13T04:53:57.497131+00:00"
 }
