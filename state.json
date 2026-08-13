@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "caad26d3c31d",
-      "title": "Silicon Valley startups are about to hand corporate credit cards to AI agents",
-      "url": "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
-      "summary": "As AI agents join human cofounders, the digital banking services company Mercury is expanding its offerings with virtual cards for autonomous purchasing.\n\nThe typical early-stage startup team used to comprise a pair of founders and a handful of software engineers. Now that founding team is just as likely to include AI agents as it is human employees\u2014and the companies that serve startups are racing to adapt.&nbsp;",
-      "source": "Fast Company",
-      "score": 8.0,
-      "published": "2026-08-11T15:00:00+00:00",
-      "fetched_at": "2026-08-11T16:58:33.761615+00:00"
-    },
-    {
       "id": "46391e3b8d60",
       "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
       "url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
@@ -41,16 +31,6 @@
       "fetched_at": "2026-08-12T16:57:38.269852+00:00"
     },
     {
-      "id": "0e503caf8a89",
-      "title": "Pylon\u2019s Founders at SaaStr AI Day: A 1,000-Person Support Team Deflected 50% of Its Tickets. Headcount Didn\u2019t Change.",
-      "url": "https://www.saastr.com/pylons-founders-at-saastr-ai-day-a-1000-person-support-team-deflected-50-of-its-tickets-headcount-didnt-change/",
-      "summary": "Marty Kausas and Advith Chelikani on why deflection rate is the wrong numberin CX. And what they&#8217;re replacing it with, and what you should, too. Pylon closed out the latest SaaStr AI Day with the two co-founders walking through the launch they shipped the week before, which they&#8217;re calling agentic customer support. Marty Kausas is... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-08-11T10:40:34+00:00",
-      "fetched_at": "2026-08-12T16:57:38.894573+00:00"
-    },
-    {
       "id": "45fca7a46b39",
       "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
       "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
@@ -69,26 +49,6 @@
       "score": 5.5,
       "published": "2026-08-12T07:30:00+00:00",
       "fetched_at": "2026-08-12T16:57:38.270047+00:00"
-    },
-    {
-      "id": "226e5e097bdf",
-      "title": "Silicon Valley startups are about to hand corporate credit cards to AI agents",
-      "url": "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "The typical early-stage startup team used to comprise a pair of founders and a handful of software engineers. Now that founding team is just as likely to include AI agents as it is human employees\u2014and the companies that serve startups are racing to adapt.&nbsp;\n\n\n\nFor Mercury, a popular Silicon Valley banking solution, that shift in team composition has prompted the development of a new feature: AI agent cards, or virtual credit cards that businesses can use to delegate and automate purchasing decisions. The cards launch today as part of a broader expansion of Mercury\u2019s spend management tools.",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-08-11T15:00:00+00:00",
-      "fetched_at": "2026-08-12T16:57:41.829526+00:00"
-    },
-    {
-      "id": "1e9dd24f2729",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-08-11T12:10:00+00:00",
-      "fetched_at": "2026-08-12T16:57:37.631989+00:00"
     },
     {
       "id": "0d5dcd365b3a",
@@ -353,5 +313,5 @@
     "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
     "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-13T04:53:57.497131+00:00"
+  "generated_at": "2026-08-13T17:32:22.255284+00:00"
 }
