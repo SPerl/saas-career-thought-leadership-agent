@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "46391e3b8d60",
-      "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
-      "url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
-      "summary": "Skan AI, a startup that builds what it calls a &quot;context graph of work&quot; by observing how employees actually perform their jobs across enterprise software, has raised $63 million in Series C funding co-led by Cathay Innovation and Dell Technologies Capital, the company announced Wednesday.Citi Ventures, Bloomberg Beta, State Farm Ventures, and Wipro Ventures also participated in the round, which brings the seven-year-old company&#x27;s total funding to roughly $120 million. Alongside the raise, Skan is announcing the general availability of two new products \u2014 Skan AI Blueprint and Skan",
-      "source": "VentureBeat",
-      "score": 13.2,
-      "published": "2026-08-12T11:00:00+00:00",
-      "fetched_at": "2026-08-12T16:57:38.269548+00:00"
-    },
-    {
       "id": "a0b38dfb9d6d",
       "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
       "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
@@ -59,14 +49,59 @@
       "score": 4.4,
       "published": "2026-08-12T10:42:00+00:00",
       "fetched_at": "2026-08-12T16:57:41.828911+00:00"
+    },
+    {
+      "id": "56339dd5355b",
+      "title": "Is it better to blend in or stand out at work? Here\u2019s the surprising truth",
+      "url": "https://www.fastcompany.com/91581937/is-it-better-to-blend-in-or-stand-out-at-work-heres-the-surprising-truth?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "If there is one thing on which recruiters, hiring managers, and founders typically agree, it\u2019s the notion that technical competence alone, including a proven track record or domain-specific expertise, is no longer enough to get hired. In fact, organizations today are mostly interested in &#8220;culture fit,&#8221; or a measure of whether candidates may be sufficiently aligned with the company&#8217;s values, communication style, and etiquette. In other words, two individuals with the same skills, expertise, and capabilities may differ drastically on whether they will enjoy working in the same ",
+      "source": "Fast Company Work Life",
+      "score": 7.2,
+      "published": "2026-08-12T08:00:00+00:00",
+      "fetched_at": "2026-08-13T21:59:11.472952+00:00"
+    },
+    {
+      "id": "70f1d9a9b677",
+      "title": "Companies are charging ahead with AI\u2014even though middle managers are not ready for it",
+      "url": "https://www.fastcompany.com/91590020/companies-are-charging-ahead-with-ai-even-though-middle-managers-are-not-ready-for-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "As Joelle Emerson has watched companies cull the ranks of middle management and pour resources into AI, there has been one key question on her mind: What role is the chief people officer playing in that shift?&nbsp;\n\n\n\n\u201cI think chief people officers should be leaders in the transformation [that] organizations are undergoing right now with AI,\u201d says Emerson, the cofounder and CEO of culture and inclusion platform Paradigm. \u201cI see a lot of companies making a lot of changes very, very quickly\u2014for example, collapsing management layers.\u201d\n\n\n\n\u201cIt makes me wonder where the chief people officer is in s",
+      "source": "Fast Company Work Life",
+      "score": 6.0,
+      "published": "2026-08-13T19:00:00+00:00",
+      "fetched_at": "2026-08-13T21:59:11.472214+00:00"
+    },
+    {
+      "id": "f11e8ffbe7b8",
+      "title": "3 fundamental rules that change management consultants will never tell you",
+      "url": "https://www.fastcompany.com/91588673/3-fundamental-rules-change-management-consultants-will-never-tell-you?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "In 1983, McKinsey consultant Julien Phillips published a paper in Human Resource Management describing what he called an &#8220;adoption penalty&#8221;: companies that failed to adapt quickly enough would inevitably fall behind. His ideas became McKinsey\u2019s first change management model that it sold to clients.\n\n\n\nToday, more than four decades later, change management has become a massive industry. Every major consulting firm has a transformation practice, and enterprise software vendors routinely bundle change management services with their implementations. Buy a new system and your vendor wil",
+      "source": "Fast Company Leadership",
+      "score": 6.0,
+      "published": "2026-08-13T15:35:14+00:00",
+      "fetched_at": "2026-08-13T21:59:11.234938+00:00"
+    },
+    {
+      "id": "43656dcc921e",
+      "title": "From Content to Capability: Danielle Eisenach-Reichel on the Future of Learning Leadership",
+      "url": "https://www.learningguild.com/articles/from-content-to-capability-danielle-eisenach-reichel-on-the-future-of-learning-leadership",
+      "summary": "As part of our Learning Expert Spotlight series, we spoke with Danielle Eisenach-Reichel, Global Director of Facilitation at Fresenius Medical Care, ahead of her discussion at&#160;Learning Leadership 2026. In a [&#8230;]\nThe post From Content to Capability: Danielle Eisenach-Reichel on the Future of Learning Leadership appeared first on Learning Guild.",
+      "source": "The Learning Guild",
+      "score": 4.2,
+      "published": "2026-08-13T05:00:00+00:00",
+      "fetched_at": "2026-08-13T21:59:10.036806+00:00"
+    },
+    {
+      "id": "9c74137da76d",
+      "title": "Thrivent CEO Terry Rasmussen: Everything I need to know about business I learned from cleaning people\u2019s teeth",
+      "url": "https://www.fastcompany.com/91586587/thrivent-ceo-terry-rasmussen-everything-i-need-to-know-about-business-i-learned-from-cleaning-peoples-teeth-technology-leadership-career-advice-management?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Today, I lead a Fortune 500 financial services company with more than 2 million clients. Over the course of a 40-year career, I\u2019ve had the chance to help guide organizations through periods of growth and transformation.\n\n\n\nWhat\u2019s striking to me is how many of the most important lessons I learned didn\u2019t come later in life. They came during my very first job as a dental hygienist at a practice in West Salem, Wisconsin. At the time, I didn\u2019t think of it as the start of a career path. It was just a way to do good work and help people.\n\n\n\nA practical choice\n\n\n\nIn my family, everyone seemed to have ",
+      "source": "Fast Company Work Life",
+      "score": 2.4,
+      "published": "2026-08-12T09:32:00+00:00",
+      "fetched_at": "2026-08-13T21:59:11.472820+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/from-compliance-to-continuous-assurance-automating-cloud-governance-with-policy-as-code/",
-    "https://www.oreilly.com/radar/what-you-bring-to-ai-determines-the-result/",
-    "https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/giving-data-center-builders-a-real-time-picture-of-whats-actually-built/",
-    "https://www.fastcompany.com/91549044/my-ai-night-shift",
     "https://www.oreilly.com/radar/agent-memory/",
     "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/",
     "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/",
@@ -311,7 +346,12 @@
     "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
     "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-    "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91581937/is-it-better-to-blend-in-or-stand-out-at-work-heres-the-surprising-truth?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91590020/companies-are-charging-ahead-with-ai-even-though-middle-managers-are-not-ready-for-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91588673/3-fundamental-rules-change-management-consultants-will-never-tell-you?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.learningguild.com/articles/from-content-to-capability-danielle-eisenach-reichel-on-the-future-of-learning-leadership",
+    "https://www.fastcompany.com/91586587/thrivent-ceo-terry-rasmussen-everything-i-need-to-know-about-business-i-learned-from-cleaning-peoples-teeth-technology-leadership-career-advice-management?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-13T17:32:22.255284+00:00"
+  "generated_at": "2026-08-13T21:59:11.864487+00:00"
 }
