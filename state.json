@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "a0b38dfb9d6d",
-      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
-      "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
-      "summary": "Across 107 enterprises, agentic orchestration is not a choice of a single platform.The typical enterprise runs three orchestration platforms at once, and selects them for flexibility across models rather than affinity to any single one. Microsoft leads primary usage while Anthropic leads forward consideration by a wide margin.\u00a0The AI control plane enterprises expect is deliberately hybrid, meaning it includes use of the leading AI providers, but also provider-independent technologies \u2014 and the risk they fear most from provider-resident control is not lock-in but the provider\u2019s own security and",
-      "source": "VentureBeat",
-      "score": 13.2,
-      "published": "2026-08-12T07:30:00+00:00",
-      "fetched_at": "2026-08-12T16:57:38.269947+00:00"
-    },
-    {
       "id": "e000d516c73b",
       "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
       "url": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
@@ -353,5 +343,5 @@
     "https://www.learningguild.com/articles/from-content-to-capability-danielle-eisenach-reichel-on-the-future-of-learning-leadership",
     "https://www.fastcompany.com/91586587/thrivent-ceo-terry-rasmussen-everything-i-need-to-know-about-business-i-learned-from-cleaning-peoples-teeth-technology-leadership-career-advice-management?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-13T21:59:11.864487+00:00"
+  "generated_at": "2026-08-13T22:08:42.741212+00:00"
 }
