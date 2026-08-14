@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "0d5dcd365b3a",
-      "title": "In the Age of AI, your tech debt is an even bigger issue than you think",
-      "url": "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Only 5% of enterprises say their data is ready for AI. I think the real number might be even lower. Most organizations are about to learn what I spent 15 years teaching companies in the Business Intelligence (BI) era: The problems you ignore don&#8217;t disappear. They wait.\n\n\n\nIn business, perfection is impossible and there isn&#8217;t time to chase everything. Problems tend to get addressed only when they directly threaten the flow of money. I learned the hard way running a data and BI consultancy, because our work had a way of forcing organizations&#8217; unaddressed sins to the surface.\n\n\n",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-08-12T10:42:00+00:00",
-      "fetched_at": "2026-08-12T16:57:41.828911+00:00"
-    },
-    {
       "id": "56339dd5355b",
       "title": "Is it better to blend in or stand out at work? Here\u2019s the surprising truth",
       "url": "https://www.fastcompany.com/91581937/is-it-better-to-blend-in-or-stand-out-at-work-heres-the-surprising-truth?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -313,5 +303,5 @@
     "https://www.learningguild.com/articles/from-content-to-capability-danielle-eisenach-reichel-on-the-future-of-learning-leadership",
     "https://www.fastcompany.com/91586587/thrivent-ceo-terry-rasmussen-everything-i-need-to-know-about-business-i-learned-from-cleaning-peoples-teeth-technology-leadership-career-advice-management?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-14T00:08:38.358132+00:00"
+  "generated_at": "2026-08-14T00:13:27.554252+00:00"
 }
