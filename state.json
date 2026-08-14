@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "45fca7a46b39",
-      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
-      "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
-      "summary": "Across 108 enterprises, trust in automated agent evaluation rose sharply in July \u2014 and the failure rate it is supposed to predict did not move at all. The share of organizations that fully trust automated evaluation nearly tripled, from 5% in June to 13%, and the complaint that evaluations don\u2019t match real-world outcomes fell 10 points. Yet the same share as last month \u2014 just under half \u2014 shipped an agent that passed its evals and then failed a customer. The reason is visible in the cross-tabs: the new trust belongs almost entirely to enterprises that have not yet been burned. Among those that",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-08-12T07:30:00+00:00",
-      "fetched_at": "2026-08-12T16:57:38.269757+00:00"
-    },
-    {
       "id": "240f90bb6f55",
       "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time \u2014 and isolate high-risk agents less than one in five",
       "url": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
@@ -333,5 +323,5 @@
     "https://www.learningguild.com/articles/from-content-to-capability-danielle-eisenach-reichel-on-the-future-of-learning-leadership",
     "https://www.fastcompany.com/91586587/thrivent-ceo-terry-rasmussen-everything-i-need-to-know-about-business-i-learned-from-cleaning-peoples-teeth-technology-leadership-career-advice-management?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-14T00:07:41.307422+00:00"
+  "generated_at": "2026-08-14T00:08:19.567824+00:00"
 }
