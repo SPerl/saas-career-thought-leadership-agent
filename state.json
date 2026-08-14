@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "240f90bb6f55",
-      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time \u2014 and isolate high-risk agents less than one in five",
-      "url": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
-      "summary": "Across 116 enterprises, agents are in production and so are the incidents: A majority have already had a confirmed agent security event or a near-miss. Two-thirds of enterprises enforce scoped permissions at runtime. Barely one in five isolates its highest-risk agents, making containment the weakest layer in the stack precisely as autonomy scales. Credential sharing persists across nearly two-thirds of agent fleets, and 53% have already had a confirmed agent security event or near-miss, contributing to a growing lack of confidence in agentic security.\u00a0 Security stacks remain overwhelmingly bor",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-08-12T07:30:00+00:00",
-      "fetched_at": "2026-08-12T16:57:38.270047+00:00"
-    },
-    {
       "id": "0d5dcd365b3a",
       "title": "In the Age of AI, your tech debt is an even bigger issue than you think",
       "url": "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -323,5 +313,5 @@
     "https://www.learningguild.com/articles/from-content-to-capability-danielle-eisenach-reichel-on-the-future-of-learning-leadership",
     "https://www.fastcompany.com/91586587/thrivent-ceo-terry-rasmussen-everything-i-need-to-know-about-business-i-learned-from-cleaning-peoples-teeth-technology-leadership-career-advice-management?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-14T00:08:19.567824+00:00"
+  "generated_at": "2026-08-14T00:08:38.358132+00:00"
 }
