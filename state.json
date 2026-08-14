@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "e000d516c73b",
-      "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
-      "url": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
-      "summary": "Across 101 enterprises, the context feeding AI agents is failing often and repeatedly. Sixty-eight percent have traced a confident but wrong agent answer to missing or inconsistent business context in the past six months, and the single most common answer is not &quot;once&quot; but &quot;more than once.&quot; The counterintuitive part is which companies report it. Enterprises building or running a governed semantic layer (a layer of company-specific definitions and relationships) report recurring failures at more than twice the rate of those without one.The infrastructure built to fix bad con",
-      "source": "VentureBeat",
-      "score": 7.7,
-      "published": "2026-08-12T07:30:00+00:00",
-      "fetched_at": "2026-08-12T16:57:38.269852+00:00"
-    },
-    {
       "id": "45fca7a46b39",
       "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
       "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
@@ -343,5 +333,5 @@
     "https://www.learningguild.com/articles/from-content-to-capability-danielle-eisenach-reichel-on-the-future-of-learning-leadership",
     "https://www.fastcompany.com/91586587/thrivent-ceo-terry-rasmussen-everything-i-need-to-know-about-business-i-learned-from-cleaning-peoples-teeth-technology-leadership-career-advice-management?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-13T22:08:42.741212+00:00"
+  "generated_at": "2026-08-14T00:07:41.307422+00:00"
 }
